@@ -1,0 +1,2001 @@
+business_id,name,city,state,stars,review_count,is_open,categories,survived,primary_category,competition_density,rating_bucket,log_reviews,stars_zscore
+biz_0,Business 0,Pittsburgh,PA,4.0,845,1,Pizza,1,Pizza,35,3,6.740519359606223,0.911
+biz_1,Business 1,Cleveland,NC,3.0,1193,1,Restaurants,1,Restaurants,46,2,7.085064293952548,0.052
+biz_2,Business 2,Charlotte,NV,3.5,1717,0,Hotels,0,Hotels,41,3,7.4489161025442,0.534
+biz_3,Business 3,Cleveland,AZ,2.0,366,0,Restaurants,0,Restaurants,46,1,5.905361848054571,-0.825
+biz_4,Business 4,Cleveland,OH,4.0,1202,1,Beauty & Spas,1,Beauty & Spas,40,3,7.0925737159746784,0.917
+biz_5,Business 5,Las Vegas,OH,2.5,655,1,Automotive,1,Automotive,55,2,6.486160788944089,-0.446
+biz_6,Business 6,Charlotte,AZ,3.0,1386,1,Hotels,1,Hotels,41,2,7.234898420314831,0.098
+biz_7,Business 7,Charlotte,AZ,3.5,760,0,Bars,0,Bars,26,3,6.634633357861686,0.467
+biz_8,Business 8,Charlotte,NV,4.5,639,1,Coffee & Tea,1,Coffee & Tea,31,4,6.461468176353717,1.211
+biz_9,Business 9,Cleveland,NC,1.5,1799,0,Bars,0,Bars,39,1,7.495541943884256,-1.265
+biz_10,Business 10,Pittsburgh,OH,4.5,1064,1,Beauty & Spas,1,Beauty & Spas,33,4,6.970730078143525,1.358
+biz_11,Business 11,Charlotte,NV,2.0,924,1,Automotive,1,Automotive,47,1,6.829793737512425,-0.893
+biz_12,Business 12,Cleveland,NC,3.0,416,1,Retail,1,Retail,41,2,6.0330862217988015,0.041
+biz_13,Business 13,Las Vegas,NV,1.0,1379,0,Hotels,0,Hotels,40,1,7.22983877815125,-1.644
+biz_14,Business 14,Pittsburgh,OH,2.0,255,0,Restaurants,0,Restaurants,44,1,5.545177444479562,-0.825
+biz_15,Business 15,Las Vegas,AZ,3.0,1167,1,Hotels,1,Hotels,40,2,7.0630481633881725,0.098
+biz_16,Business 16,Pittsburgh,AZ,1.0,1776,1,Coffee & Tea,1,Coffee & Tea,38,1,7.482681828154651,-1.675
+biz_17,Business 17,Cleveland,NC,3.0,1764,1,Restaurants,1,Restaurants,46,2,7.475905969367397,0.052
+biz_18,Business 18,Phoenix,PA,4.5,1877,1,Retail,1,Retail,33,4,7.537962659768208,1.297
+biz_19,Business 19,Pittsburgh,NC,1.5,710,1,Retail,1,Retail,56,1,6.566672429803241,-1.215
+biz_20,Business 20,Las Vegas,PA,4.0,577,0,Pizza,0,Pizza,38,3,6.359573868672378,0.911
+biz_21,Business 21,Cleveland,NV,2.5,900,1,Restaurants,1,Restaurants,46,2,6.803505257608338,-0.387
+biz_22,Business 22,Pittsburgh,NV,3.5,11,1,Shopping,1,Shopping,34,3,2.4849066497880004,0.299
+biz_23,Business 23,Phoenix,OH,2.0,1644,1,Automotive,1,Automotive,48,1,7.405495663199472,-0.893
+biz_24,Business 24,Phoenix,PA,1.5,26,0,Shopping,0,Shopping,35,1,3.295836866004329,-1.314
+biz_25,Business 25,Charlotte,OH,1.5,957,1,Retail,1,Retail,38,1,6.86484777797086,-1.215
+biz_26,Business 26,Charlotte,AZ,1.5,421,1,Restaurants,1,Restaurants,33,1,6.045005314036012,-1.263
+biz_27,Business 27,Las Vegas,PA,1.5,1687,1,Pizza,1,Pizza,38,1,7.431299675155903,-1.222
+biz_28,Business 28,Pittsburgh,NC,3.5,1245,1,Hotels,1,Hotels,44,3,7.1276936993473985,0.534
+biz_29,Business 29,Pittsburgh,AZ,4.5,1877,0,Hotels,0,Hotels,44,4,7.537962659768208,1.405
+biz_30,Business 30,Charlotte,AZ,4.5,496,1,Hotels,1,Hotels,41,4,6.208590026096629,1.405
+biz_31,Business 31,Pittsburgh,NC,3.5,1261,1,Pizza,1,Pizza,35,3,7.140453043101158,0.484
+biz_32,Business 32,Pittsburgh,AZ,1.5,237,1,Beauty & Spas,1,Beauty & Spas,33,1,5.472270673671475,-1.292
+biz_33,Business 33,Phoenix,PA,2.0,1009,1,Restaurants,1,Restaurants,40,1,6.917705609835305,-0.825
+biz_34,Business 34,Charlotte,OH,2.0,219,0,Shopping,0,Shopping,38,1,5.393627546352362,-0.911
+biz_35,Business 35,Cleveland,AZ,2.0,1511,1,Automotive,1,Automotive,46,1,7.321188556739478,-0.893
+biz_36,Business 36,Charlotte,PA,3.0,1960,0,Retail,0,Retail,38,2,7.581209826196346,0.041
+biz_37,Business 37,Cleveland,NV,3.0,461,1,Automotive,1,Automotive,46,2,6.135564891081739,0.0
+biz_38,Business 38,Phoenix,PA,2.5,663,1,Retail,1,Retail,33,2,6.498282149476434,-0.378
+biz_39,Business 39,Las Vegas,OH,2.5,635,1,Restaurants,1,Restaurants,32,2,6.455198563340122,-0.387
+biz_40,Business 40,Pittsburgh,PA,4.5,1168,1,Restaurants,1,Restaurants,44,4,7.063903961472068,1.366
+biz_41,Business 41,Phoenix,NC,4.0,990,0,Bars,0,Bars,43,3,6.898714534329988,0.9
+biz_42,Business 42,Pittsburgh,OH,2.0,189,1,Shopping,1,Shopping,34,1,5.247024072160486,-0.911
+biz_43,Business 43,Las Vegas,NV,4.5,255,1,Coffee & Tea,1,Coffee & Tea,41,4,5.545177444479562,1.211
+biz_44,Business 44,Las Vegas,NC,5.0,68,0,Retail,0,Retail,46,5,4.23410650459726,1.716
+biz_45,Business 45,Phoenix,PA,2.5,616,1,Health,1,Health,44,2,6.424869023905388,-0.356
+biz_46,Business 46,Las Vegas,OH,2.5,336,1,Coffee & Tea,1,Coffee & Tea,41,2,5.820082930352362,-0.438
+biz_47,Business 47,Cleveland,NV,3.0,671,0,Hotels,0,Hotels,56,2,6.51025834052315,0.098
+biz_48,Business 48,Las Vegas,NC,5.0,821,1,Automotive,1,Automotive,55,5,6.71174039505618,1.785
+biz_49,Business 49,Pittsburgh,NV,4.5,874,0,Restaurants,0,Restaurants,44,4,6.774223886357614,1.366
+biz_50,Business 50,Pittsburgh,PA,1.5,1433,1,Health,1,Health,39,1,7.2682230211595655,-1.225
+biz_51,Business 51,Pittsburgh,NV,2.5,300,0,Retail,0,Retail,56,2,5.707110264748875,-0.378
+biz_52,Business 52,Pittsburgh,AZ,3.0,1932,1,Beauty & Spas,1,Beauty & Spas,33,2,7.566828479208331,0.033
+biz_53,Business 53,Cleveland,NC,3.0,1626,1,Retail,1,Retail,41,2,7.394493107219038,0.041
+biz_54,Business 54,Charlotte,NV,2.0,357,1,Automotive,1,Automotive,47,1,5.8805329864007,-0.893
+biz_55,Business 55,Phoenix,PA,4.5,256,1,Retail,1,Retail,33,4,5.54907608489522,1.297
+biz_56,Business 56,Pittsburgh,PA,3.5,1008,1,Retail,1,Retail,56,3,6.9167150203536085,0.46
+biz_57,Business 57,Las Vegas,NV,4.5,353,1,Pizza,1,Pizza,38,4,5.869296913133774,1.337
+biz_58,Business 58,Pittsburgh,PA,4.5,1756,0,Shopping,0,Shopping,34,4,7.471363088187097,1.106
+biz_59,Business 59,Las Vegas,OH,4.0,1545,1,Coffee & Tea,1,Coffee & Tea,41,3,7.343426229147367,0.799
+biz_60,Business 60,Las Vegas,OH,3.0,524,1,Beauty & Spas,1,Beauty & Spas,36,2,6.263398262591624,0.033
+biz_61,Business 61,Pittsburgh,OH,3.5,1861,1,Restaurants,1,Restaurants,44,3,7.529406457837013,0.49
+biz_62,Business 62,Cleveland,AZ,1.5,950,1,Retail,1,Retail,41,1,6.85751406254539,-1.215
+biz_63,Business 63,Las Vegas,NV,3.5,756,1,Beauty & Spas,1,Beauty & Spas,36,3,6.6293632534374485,0.475
+biz_64,Business 64,Las Vegas,AZ,1.5,1718,1,Bars,1,Bars,37,1,7.449498005382849,-1.265
+biz_65,Business 65,Pittsburgh,PA,4.0,284,1,Retail,1,Retail,56,3,5.652489180268651,0.879
+biz_66,Business 66,Las Vegas,AZ,2.0,1336,0,Pizza,0,Pizza,38,1,7.198183577101943,-0.795
+biz_67,Business 67,Las Vegas,PA,1.5,99,1,Pizza,1,Pizza,38,1,4.605170185988092,-1.222
+biz_68,Business 68,Pittsburgh,PA,1.5,197,1,Health,1,Health,39,1,5.288267030694535,-1.225
+biz_69,Business 69,Pittsburgh,NC,1.0,482,1,Hotels,1,Hotels,44,1,6.180016653652572,-1.644
+biz_70,Business 70,Phoenix,OH,4.0,878,1,Automotive,1,Automotive,48,3,6.778784897685177,0.893
+biz_71,Business 71,Cleveland,PA,4.0,1250,0,Coffee & Tea,0,Coffee & Tea,41,3,7.1316985104669115,0.799
+biz_72,Business 72,Cleveland,NC,3.0,1869,1,Bars,1,Bars,39,2,7.533693709848633,0.034
+biz_73,Business 73,Las Vegas,OH,1.5,615,1,Automotive,1,Automotive,55,1,6.423246963533519,-1.339
+biz_74,Business 74,Cleveland,PA,1.5,618,0,Automotive,0,Automotive,46,1,6.428105272684596,-1.339
+biz_75,Business 75,Las Vegas,PA,1.0,1389,1,Health,1,Health,43,1,7.237059026124737,-1.66
+biz_76,Business 76,Phoenix,AZ,1.5,368,0,Pizza,0,Pizza,42,1,5.910796644040527,-1.222
+biz_77,Business 77,Pittsburgh,AZ,4.5,570,1,Shopping,1,Shopping,34,4,6.3473892096560105,1.106
+biz_78,Business 78,Pittsburgh,OH,2.0,590,0,Beauty & Spas,0,Beauty & Spas,33,1,6.3818160174060985,-0.85
+biz_79,Business 79,Pittsburgh,PA,2.5,1099,1,Restaurants,1,Restaurants,44,2,7.003065458786462,-0.387
+biz_80,Business 80,Cleveland,NV,1.5,1066,1,Shopping,1,Shopping,34,1,6.9726062513017535,-1.314
+biz_81,Business 81,Phoenix,AZ,2.0,422,1,Shopping,1,Shopping,35,1,6.0473721790462776,-0.911
+biz_82,Business 82,Cleveland,OH,3.0,836,1,Hotels,1,Hotels,56,2,6.729824070489475,0.098
+biz_83,Business 83,Cleveland,PA,3.5,1205,1,Hotels,1,Hotels,56,3,7.095064377287131,0.534
+biz_84,Business 84,Phoenix,PA,2.0,545,1,Shopping,1,Shopping,35,1,6.302618975744905,-0.911
+biz_85,Business 85,Phoenix,NV,1.0,71,0,Pizza,0,Pizza,42,1,4.276666119016055,-1.649
+biz_86,Business 86,Phoenix,OH,2.5,1592,1,Automotive,1,Automotive,48,2,7.373374309910049,-0.446
+biz_87,Business 87,Phoenix,PA,2.0,1129,0,Beauty & Spas,0,Beauty & Spas,53,1,7.029972911706386,-0.85
+biz_88,Business 88,Pittsburgh,AZ,2.0,1224,1,Automotive,1,Automotive,38,1,7.110696122978827,-0.893
+biz_89,Business 89,Charlotte,NV,5.0,1125,1,Automotive,1,Automotive,47,5,7.026426808699636,1.785
+biz_90,Business 90,Charlotte,OH,3.5,768,1,Automotive,1,Automotive,47,3,6.645090969505644,0.446
+biz_91,Business 91,Phoenix,NV,3.0,307,1,Beauty & Spas,1,Beauty & Spas,53,2,5.730099782973574,0.033
+biz_92,Business 92,Charlotte,AZ,2.5,1610,0,Beauty & Spas,0,Beauty & Spas,38,2,7.384610383176974,-0.409
+biz_93,Business 93,Charlotte,OH,2.5,1707,1,Health,1,Health,37,2,7.443078374348516,-0.356
+biz_94,Business 94,Phoenix,NV,3.0,377,1,Coffee & Tea,1,Coffee & Tea,41,2,5.934894195619588,-0.026
+biz_95,Business 95,Charlotte,NC,4.0,655,1,Shopping,1,Shopping,38,3,6.486160788944089,0.702
+biz_96,Business 96,Cleveland,AZ,4.0,678,1,Retail,1,Retail,41,3,6.520621127558696,0.879
+biz_97,Business 97,Las Vegas,AZ,1.5,399,0,Health,0,Health,43,1,5.991464547107982,-1.225
+biz_98,Business 98,Las Vegas,AZ,3.0,1797,1,Health,1,Health,43,2,7.494430215031565,0.079
+biz_99,Business 99,Phoenix,NC,2.5,221,1,Restaurants,1,Restaurants,40,2,5.402677381872279,-0.387
+biz_100,Business 100,Pittsburgh,NC,4.5,1619,1,Retail,1,Retail,56,4,7.3901814282264295,1.297
+biz_101,Business 101,Phoenix,PA,3.5,182,1,Hotels,1,Hotels,36,3,5.209486152841421,0.534
+biz_102,Business 102,Pittsburgh,NV,3.0,307,1,Restaurants,1,Restaurants,44,2,5.730099782973574,0.052
+biz_103,Business 103,Las Vegas,PA,1.5,522,1,Hotels,1,Hotels,40,1,6.259581464064923,-1.209
+biz_104,Business 104,Phoenix,NV,3.5,1420,0,Coffee & Tea,0,Coffee & Tea,41,3,7.259116128097101,0.387
+biz_105,Business 105,Cleveland,NC,1.5,1014,1,Bars,1,Bars,39,1,6.922643891475888,-1.265
+biz_106,Business 106,Charlotte,NC,2.5,4,1,Hotels,1,Hotels,41,2,1.6094379124341003,-0.337
+biz_107,Business 107,Pittsburgh,PA,1.5,863,1,Automotive,1,Automotive,38,1,6.761572768804055,-1.339
+biz_108,Business 108,Charlotte,OH,4.0,1938,1,Hotels,1,Hotels,41,3,7.569927655242652,0.97
+biz_109,Business 109,Charlotte,PA,2.0,848,1,Retail,1,Retail,38,1,6.744059186311348,-0.796
+biz_110,Business 110,Phoenix,NV,2.5,804,1,Beauty & Spas,1,Beauty & Spas,53,2,6.690842277418564,-0.409
+biz_111,Business 111,Charlotte,PA,4.5,1305,1,Retail,1,Retail,38,4,7.174724309836376,1.297
+biz_112,Business 112,Cleveland,AZ,2.0,215,1,Coffee & Tea,1,Coffee & Tea,41,1,5.375278407684165,-0.85
+biz_113,Business 113,Charlotte,NV,3.0,972,1,Health,1,Health,37,2,6.880384082186005,0.079
+biz_114,Business 114,Phoenix,NV,2.5,1634,1,Automotive,1,Automotive,48,2,7.399398083331354,-0.446
+biz_115,Business 115,Cleveland,OH,1.0,1444,0,Bars,0,Bars,39,1,7.275864600546533,-1.698
+biz_116,Business 116,Las Vegas,NC,4.0,101,1,Coffee & Tea,1,Coffee & Tea,41,3,4.624972813284271,0.799
+biz_117,Business 117,Charlotte,NV,1.5,963,1,Health,1,Health,37,1,6.871091294610546,-1.225
+biz_118,Business 118,Phoenix,NC,3.0,1545,1,Pizza,1,Pizza,42,2,7.343426229147367,0.058
+biz_119,Business 119,Las Vegas,PA,3.0,573,1,Retail,1,Retail,46,2,6.352629396319567,0.041
+biz_120,Business 120,Las Vegas,AZ,3.5,1333,1,Coffee & Tea,1,Coffee & Tea,41,3,7.195937226475569,0.387
+biz_121,Business 121,Pittsburgh,OH,4.0,658,1,Retail,1,Retail,56,3,6.490723534502507,0.879
+biz_122,Business 122,Cleveland,NC,2.0,939,0,Bars,0,Bars,39,1,6.84587987526405,-0.832
+biz_123,Business 123,Charlotte,NV,1.0,1955,1,Health,1,Health,37,1,7.578656850594762,-1.66
+biz_124,Business 124,Phoenix,NC,4.0,1534,1,Retail,1,Retail,33,3,7.336285660021297,0.879
+biz_125,Business 125,Pittsburgh,NV,3.0,1087,1,Beauty & Spas,1,Beauty & Spas,33,2,6.992096427415888,0.033
+biz_126,Business 126,Cleveland,NC,4.5,1657,1,Hotels,1,Hotels,56,4,7.4133673356952405,1.405
+biz_127,Business 127,Pittsburgh,NV,4.5,226,1,Restaurants,1,Restaurants,44,4,5.424950017481403,1.366
+biz_128,Business 128,Cleveland,PA,4.5,105,1,Bars,1,Bars,39,4,4.663439094112067,1.333
+biz_129,Business 129,Cleveland,NV,3.0,1998,1,Restaurants,1,Restaurants,46,2,7.6004023345004,0.052
+biz_130,Business 130,Charlotte,NV,2.5,772,1,Shopping,1,Shopping,38,2,6.650279048587422,-0.508
+biz_131,Business 131,Cleveland,AZ,4.0,1885,1,Hotels,1,Hotels,56,3,7.542213463193403,0.97
+biz_132,Business 132,Pittsburgh,NV,3.0,1449,1,Bars,1,Bars,35,2,7.27931883541462,0.034
+biz_133,Business 133,Cleveland,AZ,1.5,1279,1,Coffee & Tea,1,Coffee & Tea,41,1,7.154615356913663,-1.263
+biz_134,Business 134,Charlotte,OH,4.5,429,1,Beauty & Spas,1,Beauty & Spas,38,4,6.063785208687608,1.358
+biz_135,Business 135,Charlotte,AZ,4.5,434,1,Coffee & Tea,1,Coffee & Tea,31,4,6.075346031088684,1.211
+biz_136,Business 136,Pittsburgh,PA,3.0,1231,1,Pizza,1,Pizza,35,2,7.116394144093465,0.058
+biz_137,Business 137,Las Vegas,AZ,1.5,1052,1,Shopping,1,Shopping,33,1,6.959398512133975,-1.314
+biz_138,Business 138,Las Vegas,OH,2.5,682,1,Beauty & Spas,1,Beauty & Spas,36,2,6.52649485957079,-0.409
+biz_139,Business 139,Cleveland,PA,4.0,1360,1,Retail,1,Retail,41,3,7.215975002651466,0.879
+biz_140,Business 140,Phoenix,NC,4.5,588,1,Retail,1,Retail,33,4,6.3784261836515865,1.297
+biz_141,Business 141,Cleveland,NC,2.0,1652,1,Automotive,1,Automotive,46,1,7.410347097821024,-0.893
+biz_142,Business 142,Pittsburgh,AZ,1.5,1093,1,Retail,1,Retail,56,1,6.9975959829819265,-1.215
+biz_143,Business 143,Pittsburgh,AZ,4.5,866,1,Health,1,Health,39,4,6.7650389767805414,1.383
+biz_144,Business 144,Pittsburgh,OH,2.5,746,0,Shopping,0,Shopping,34,2,6.616065185132817,-0.508
+biz_145,Business 145,Pittsburgh,OH,3.0,1537,1,Health,1,Health,39,2,7.338238150065589,0.079
+biz_146,Business 146,Pittsburgh,NV,5.0,1191,1,Hotels,1,Hotels,44,5,7.083387847625295,1.841
+biz_147,Business 147,Charlotte,OH,1.5,864,1,Automotive,1,Automotive,47,1,6.762729506931879,-1.339
+biz_148,Business 148,Las Vegas,NV,3.5,1754,1,Automotive,1,Automotive,55,3,7.470224135899966,0.446
+biz_149,Business 149,Pittsburgh,PA,1.5,1809,0,Retail,0,Retail,56,1,7.501082124259871,-1.215
+biz_150,Business 150,Phoenix,AZ,2.5,368,0,Beauty & Spas,0,Beauty & Spas,53,2,5.910796644040527,-0.409
+biz_151,Business 151,Phoenix,PA,4.0,251,1,Hotels,1,Hotels,36,3,5.529429087511423,0.97
+biz_152,Business 152,Phoenix,OH,2.5,859,1,Pizza,1,Pizza,42,2,6.756932389247553,-0.369
+biz_153,Business 153,Phoenix,PA,5.0,856,1,Shopping,1,Shopping,35,5,6.75343791859778,1.509
+biz_154,Business 154,Charlotte,PA,3.0,1955,0,Shopping,0,Shopping,38,2,7.578656850594762,-0.104
+biz_155,Business 155,Phoenix,PA,2.5,1710,0,Bars,0,Bars,43,2,7.444833273892193,-0.399
+biz_156,Business 156,Pittsburgh,OH,2.0,1194,1,Coffee & Tea,1,Coffee & Tea,38,1,7.085901464365611,-0.85
+biz_157,Business 157,Cleveland,PA,2.5,1782,1,Retail,1,Retail,41,2,7.48605261786314,-0.378
+biz_158,Business 158,Phoenix,NV,2.5,1959,1,Bars,1,Bars,43,2,7.580699752224563,-0.399
+biz_159,Business 159,Charlotte,OH,1.5,1114,1,Pizza,1,Pizza,50,1,7.016609683894219,-1.222
+biz_160,Business 160,Charlotte,PA,2.5,561,1,Automotive,1,Automotive,47,2,6.331501849893691,-0.446
+biz_161,Business 161,Phoenix,OH,3.0,1470,0,Restaurants,0,Restaurants,40,2,7.293697720601438,0.052
+biz_162,Business 162,Cleveland,NC,4.0,294,0,Pizza,0,Pizza,42,3,5.68697535633982,0.911
+biz_163,Business 163,Phoenix,NV,3.5,919,1,Pizza,1,Pizza,42,3,6.824373670043086,0.484
+biz_164,Business 164,Charlotte,PA,4.0,1174,1,Beauty & Spas,1,Beauty & Spas,38,3,7.069023426578259,0.917
+biz_165,Business 165,Las Vegas,NC,1.0,1156,1,Beauty & Spas,1,Beauty & Spas,36,1,7.053585727193677,-1.734
+biz_166,Business 166,Pittsburgh,NC,2.0,433,1,Beauty & Spas,1,Beauty & Spas,33,1,6.073044534100405,-0.85
+biz_167,Business 167,Charlotte,OH,3.5,59,1,Beauty & Spas,1,Beauty & Spas,38,3,4.0943445622221,0.475
+biz_168,Business 168,Phoenix,NC,3.0,969,1,Coffee & Tea,1,Coffee & Tea,41,2,6.877296071497429,-0.026
+biz_169,Business 169,Pittsburgh,NV,1.0,836,1,Retail,1,Retail,56,1,6.729824070489475,-1.634
+biz_170,Business 170,Phoenix,NV,4.0,199,0,Shopping,0,Shopping,35,3,5.298317366548036,0.702
+biz_171,Business 171,Phoenix,AZ,4.0,215,1,Retail,1,Retail,33,3,5.375278407684165,0.879
+biz_172,Business 172,Las Vegas,NV,3.0,898,1,Retail,1,Retail,46,2,6.80128303447162,0.041
+biz_173,Business 173,Pittsburgh,NC,1.5,1585,1,Shopping,1,Shopping,34,1,7.368970402194793,-1.314
+biz_174,Business 174,Pittsburgh,NV,4.0,472,1,Beauty & Spas,1,Beauty & Spas,33,3,6.159095388491933,0.917
+biz_175,Business 175,Las Vegas,OH,3.5,1768,0,Retail,0,Retail,46,3,7.478169694159785,0.46
+biz_176,Business 176,Charlotte,AZ,4.0,247,1,Coffee & Tea,1,Coffee & Tea,31,3,5.5134287461649825,0.799
+biz_177,Business 177,Phoenix,NC,4.0,382,0,Beauty & Spas,0,Beauty & Spas,53,3,5.948034989180646,0.917
+biz_178,Business 178,Cleveland,AZ,4.0,991,1,Coffee & Tea,1,Coffee & Tea,41,3,6.899723107284872,0.799
+biz_179,Business 179,Phoenix,NC,3.0,1263,1,Bars,1,Bars,43,2,7.142036574706803,0.034
+biz_180,Business 180,Phoenix,OH,1.5,927,1,Retail,1,Retail,33,1,6.833031732786201,-1.215
+biz_181,Business 181,Charlotte,AZ,3.5,1391,1,Health,1,Health,37,3,7.238496840894365,0.514
+biz_182,Business 182,Phoenix,PA,3.5,1192,1,Coffee & Tea,1,Coffee & Tea,41,3,7.084226422097916,0.387
+biz_183,Business 183,Las Vegas,NC,4.0,560,1,Bars,1,Bars,37,3,6.329720905522696,0.9
+biz_184,Business 184,Las Vegas,PA,1.5,1075,1,Hotels,1,Hotels,40,1,6.98100574072173,-1.209
+biz_185,Business 185,Pittsburgh,AZ,2.0,1835,0,Hotels,0,Hotels,44,1,7.515344571180436,-0.773
+biz_186,Business 186,Cleveland,PA,4.5,1634,1,Bars,1,Bars,39,4,7.399398083331354,1.333
+biz_187,Business 187,Phoenix,PA,4.0,1975,1,Automotive,1,Automotive,48,3,7.588829878307813,0.893
+biz_188,Business 188,Phoenix,AZ,4.5,1752,1,Automotive,1,Automotive,48,4,7.469083884921234,1.339
+biz_189,Business 189,Charlotte,OH,4.0,689,1,Beauty & Spas,1,Beauty & Spas,38,3,6.536691597591305,0.917
+biz_190,Business 190,Las Vegas,PA,3.5,380,1,Automotive,1,Automotive,55,3,5.942799375126701,0.446
+biz_191,Business 191,Cleveland,PA,3.5,474,1,Hotels,1,Hotels,56,3,6.163314804034641,0.534
+biz_192,Business 192,Pittsburgh,OH,4.5,1104,0,Automotive,0,Automotive,38,4,7.007600613951853,1.339
+biz_193,Business 193,Las Vegas,PA,3.5,697,1,Health,1,Health,43,3,6.548219102762372,0.514
+biz_194,Business 194,Pittsburgh,PA,3.5,1391,1,Hotels,1,Hotels,44,3,7.238496840894365,0.534
+biz_195,Business 195,Charlotte,PA,1.5,1485,1,Coffee & Tea,1,Coffee & Tea,31,1,7.303843225277705,-1.263
+biz_196,Business 196,Charlotte,NV,3.0,911,1,Pizza,1,Pizza,50,2,6.815639990074331,0.058
+biz_197,Business 197,Phoenix,OH,4.0,1563,1,Automotive,1,Automotive,48,3,7.355001921105257,0.893
+biz_198,Business 198,Cleveland,PA,2.0,1476,1,Automotive,1,Automotive,46,1,7.29776828253138,-0.893
+biz_199,Business 199,Pittsburgh,OH,2.0,1488,1,Retail,1,Retail,56,1,7.305860032684009,-0.796
+biz_200,Business 200,Las Vegas,NC,2.5,960,0,Shopping,0,Shopping,33,2,6.8679744089702925,-0.508
+biz_201,Business 201,Charlotte,NC,2.0,478,1,Health,1,Health,37,1,6.171700597410915,-0.791
+biz_202,Business 202,Phoenix,PA,2.0,1004,1,Hotels,1,Hotels,36,1,6.912742820493176,-0.773
+biz_203,Business 203,Phoenix,OH,2.5,926,1,Hotels,1,Hotels,36,2,6.831953565565855,-0.337
+biz_204,Business 204,Pittsburgh,OH,4.5,1444,1,Restaurants,1,Restaurants,44,4,7.275864600546533,1.366
+biz_205,Business 205,Charlotte,OH,3.0,707,1,Shopping,1,Shopping,38,2,6.56244409369372,-0.104
+biz_206,Business 206,Cleveland,NV,2.0,1238,1,Automotive,1,Automotive,46,1,7.122059881629142,-0.893
+biz_207,Business 207,Charlotte,NC,1.5,1393,0,Bars,0,Bars,26,1,7.2399325913204695,-1.265
+biz_208,Business 208,Pittsburgh,OH,4.0,854,1,Retail,1,Retail,56,3,6.75110146893676,0.879
+biz_209,Business 209,Pittsburgh,OH,2.5,1138,1,Coffee & Tea,1,Coffee & Tea,38,2,7.037905963447182,-0.438
+biz_210,Business 210,Charlotte,NV,4.5,1017,1,Retail,1,Retail,38,4,6.925595197110468,1.297
+biz_211,Business 211,Pittsburgh,NV,3.5,754,1,Automotive,1,Automotive,38,3,6.626717749249025,0.446
+biz_212,Business 212,Charlotte,OH,4.0,503,1,Restaurants,1,Restaurants,33,3,6.222576268071369,0.928
+biz_213,Business 213,Las Vegas,AZ,2.0,1660,1,Pizza,1,Pizza,38,1,7.415175109613295,-0.795
+biz_214,Business 214,Charlotte,OH,4.0,817,1,Hotels,1,Hotels,41,3,6.706862336602747,0.97
+biz_215,Business 215,Charlotte,OH,2.0,588,0,Coffee & Tea,0,Coffee & Tea,31,1,6.3784261836515865,-0.85
+biz_216,Business 216,Pittsburgh,NV,5.0,1335,1,Shopping,1,Shopping,34,5,7.197435354096591,1.509
+biz_217,Business 217,Pittsburgh,NV,3.5,1493,1,Automotive,1,Automotive,38,3,7.309212365692763,0.446
+biz_218,Business 218,Phoenix,OH,2.5,1848,1,Health,1,Health,44,2,7.522400231387125,-0.356
+biz_219,Business 219,Phoenix,OH,2.0,708,1,Bars,1,Bars,43,1,6.5638555265321274,-0.832
+biz_220,Business 220,Las Vegas,OH,2.0,1887,1,Retail,1,Retail,46,1,7.543273346705446,-0.796
+biz_221,Business 221,Phoenix,NV,4.0,1068,1,Restaurants,1,Restaurants,40,3,6.974478911025045,0.928
+biz_222,Business 222,Charlotte,OH,2.0,1439,1,Pizza,1,Pizza,50,1,7.272398392570047,-0.795
+biz_223,Business 223,Pittsburgh,OH,3.5,1722,1,Beauty & Spas,1,Beauty & Spas,33,3,7.45182223652793,0.475
+biz_224,Business 224,Phoenix,PA,2.0,1879,1,Bars,1,Bars,43,1,7.539027055823995,-0.832
+biz_225,Business 225,Phoenix,AZ,3.5,1270,1,Automotive,1,Automotive,48,3,7.147559271189454,0.446
+biz_226,Business 226,Las Vegas,NC,4.5,1973,1,Pizza,1,Pizza,38,4,7.587817219993427,1.337
+biz_227,Business 227,Las Vegas,AZ,4.0,1108,1,Bars,1,Bars,37,3,7.011213987350367,0.9
+biz_228,Business 228,Charlotte,PA,4.0,207,1,Bars,1,Bars,26,3,5.337538079701318,0.9
+biz_229,Business 229,Pittsburgh,NC,2.0,151,0,Hotels,0,Hotels,44,1,5.0238805208462765,-0.773
+biz_230,Business 230,Las Vegas,OH,1.5,668,1,Bars,1,Bars,37,1,6.505784060128229,-1.265
+biz_231,Business 231,Phoenix,PA,4.0,528,1,Health,1,Health,44,3,6.270988431858299,0.949
+biz_232,Business 232,Pittsburgh,OH,2.5,165,1,Pizza,1,Pizza,35,2,5.111987788356544,-0.369
+biz_233,Business 233,Pittsburgh,NV,2.5,917,1,Automotive,1,Automotive,38,2,6.822197390620491,-0.446
+biz_234,Business 234,Phoenix,PA,1.0,1999,1,Automotive,1,Automotive,48,1,7.600902459542082,-1.785
+biz_235,Business 235,Las Vegas,NV,2.0,1169,0,Health,0,Health,43,1,7.064759027791802,-0.791
+biz_236,Business 236,Phoenix,PA,1.0,1010,1,Shopping,1,Shopping,35,1,6.918695219020472,-1.718
+biz_237,Business 237,Pittsburgh,PA,4.5,37,1,Pizza,1,Pizza,35,4,3.6375861597263857,1.337
+biz_238,Business 238,Cleveland,NV,2.0,333,1,Bars,1,Bars,39,1,5.811140992976701,-0.832
+biz_239,Business 239,Cleveland,NC,3.0,403,0,Restaurants,0,Restaurants,46,2,6.0014148779611505,0.052
+biz_240,Business 240,Charlotte,AZ,1.0,414,1,Coffee & Tea,1,Coffee & Tea,31,1,6.028278520230698,-1.675
+biz_241,Business 241,Phoenix,OH,3.5,45,1,Pizza,1,Pizza,42,3,3.828641396489095,0.484
+biz_242,Business 242,Phoenix,PA,2.5,1426,1,Beauty & Spas,1,Beauty & Spas,53,2,7.2633296174768365,-0.409
+biz_243,Business 243,Charlotte,OH,4.5,206,1,Restaurants,1,Restaurants,33,4,5.332718793265369,1.366
+biz_244,Business 244,Charlotte,NV,4.5,62,1,Health,1,Health,37,4,4.143134726391533,1.383
+biz_245,Business 245,Charlotte,OH,2.5,420,1,Bars,1,Bars,26,2,6.042632833682381,-0.399
+biz_246,Business 246,Pittsburgh,NV,4.5,868,1,Shopping,1,Shopping,34,4,6.767343125265392,1.106
+biz_247,Business 247,Phoenix,OH,5.0,1492,0,Beauty & Spas,0,Beauty & Spas,53,5,7.30854279753919,1.8
+biz_248,Business 248,Pittsburgh,AZ,4.5,820,1,Shopping,1,Shopping,34,4,6.710523109452428,1.106
+biz_249,Business 249,Charlotte,AZ,4.5,19,1,Shopping,1,Shopping,38,4,2.995732273553991,1.106
+biz_250,Business 250,Phoenix,AZ,2.0,365,0,Retail,0,Retail,33,1,5.902633333401366,-0.796
+biz_251,Business 251,Pittsburgh,AZ,3.5,1324,1,Hotels,1,Hotels,44,3,7.1891677384203225,0.534
+biz_252,Business 252,Pittsburgh,AZ,1.5,1031,1,Beauty & Spas,1,Beauty & Spas,33,1,6.939253946041508,-1.292
+biz_253,Business 253,Charlotte,AZ,1.5,1785,1,Coffee & Tea,1,Coffee & Tea,31,1,7.487733761436444,-1.263
+biz_254,Business 254,Phoenix,NV,5.0,428,1,Hotels,1,Hotels,36,5,6.061456918928017,1.841
+biz_255,Business 255,Charlotte,PA,2.5,1141,1,Beauty & Spas,1,Beauty & Spas,38,2,7.040536390215956,-0.409
+biz_256,Business 256,Phoenix,OH,4.0,580,1,Shopping,1,Shopping,35,3,6.364750756851911,0.702
+biz_257,Business 257,Cleveland,AZ,4.0,1531,1,Hotels,1,Hotels,56,3,7.3343293503005365,0.97
+biz_258,Business 258,Las Vegas,NV,4.5,546,1,Beauty & Spas,1,Beauty & Spas,36,4,6.304448802421981,1.358
+biz_259,Business 259,Las Vegas,NV,5.0,1730,1,Coffee & Tea,1,Coffee & Tea,41,5,7.456454555176209,1.624
+biz_260,Business 260,Las Vegas,NV,2.0,325,1,Restaurants,1,Restaurants,32,1,5.786897381366708,-0.825
+biz_261,Business 261,Charlotte,PA,1.0,55,1,Pizza,1,Pizza,50,1,4.02535169073515,-1.649
+biz_262,Business 262,Cleveland,OH,2.5,778,0,Bars,0,Bars,39,2,6.658011045870748,-0.399
+biz_263,Business 263,Phoenix,PA,1.5,992,0,Beauty & Spas,0,Beauty & Spas,53,1,6.900730664045173,-1.292
+biz_264,Business 264,Pittsburgh,NC,1.0,42,1,Coffee & Tea,1,Coffee & Tea,38,1,3.7612001156935624,-1.675
+biz_265,Business 265,Phoenix,NV,2.5,1321,1,Pizza,1,Pizza,42,2,7.186901020411631,-0.369
+biz_266,Business 266,Pittsburgh,NC,4.0,1997,0,Hotels,0,Hotels,44,3,7.599901959208498,0.97
+biz_267,Business 267,Phoenix,AZ,3.5,231,1,Beauty & Spas,1,Beauty & Spas,53,3,5.44673737166631,0.475
+biz_268,Business 268,Cleveland,AZ,2.5,453,0,Beauty & Spas,0,Beauty & Spas,40,2,6.118097198041348,-0.409
+biz_269,Business 269,Pittsburgh,PA,3.5,1914,1,Health,1,Health,39,3,7.557472901614746,0.514
+biz_270,Business 270,Charlotte,OH,2.0,394,1,Beauty & Spas,1,Beauty & Spas,38,1,5.978885764901122,-0.85
+biz_271,Business 271,Phoenix,NC,1.0,1546,1,Bars,1,Bars,43,1,7.344072850573066,-1.698
+biz_272,Business 272,Phoenix,OH,4.0,1382,1,Health,1,Health,44,3,7.232010331664759,0.949
+biz_273,Business 273,Pittsburgh,PA,3.5,1468,0,Pizza,0,Pizza,35,3,7.292337176173877,0.484
+biz_274,Business 274,Charlotte,AZ,4.0,1152,1,Hotels,1,Hotels,41,3,7.050122520269059,0.97
+biz_275,Business 275,Charlotte,OH,1.0,691,1,Hotels,1,Hotels,41,1,6.539585955617669,-1.644
+biz_276,Business 276,Cleveland,OH,4.5,1429,1,Automotive,1,Automotive,46,4,7.265429723253953,1.339
+biz_277,Business 277,Charlotte,AZ,3.5,392,1,Automotive,1,Automotive,47,3,5.973809611869261,0.446
+biz_278,Business 278,Charlotte,NC,3.5,1217,1,Pizza,1,Pizza,50,3,7.1049654482698426,0.484
+biz_279,Business 279,Charlotte,AZ,3.5,604,1,Retail,1,Retail,38,3,6.405228458030842,0.46
+biz_280,Business 280,Las Vegas,OH,4.5,881,0,Coffee & Tea,0,Coffee & Tea,41,4,6.782192056006791,1.211
+biz_281,Business 281,Cleveland,NC,3.5,1767,1,Retail,1,Retail,41,3,7.477604243197589,0.46
+biz_282,Business 282,Phoenix,NC,3.5,1102,1,Coffee & Tea,1,Coffee & Tea,41,3,7.005789019253503,0.387
+biz_283,Business 283,Pittsburgh,AZ,5.0,85,0,Health,0,Health,39,5,4.454347296253507,1.818
+biz_284,Business 284,Phoenix,OH,4.0,1054,1,Pizza,1,Pizza,42,3,6.961296045910167,0.911
+biz_285,Business 285,Cleveland,PA,3.0,1749,1,Coffee & Tea,1,Coffee & Tea,41,2,7.4673710669175595,-0.026
+biz_286,Business 286,Pittsburgh,OH,4.0,49,1,Automotive,1,Automotive,38,3,3.912023005428146,0.893
+biz_287,Business 287,Cleveland,NV,2.5,1801,1,Automotive,1,Automotive,46,2,7.496652438168283,-0.446
+biz_288,Business 288,Charlotte,PA,2.0,1169,1,Shopping,1,Shopping,38,1,7.064759027791802,-0.911
+biz_289,Business 289,Pittsburgh,NC,3.5,69,1,Coffee & Tea,1,Coffee & Tea,38,3,4.248495242049359,0.387
+biz_290,Business 290,Charlotte,PA,4.5,1082,0,Pizza,0,Pizza,50,4,6.9874902470009905,1.337
+biz_291,Business 291,Phoenix,NC,4.5,697,1,Restaurants,1,Restaurants,40,4,6.548219102762372,1.366
+biz_292,Business 292,Phoenix,NC,2.5,1598,0,Health,0,Health,44,2,7.377133712833954,-0.356
+biz_293,Business 293,Pittsburgh,PA,3.0,479,1,Beauty & Spas,1,Beauty & Spas,33,2,6.173786103901937,0.033
+biz_294,Business 294,Pittsburgh,NC,2.0,820,1,Beauty & Spas,1,Beauty & Spas,33,1,6.710523109452428,-0.85
+biz_295,Business 295,Cleveland,NC,5.0,1469,1,Coffee & Tea,1,Coffee & Tea,41,5,7.293017679772782,1.624
+biz_296,Business 296,Cleveland,NV,5.0,1320,1,Retail,1,Retail,41,5,7.186144304522325,1.716
+biz_297,Business 297,Charlotte,OH,3.5,1702,1,Health,1,Health,37,3,7.440146680662688,0.514
+biz_298,Business 298,Pittsburgh,OH,4.0,1195,1,Hotels,1,Hotels,44,3,7.086737934510577,0.97
+biz_299,Business 299,Phoenix,NV,4.0,1599,1,Bars,1,Bars,43,3,7.3777589082278725,0.9
+biz_300,Business 300,Cleveland,PA,3.5,147,1,Beauty & Spas,1,Beauty & Spas,40,3,4.997212273764115,0.475
+biz_301,Business 301,Cleveland,AZ,1.0,1508,1,Automotive,1,Automotive,46,1,7.319202458767849,-1.785
+biz_302,Business 302,Phoenix,AZ,3.0,1330,0,Health,0,Health,44,2,7.193685818395112,0.079
+biz_303,Business 303,Cleveland,AZ,3.5,1697,1,Retail,1,Retail,41,3,7.437206366871292,0.46
+biz_304,Business 304,Charlotte,NV,3.5,1677,0,Pizza,0,Pizza,50,3,7.425357887027151,0.484
+biz_305,Business 305,Pittsburgh,NV,2.5,1870,1,Retail,1,Retail,56,2,7.534228326274089,-0.378
+biz_306,Business 306,Phoenix,NC,5.0,1016,1,Health,1,Health,44,5,6.92461239604856,1.818
+biz_307,Business 307,Pittsburgh,AZ,1.5,609,1,Hotels,1,Hotels,44,1,6.413458957167357,-1.209
+biz_308,Business 308,Cleveland,PA,3.0,446,0,Beauty & Spas,0,Beauty & Spas,40,2,6.102558594613569,0.033
+biz_309,Business 309,Cleveland,PA,4.0,221,0,Automotive,0,Automotive,46,3,5.402677381872279,0.893
+biz_310,Business 310,Phoenix,AZ,4.0,1579,1,Restaurants,1,Restaurants,40,3,7.365180126021013,0.928
+biz_311,Business 311,Charlotte,AZ,3.5,1969,1,Pizza,1,Pizza,50,3,7.585788821732034,0.484
+biz_312,Business 312,Las Vegas,AZ,2.0,1828,1,Automotive,1,Automotive,55,1,7.511524648390866,-0.893
+biz_313,Business 313,Phoenix,NV,1.5,1402,1,Hotels,1,Hotels,36,1,7.246368080102461,-1.209
+biz_314,Business 314,Las Vegas,NV,3.5,1644,1,Bars,1,Bars,37,3,7.405495663199472,0.467
+biz_315,Business 315,Las Vegas,NV,3.5,1290,1,Hotels,1,Hotels,40,3,7.1631723908466425,0.534
+biz_316,Business 316,Charlotte,OH,1.5,95,1,Hotels,1,Hotels,41,1,4.564348191467836,-1.209
+biz_317,Business 317,Las Vegas,PA,4.0,262,1,Beauty & Spas,1,Beauty & Spas,36,3,5.572154032177765,0.917
+biz_318,Business 318,Las Vegas,PA,3.0,1849,1,Health,1,Health,43,2,7.52294091807237,0.079
+biz_319,Business 319,Charlotte,NC,3.5,897,1,Health,1,Health,37,3,6.8001700683022,0.514
+biz_320,Business 320,Las Vegas,NV,4.5,1095,0,Automotive,0,Automotive,55,4,6.999422467507961,1.339
+biz_321,Business 321,Las Vegas,OH,1.5,1978,1,Bars,1,Bars,37,1,7.590346945602565,-1.265
+biz_322,Business 322,Las Vegas,OH,1.0,219,0,Bars,0,Bars,37,1,5.393627546352362,-1.698
+biz_323,Business 323,Phoenix,PA,4.0,1557,1,Retail,1,Retail,33,3,7.351158226430694,0.879
+biz_324,Business 324,Phoenix,NV,3.5,92,1,Restaurants,1,Restaurants,40,3,4.532599493153256,0.49
+biz_325,Business 325,Phoenix,NC,4.0,127,1,Hotels,1,Hotels,36,3,4.852030263919617,0.97
+biz_326,Business 326,Charlotte,NV,4.5,80,0,Restaurants,0,Restaurants,33,4,4.394449154672439,1.366
+biz_327,Business 327,Cleveland,AZ,4.0,1848,1,Shopping,1,Shopping,34,3,7.522400231387125,0.702
+biz_328,Business 328,Las Vegas,NV,5.0,1262,0,Coffee & Tea,0,Coffee & Tea,41,5,7.141245122350491,1.624
+biz_329,Business 329,Las Vegas,AZ,3.0,983,0,Hotels,0,Hotels,40,2,6.891625897052253,0.098
+biz_330,Business 330,Charlotte,AZ,3.0,1396,1,Restaurants,1,Restaurants,33,2,7.242082359256962,0.052
+biz_331,Business 331,Las Vegas,NC,2.5,916,1,Beauty & Spas,1,Beauty & Spas,36,2,6.821107472256465,-0.409
+biz_332,Business 332,Phoenix,PA,1.5,486,1,Coffee & Tea,1,Coffee & Tea,41,1,6.18826412308259,-1.263
+biz_333,Business 333,Cleveland,NV,3.5,694,1,Bars,1,Bars,39,3,6.543911845564792,0.467
+biz_334,Business 334,Pittsburgh,AZ,2.0,25,1,Hotels,1,Hotels,44,1,3.258096538021482,-0.773
+biz_335,Business 335,Las Vegas,NV,4.5,156,0,Hotels,0,Hotels,40,4,5.056245805348308,1.405
+biz_336,Business 336,Phoenix,PA,3.5,1541,1,Bars,1,Bars,43,3,7.340835554123275,0.467
+biz_337,Business 337,Pittsburgh,PA,3.5,632,1,Retail,1,Retail,56,3,6.450470422144176,0.46
+biz_338,Business 338,Cleveland,OH,2.5,1813,1,Beauty & Spas,1,Beauty & Spas,40,2,7.503289630675082,-0.409
+biz_339,Business 339,Pittsburgh,PA,1.0,1554,1,Hotels,1,Hotels,44,1,7.349230824613334,-1.644
+biz_340,Business 340,Phoenix,NC,1.0,1967,1,Restaurants,1,Restaurants,40,1,7.584773077612199,-1.701
+biz_341,Business 341,Pittsburgh,AZ,2.5,1734,1,Hotels,1,Hotels,44,2,7.45876269238096,-0.337
+biz_342,Business 342,Charlotte,OH,1.5,1081,1,Coffee & Tea,1,Coffee & Tea,31,1,6.9865664594064265,-1.263
+biz_343,Business 343,Pittsburgh,NC,3.5,1629,1,Hotels,1,Hotels,44,3,7.396335293800808,0.534
+biz_344,Business 344,Las Vegas,NV,4.5,19,0,Restaurants,0,Restaurants,32,4,2.995732273553991,1.366
+biz_345,Business 345,Las Vegas,AZ,4.5,1408,1,Pizza,1,Pizza,38,4,7.25063551189868,1.337
+biz_346,Business 346,Charlotte,PA,3.5,1889,1,Coffee & Tea,1,Coffee & Tea,31,3,7.5443321080536885,0.387
+biz_347,Business 347,Phoenix,AZ,2.0,1217,1,Automotive,1,Automotive,48,1,7.1049654482698426,-0.893
+biz_348,Business 348,Las Vegas,NV,4.5,237,0,Automotive,0,Automotive,55,4,5.472270673671475,1.339
+biz_349,Business 349,Cleveland,OH,4.5,1411,0,Coffee & Tea,0,Coffee & Tea,41,4,7.252762418053187,1.211
+biz_350,Business 350,Las Vegas,OH,2.0,1450,1,Beauty & Spas,1,Beauty & Spas,36,1,7.280008252884188,-0.85
+biz_351,Business 351,Las Vegas,OH,4.0,277,0,Pizza,0,Pizza,38,3,5.627621113690637,0.911
+biz_352,Business 352,Phoenix,PA,2.0,1251,1,Coffee & Tea,1,Coffee & Tea,41,1,7.132497551660044,-0.85
+biz_353,Business 353,Pittsburgh,NC,4.0,745,1,Restaurants,1,Restaurants,44,3,6.61472560020376,0.928
+biz_354,Business 354,Las Vegas,NC,5.0,552,1,Shopping,1,Shopping,33,5,6.315358001522335,1.509
+biz_355,Business 355,Charlotte,AZ,1.0,1347,1,Health,1,Health,37,1,7.206377291472252,-1.66
+biz_356,Business 356,Pittsburgh,PA,4.5,1177,1,Hotels,1,Hotels,44,4,7.071573364211532,1.405
+biz_357,Business 357,Cleveland,OH,3.5,639,1,Retail,1,Retail,41,3,6.461468176353717,0.46
+biz_358,Business 358,Phoenix,OH,5.0,237,0,Pizza,0,Pizza,42,5,5.472270673671475,1.764
+biz_359,Business 359,Cleveland,NV,3.0,998,0,Restaurants,0,Restaurants,46,2,6.906754778648554,0.052
+biz_360,Business 360,Pittsburgh,NV,4.5,55,1,Retail,1,Retail,56,4,4.02535169073515,1.297
+biz_361,Business 361,Pittsburgh,OH,1.0,1460,1,Automotive,1,Automotive,38,1,7.2868764117507,-1.785
+biz_362,Business 362,Pittsburgh,OH,2.5,684,1,Coffee & Tea,1,Coffee & Tea,38,2,6.529418838262226,-0.438
+biz_363,Business 363,Cleveland,PA,1.5,109,1,Pizza,1,Pizza,42,1,4.700480365792417,-1.222
+biz_364,Business 364,Pittsburgh,NC,5.0,1890,1,Bars,1,Bars,35,5,7.544861068658458,1.766
+biz_365,Business 365,Cleveland,NV,4.5,1208,0,Hotels,0,Hotels,56,4,7.097548850614793,1.405
+biz_366,Business 366,Pittsburgh,NC,4.5,1975,1,Health,1,Health,39,4,7.588829878307813,1.383
+biz_367,Business 367,Charlotte,PA,5.0,1392,1,Automotive,1,Automotive,47,5,7.239214973779806,1.785
+biz_368,Business 368,Pittsburgh,OH,1.5,1222,1,Coffee & Tea,1,Coffee & Tea,38,1,7.109062135687172,-1.263
+biz_369,Business 369,Cleveland,NC,2.5,1395,1,Hotels,1,Hotels,56,2,7.241366283322318,-0.337
+biz_370,Business 370,Las Vegas,OH,1.5,373,0,Automotive,0,Automotive,55,1,5.924255797414532,-1.339
+biz_371,Business 371,Pittsburgh,OH,2.0,973,1,Bars,1,Bars,35,1,6.881411303642535,-0.832
+biz_372,Business 372,Las Vegas,AZ,2.0,1521,1,Retail,1,Retail,46,1,7.3277805384216315,-0.796
+biz_373,Business 373,Charlotte,NC,3.0,1623,0,Health,0,Health,37,2,7.392647520721623,0.079
+biz_374,Business 374,Phoenix,NC,2.0,201,1,Health,1,Health,44,1,5.308267697401205,-0.791
+biz_375,Business 375,Charlotte,OH,1.5,849,1,Hotels,1,Hotels,41,1,6.745236349484363,-1.209
+biz_376,Business 376,Pittsburgh,PA,1.5,509,1,Restaurants,1,Restaurants,44,1,6.234410725718371,-1.263
+biz_377,Business 377,Las Vegas,AZ,1.5,1346,1,Hotels,1,Hotels,40,1,7.205635176410364,-1.209
+biz_378,Business 378,Las Vegas,OH,5.0,275,0,Automotive,0,Automotive,55,5,5.62040086571715,1.785
+biz_379,Business 379,Cleveland,NV,4.0,211,1,Restaurants,1,Restaurants,46,3,5.356586274672012,0.928
+biz_380,Business 380,Las Vegas,NV,5.0,504,1,Health,1,Health,43,5,6.22455842927536,1.818
+biz_381,Business 381,Cleveland,AZ,3.0,1927,1,Shopping,1,Shopping,34,2,7.564238475170491,-0.104
+biz_382,Business 382,Phoenix,PA,2.0,1142,0,Health,0,Health,44,1,7.04141166379481,-0.791
+biz_383,Business 383,Pittsburgh,OH,4.0,703,1,Hotels,1,Hotels,44,3,6.556778356158042,0.97
+biz_384,Business 384,Cleveland,NC,2.5,1578,1,Automotive,1,Automotive,46,2,7.364547014255642,-0.446
+biz_385,Business 385,Phoenix,AZ,2.0,42,1,Restaurants,1,Restaurants,40,1,3.7612001156935624,-0.825
+biz_386,Business 386,Las Vegas,PA,2.0,315,1,Coffee & Tea,1,Coffee & Tea,41,1,5.755742213586912,-0.85
+biz_387,Business 387,Las Vegas,NC,1.5,788,0,Restaurants,0,Restaurants,32,1,6.670766320845874,-1.263
+biz_388,Business 388,Phoenix,NV,2.0,329,1,Bars,1,Bars,43,1,5.799092654460526,-0.832
+biz_389,Business 389,Las Vegas,NV,2.5,1041,0,Beauty & Spas,0,Beauty & Spas,36,2,6.948897222313312,-0.409
+biz_390,Business 390,Phoenix,NC,3.5,283,1,Beauty & Spas,1,Beauty & Spas,53,3,5.648974238161206,0.475
+biz_391,Business 391,Cleveland,AZ,1.5,943,1,Pizza,1,Pizza,42,1,6.8501261661455,-1.222
+biz_392,Business 392,Cleveland,NV,2.0,258,1,Retail,1,Retail,41,1,5.556828061699537,-0.796
+biz_393,Business 393,Phoenix,OH,4.0,575,1,Pizza,1,Pizza,42,3,6.3561076606958915,0.911
+biz_394,Business 394,Cleveland,NC,1.5,574,1,Pizza,1,Pizza,42,1,6.354370040797351,-1.222
+biz_395,Business 395,Cleveland,NC,2.5,612,1,Restaurants,1,Restaurants,46,2,6.418364935936212,-0.387
+biz_396,Business 396,Cleveland,NV,4.5,1043,0,Automotive,0,Automotive,46,4,6.950814768442584,1.339
+biz_397,Business 397,Charlotte,AZ,1.5,1553,0,Pizza,0,Pizza,50,1,7.348587530927593,-1.222
+biz_398,Business 398,Pittsburgh,OH,1.5,837,1,Hotels,1,Hotels,44,1,6.731018100482083,-1.209
+biz_399,Business 399,Las Vegas,AZ,3.0,423,0,Restaurants,0,Restaurants,32,2,6.049733455231958,0.052
+biz_400,Business 400,Charlotte,PA,2.0,1490,1,Automotive,1,Automotive,47,1,7.307202314764738,-0.893
+biz_401,Business 401,Cleveland,PA,3.5,1397,1,Beauty & Spas,1,Beauty & Spas,40,3,7.242797922793756,0.475
+biz_402,Business 402,Phoenix,NV,4.0,758,1,Shopping,1,Shopping,35,3,6.63200177739563,0.702
+biz_403,Business 403,Cleveland,NV,1.5,763,1,Hotels,1,Hotels,56,1,6.638567789166521,-1.209
+biz_404,Business 404,Pittsburgh,NV,3.5,1991,1,Coffee & Tea,1,Coffee & Tea,38,3,7.596894438144544,0.387
+biz_405,Business 405,Cleveland,PA,3.0,1105,1,Retail,1,Retail,41,2,7.00850518208228,0.041
+biz_406,Business 406,Phoenix,AZ,1.5,1575,1,Coffee & Tea,1,Coffee & Tea,41,1,7.362645270417825,-1.263
+biz_407,Business 407,Pittsburgh,AZ,3.5,1572,1,Automotive,1,Automotive,38,3,7.360739903058278,0.446
+biz_408,Business 408,Cleveland,NV,2.0,424,0,Bars,0,Bars,39,1,6.052089168924417,-0.832
+biz_409,Business 409,Pittsburgh,OH,3.0,429,1,Automotive,1,Automotive,38,2,6.063785208687608,0.0
+biz_410,Business 410,Las Vegas,AZ,1.5,1412,1,Shopping,1,Shopping,33,1,7.253470382684528,-1.314
+biz_411,Business 411,Las Vegas,PA,3.0,1945,1,Beauty & Spas,1,Beauty & Spas,36,2,7.57353126274595,0.033
+biz_412,Business 412,Cleveland,NC,2.0,1733,0,Health,0,Health,24,1,7.458186157340487,-0.791
+biz_413,Business 413,Pittsburgh,NC,4.5,1694,0,Automotive,0,Automotive,38,4,7.43543801981455,1.339
+biz_414,Business 414,Phoenix,NC,1.0,204,1,Beauty & Spas,1,Beauty & Spas,53,1,5.3230099791384085,-1.734
+biz_415,Business 415,Cleveland,OH,2.5,196,1,Coffee & Tea,1,Coffee & Tea,41,2,5.2832037287379885,-0.438
+biz_416,Business 416,Las Vegas,NV,3.0,728,1,Automotive,1,Automotive,55,2,6.591673732008658,0.0
+biz_417,Business 417,Las Vegas,PA,4.0,285,1,Automotive,1,Automotive,55,3,5.655991810819852,0.893
+biz_418,Business 418,Cleveland,OH,3.5,1993,1,Pizza,1,Pizza,42,3,7.597897950521784,0.484
+biz_419,Business 419,Pittsburgh,PA,3.5,196,1,Coffee & Tea,1,Coffee & Tea,38,3,5.2832037287379885,0.387
+biz_420,Business 420,Las Vegas,PA,4.0,307,1,Retail,1,Retail,46,3,5.730099782973574,0.879
+biz_421,Business 421,Pittsburgh,NV,4.5,1688,0,Retail,0,Retail,56,4,7.4318919168078,1.297
+biz_422,Business 422,Las Vegas,NC,2.5,14,1,Hotels,1,Hotels,40,2,2.70805020110221,-0.337
+biz_423,Business 423,Las Vegas,NV,3.0,1861,1,Bars,1,Bars,37,2,7.529406457837013,0.034
+biz_424,Business 424,Charlotte,OH,4.5,1170,1,Health,1,Health,37,4,7.065613363597717,1.383
+biz_425,Business 425,Las Vegas,OH,5.0,1962,1,Automotive,1,Automotive,55,5,7.5822291942764615,1.785
+biz_426,Business 426,Phoenix,OH,4.5,1081,1,Automotive,1,Automotive,48,4,6.9865664594064265,1.339
+biz_427,Business 427,Cleveland,NV,2.5,723,1,Hotels,1,Hotels,56,2,6.584791392385716,-0.337
+biz_428,Business 428,Cleveland,PA,2.0,780,1,Bars,1,Bars,39,1,6.660575149839686,-0.832
+biz_429,Business 429,Pittsburgh,PA,3.0,1234,1,Coffee & Tea,1,Coffee & Tea,38,2,7.118826249062078,-0.026
+biz_430,Business 430,Las Vegas,AZ,4.0,529,0,Automotive,0,Automotive,55,3,6.272877006546167,0.893
+biz_431,Business 431,Phoenix,OH,3.0,798,0,Beauty & Spas,0,Beauty & Spas,53,2,6.683360945766275,0.033
+biz_432,Business 432,Pittsburgh,PA,3.0,344,1,Restaurants,1,Restaurants,44,2,5.84354441703136,0.052
+biz_433,Business 433,Charlotte,AZ,4.5,1739,1,Bars,1,Bars,26,4,7.461640392208575,1.333
+biz_434,Business 434,Pittsburgh,PA,2.5,1635,1,Automotive,1,Automotive,38,2,7.400009517162692,-0.446
+biz_435,Business 435,Pittsburgh,OH,4.5,1303,1,Bars,1,Bars,35,4,7.1731917424865985,1.333
+biz_436,Business 436,Las Vegas,NC,2.5,209,1,Retail,1,Retail,46,2,5.3471075307174685,-0.378
+biz_437,Business 437,Charlotte,OH,2.5,641,1,Health,1,Health,37,2,6.464588303689961,-0.356
+biz_438,Business 438,Pittsburgh,NV,3.0,1359,0,Automotive,0,Automotive,38,2,7.215239978730097,0.0
+biz_439,Business 439,Phoenix,PA,4.0,1312,0,Health,0,Health,44,3,7.180069874302796,0.949
+biz_440,Business 440,Phoenix,PA,1.5,252,1,Shopping,1,Shopping,35,1,5.53338948872752,-1.314
+biz_441,Business 441,Cleveland,NV,2.0,1289,0,Restaurants,0,Restaurants,46,1,7.162397497355718,-0.825
+biz_442,Business 442,Charlotte,NV,5.0,271,1,Hotels,1,Hotels,41,5,5.605802066295998,1.841
+biz_443,Business 443,Charlotte,NC,1.5,1948,1,Health,1,Health,37,1,7.575071699507561,-1.225
+biz_444,Business 444,Cleveland,PA,3.5,920,1,Automotive,1,Automotive,46,3,6.825460036255307,0.446
+biz_445,Business 445,Pittsburgh,PA,3.5,1724,0,Pizza,0,Pizza,35,3,7.45298232946546,0.484
+biz_446,Business 446,Charlotte,NC,3.0,419,1,Hotels,1,Hotels,41,2,6.040254711277414,0.098
+biz_447,Business 447,Phoenix,AZ,3.5,1750,1,Hotels,1,Hotels,36,3,7.467942332285852,0.534
+biz_448,Business 448,Phoenix,NC,2.0,795,1,Coffee & Tea,1,Coffee & Tea,41,1,6.679599185844383,-0.85
+biz_449,Business 449,Las Vegas,OH,3.0,1235,1,Health,1,Health,43,2,7.119635638017636,0.079
+biz_450,Business 450,Charlotte,PA,2.5,1389,0,Pizza,0,Pizza,50,2,7.237059026124737,-0.369
+biz_451,Business 451,Pittsburgh,NV,3.5,1100,1,Health,1,Health,39,3,7.00397413672268,0.514
+biz_452,Business 452,Cleveland,OH,1.5,1684,1,Coffee & Tea,1,Coffee & Tea,41,1,7.429520842786462,-1.263
+biz_453,Business 453,Cleveland,PA,3.5,1345,1,Restaurants,1,Restaurants,46,3,7.204892510204673,0.49
+biz_454,Business 454,Pittsburgh,NC,1.5,725,1,Automotive,1,Automotive,38,1,6.587550014824796,-1.339
+biz_455,Business 455,Las Vegas,OH,2.0,433,1,Retail,1,Retail,46,1,6.073044534100405,-0.796
+biz_456,Business 456,Cleveland,PA,2.0,109,0,Retail,0,Retail,41,1,4.700480365792417,-0.796
+biz_457,Business 457,Charlotte,AZ,1.5,641,1,Health,1,Health,37,1,6.464588303689961,-1.225
+biz_458,Business 458,Las Vegas,AZ,4.5,1546,1,Coffee & Tea,1,Coffee & Tea,41,4,7.344072850573066,1.211
+biz_459,Business 459,Charlotte,NV,2.0,1071,1,Bars,1,Bars,26,1,6.977281341630747,-0.832
+biz_460,Business 460,Phoenix,PA,4.5,379,1,Automotive,1,Automotive,48,4,5.940171252720432,1.339
+biz_461,Business 461,Las Vegas,AZ,5.0,1851,1,Health,1,Health,43,5,7.524021415206125,1.818
+biz_462,Business 462,Cleveland,NC,3.5,1120,1,Bars,1,Bars,39,3,7.02197642307216,0.467
+biz_463,Business 463,Las Vegas,PA,1.5,958,0,Automotive,0,Automotive,55,1,6.8658910748834385,-1.339
+biz_464,Business 464,Las Vegas,NC,2.5,103,1,Bars,1,Bars,37,2,4.6443908991413725,-0.399
+biz_465,Business 465,Las Vegas,NC,4.0,892,1,Hotels,1,Hotels,40,3,6.794586580876499,0.97
+biz_466,Business 466,Las Vegas,AZ,2.5,854,1,Health,1,Health,43,2,6.75110146893676,-0.356
+biz_467,Business 467,Charlotte,PA,1.5,1170,1,Coffee & Tea,1,Coffee & Tea,31,1,7.065613363597717,-1.263
+biz_468,Business 468,Phoenix,OH,3.0,1904,1,Automotive,1,Automotive,48,2,7.552237287560802,0.0
+biz_469,Business 469,Pittsburgh,AZ,4.5,1966,1,Retail,1,Retail,56,4,7.584264818389059,1.297
+biz_470,Business 470,Las Vegas,AZ,4.0,1952,1,Health,1,Health,43,3,7.577121930876679,0.949
+biz_471,Business 471,Cleveland,PA,1.5,1051,1,Automotive,1,Automotive,46,1,6.9584483932976555,-1.339
+biz_472,Business 472,Las Vegas,PA,3.5,1756,1,Automotive,1,Automotive,55,3,7.471363088187097,0.446
+biz_473,Business 473,Cleveland,NC,2.0,530,1,Bars,1,Bars,39,1,6.274762021241939,-0.832
+biz_474,Business 474,Charlotte,PA,2.0,679,1,Bars,1,Bars,26,1,6.522092798170152,-0.832
+biz_475,Business 475,Cleveland,NC,4.5,1969,0,Pizza,0,Pizza,42,4,7.585788821732034,1.337
+biz_476,Business 476,Pittsburgh,AZ,2.0,989,1,Health,1,Health,39,1,6.897704943128636,-0.791
+biz_477,Business 477,Phoenix,NV,2.0,1106,1,Shopping,1,Shopping,35,1,7.009408932708637,-0.911
+biz_478,Business 478,Cleveland,OH,1.0,428,0,Beauty & Spas,0,Beauty & Spas,40,1,6.061456918928017,-1.734
+biz_479,Business 479,Cleveland,AZ,4.5,1608,1,Shopping,1,Shopping,34,4,7.3833681469923835,1.106
+biz_480,Business 480,Phoenix,PA,4.0,822,1,Automotive,1,Automotive,48,3,6.71295620067707,0.893
+biz_481,Business 481,Pittsburgh,OH,3.5,1503,1,Pizza,1,Pizza,35,3,7.315883504509785,0.484
+biz_482,Business 482,Las Vegas,NV,4.0,1790,1,Automotive,1,Automotive,55,3,7.490529402060711,0.893
+biz_483,Business 483,Cleveland,NV,1.5,1186,0,Shopping,0,Shopping,34,1,7.079184394609668,-1.314
+biz_484,Business 484,Phoenix,NC,3.0,1863,1,Automotive,1,Automotive,48,2,7.530479995245536,0.0
+biz_485,Business 485,Charlotte,OH,2.5,932,1,Bars,1,Bars,26,2,6.838405200847344,-0.399
+biz_486,Business 486,Phoenix,NC,1.5,1426,1,Health,1,Health,44,1,7.2633296174768365,-1.225
+biz_487,Business 487,Charlotte,AZ,3.0,1532,1,Retail,1,Retail,38,2,7.334981878871814,0.041
+biz_488,Business 488,Pittsburgh,OH,4.5,1062,1,Shopping,1,Shopping,34,4,6.968850378341948,1.106
+biz_489,Business 489,Las Vegas,AZ,1.0,1979,1,Beauty & Spas,1,Beauty & Spas,36,1,7.590852123688581,-1.734
+biz_490,Business 490,Phoenix,NC,2.0,511,1,Beauty & Spas,1,Beauty & Spas,53,1,6.238324625039508,-0.85
+biz_491,Business 491,Cleveland,OH,2.0,393,1,Bars,1,Bars,39,1,5.976350909297934,-0.832
+biz_492,Business 492,Pittsburgh,NC,2.0,713,1,Health,1,Health,39,1,6.570882962339584,-0.791
+biz_493,Business 493,Phoenix,OH,4.5,494,0,Restaurants,0,Restaurants,40,4,6.20455776256869,1.366
+biz_494,Business 494,Cleveland,NC,3.0,1224,0,Restaurants,0,Restaurants,46,2,7.110696122978827,0.052
+biz_495,Business 495,Phoenix,NV,3.0,1279,1,Coffee & Tea,1,Coffee & Tea,41,2,7.154615356913663,-0.026
+biz_496,Business 496,Charlotte,NC,4.0,1203,1,Coffee & Tea,1,Coffee & Tea,31,3,7.093404625868766,0.799
+biz_497,Business 497,Phoenix,NV,1.5,547,1,Shopping,1,Shopping,35,1,6.306275286948016,-1.314
+biz_498,Business 498,Phoenix,NC,3.0,594,0,Bars,0,Bars,43,2,6.38856140554563,0.034
+biz_499,Business 499,Phoenix,OH,2.5,389,0,Bars,0,Bars,43,2,5.966146739123692,-0.399
+biz_500,Business 500,Pittsburgh,OH,3.5,1422,1,Automotive,1,Automotive,38,3,7.260522598089852,0.446
+biz_501,Business 501,Phoenix,OH,5.0,1756,1,Beauty & Spas,1,Beauty & Spas,53,5,7.471363088187097,1.8
+biz_502,Business 502,Cleveland,PA,4.0,158,1,Beauty & Spas,1,Beauty & Spas,40,3,5.0689042022202315,0.917
+biz_503,Business 503,Charlotte,AZ,2.5,1028,1,Beauty & Spas,1,Beauty & Spas,38,2,6.9363427358340495,-0.409
+biz_504,Business 504,Charlotte,OH,4.5,167,1,Pizza,1,Pizza,50,4,5.123963979403259,1.337
+biz_505,Business 505,Phoenix,NV,1.5,1492,1,Health,1,Health,44,1,7.30854279753919,-1.225
+biz_506,Business 506,Pittsburgh,OH,1.0,960,1,Hotels,1,Hotels,44,1,6.8679744089702925,-1.644
+biz_507,Business 507,Pittsburgh,PA,2.0,409,1,Automotive,1,Automotive,38,1,6.016157159698354,-0.893
+biz_508,Business 508,Cleveland,NV,2.5,1436,1,Restaurants,1,Restaurants,46,2,7.270312886079025,-0.387
+biz_509,Business 509,Phoenix,PA,3.0,1228,1,Bars,1,Bars,43,2,7.113956109566034,0.034
+biz_510,Business 510,Charlotte,NV,3.5,194,0,Restaurants,0,Restaurants,33,3,5.272999558563747,0.49
+biz_511,Business 511,Pittsburgh,NC,4.5,235,1,Pizza,1,Pizza,35,4,5.4638318050256105,1.337
+biz_512,Business 512,Phoenix,AZ,3.0,718,1,Restaurants,1,Restaurants,40,2,6.577861357721047,0.052
+biz_513,Business 513,Pittsburgh,AZ,3.0,1174,1,Beauty & Spas,1,Beauty & Spas,33,2,7.069023426578259,0.033
+biz_514,Business 514,Pittsburgh,PA,1.0,1183,0,Retail,0,Retail,56,1,7.076653815443951,-1.634
+biz_515,Business 515,Charlotte,AZ,1.0,1303,1,Automotive,1,Automotive,47,1,7.1731917424865985,-1.785
+biz_516,Business 516,Las Vegas,PA,3.0,816,1,Retail,1,Retail,46,2,6.705639094860003,0.041
+biz_517,Business 517,Cleveland,PA,3.0,404,1,Coffee & Tea,1,Coffee & Tea,41,2,6.003887067106539,-0.026
+biz_518,Business 518,Cleveland,PA,4.5,893,1,Retail,1,Retail,41,4,6.795705775173514,1.297
+biz_519,Business 519,Charlotte,AZ,1.5,678,1,Hotels,1,Hotels,41,1,6.520621127558696,-1.209
+biz_520,Business 520,Pittsburgh,PA,1.0,1335,1,Bars,1,Bars,35,1,7.197435354096591,-1.698
+biz_521,Business 521,Phoenix,AZ,3.0,68,1,Pizza,1,Pizza,42,2,4.23410650459726,0.058
+biz_522,Business 522,Pittsburgh,PA,2.0,1487,1,Bars,1,Bars,35,1,7.305188215393037,-0.832
+biz_523,Business 523,Charlotte,OH,1.0,88,1,Hotels,1,Hotels,41,1,4.48863636973214,-1.644
+biz_524,Business 524,Cleveland,PA,4.0,217,1,Bars,1,Bars,39,3,5.384495062789089,0.9
+biz_525,Business 525,Pittsburgh,NV,1.5,1,1,Retail,1,Retail,56,1,0.6931471805599453,-1.215
+biz_526,Business 526,Cleveland,PA,3.5,1159,1,Health,1,Health,24,3,7.05617528410041,0.514
+biz_527,Business 527,Phoenix,NC,2.0,1721,1,Bars,1,Bars,43,1,7.451241684987676,-0.832
+biz_528,Business 528,Cleveland,PA,1.5,1375,1,Coffee & Tea,1,Coffee & Tea,41,1,7.226936018493289,-1.263
+biz_529,Business 529,Cleveland,NV,2.5,140,1,Automotive,1,Automotive,46,2,4.948759890378168,-0.446
+biz_530,Business 530,Las Vegas,NV,4.0,618,1,Automotive,1,Automotive,55,3,6.428105272684596,0.893
+biz_531,Business 531,Las Vegas,AZ,2.5,133,1,Restaurants,1,Restaurants,32,2,4.897839799950911,-0.387
+biz_532,Business 532,Las Vegas,OH,4.0,1644,1,Shopping,1,Shopping,33,3,7.405495663199472,0.702
+biz_533,Business 533,Cleveland,PA,1.5,178,1,Retail,1,Retail,41,1,5.187385805840755,-1.215
+biz_534,Business 534,Charlotte,AZ,4.0,810,1,Beauty & Spas,1,Beauty & Spas,38,3,6.698268054115413,0.917
+biz_535,Business 535,Cleveland,OH,2.0,1382,0,Hotels,0,Hotels,56,1,7.232010331664759,-0.773
+biz_536,Business 536,Charlotte,PA,3.5,380,1,Pizza,1,Pizza,50,3,5.942799375126701,0.484
+biz_537,Business 537,Charlotte,NC,3.5,908,1,Retail,1,Retail,38,3,6.812345094177479,0.46
+biz_538,Business 538,Las Vegas,PA,4.5,1895,1,Automotive,1,Automotive,55,4,7.547501682814967,1.339
+biz_539,Business 539,Pittsburgh,NV,2.5,658,1,Restaurants,1,Restaurants,44,2,6.490723534502507,-0.387
+biz_540,Business 540,Phoenix,NV,1.5,450,1,Bars,1,Bars,43,1,6.111467339502679,-1.265
+biz_541,Business 541,Las Vegas,NC,1.0,586,0,Beauty & Spas,0,Beauty & Spas,36,1,6.375024819828097,-1.734
+biz_542,Business 542,Las Vegas,AZ,4.5,463,1,Beauty & Spas,1,Beauty & Spas,36,4,6.139884552226255,1.358
+biz_543,Business 543,Pittsburgh,OH,3.0,990,1,Shopping,1,Shopping,34,2,6.898714534329988,-0.104
+biz_544,Business 544,Phoenix,PA,4.0,1132,1,Health,1,Health,44,3,7.0326242610280065,0.949
+biz_545,Business 545,Cleveland,NV,2.0,122,1,Shopping,1,Shopping,34,1,4.812184355372417,-0.911
+biz_546,Business 546,Cleveland,AZ,2.5,17,0,Bars,0,Bars,39,2,2.8903717578961645,-0.399
+biz_547,Business 547,Las Vegas,NC,1.0,1220,1,Retail,1,Retail,46,1,7.107425474110705,-1.634
+biz_548,Business 548,Phoenix,NV,5.0,327,1,Coffee & Tea,1,Coffee & Tea,41,5,5.793013608384144,1.624
+biz_549,Business 549,Las Vegas,NC,3.5,318,1,Hotels,1,Hotels,40,3,5.765191102784844,0.534
+biz_550,Business 550,Charlotte,PA,4.5,809,0,Beauty & Spas,0,Beauty & Spas,38,4,6.697034247666484,1.358
+biz_551,Business 551,Las Vegas,OH,2.0,1503,1,Pizza,1,Pizza,38,1,7.315883504509785,-0.795
+biz_552,Business 552,Las Vegas,NV,3.5,1276,0,Retail,0,Retail,46,3,7.152268856032539,0.46
+biz_553,Business 553,Cleveland,NV,3.5,503,1,Pizza,1,Pizza,42,3,6.222576268071369,0.484
+biz_554,Business 554,Cleveland,PA,2.5,119,1,Restaurants,1,Restaurants,46,2,4.787491742782046,-0.387
+biz_555,Business 555,Cleveland,AZ,4.5,1698,1,Pizza,1,Pizza,42,4,7.4377951216719325,1.337
+biz_556,Business 556,Charlotte,OH,5.0,710,1,Beauty & Spas,1,Beauty & Spas,38,5,6.566672429803241,1.8
+biz_557,Business 557,Cleveland,NV,4.5,1522,1,Beauty & Spas,1,Beauty & Spas,40,4,7.328437352895162,1.358
+biz_558,Business 558,Phoenix,OH,4.0,1510,1,Beauty & Spas,1,Beauty & Spas,53,3,7.32052696227274,0.917
+biz_559,Business 559,Pittsburgh,NV,2.0,45,0,Retail,0,Retail,56,1,3.828641396489095,-0.796
+biz_560,Business 560,Phoenix,OH,2.0,314,1,Retail,1,Retail,33,1,5.752572638825633,-0.796
+biz_561,Business 561,Phoenix,NC,5.0,1203,1,Hotels,1,Hotels,36,5,7.093404625868766,1.841
+biz_562,Business 562,Cleveland,NV,1.0,1918,0,Automotive,0,Automotive,46,1,7.5595594960077,-1.785
+biz_563,Business 563,Pittsburgh,OH,4.0,418,1,Health,1,Health,39,3,6.037870919922137,0.949
+biz_564,Business 564,Pittsburgh,AZ,4.0,556,1,Bars,1,Bars,35,3,6.322565239927284,0.9
+biz_565,Business 565,Pittsburgh,NC,3.5,1807,0,Bars,0,Bars,35,3,7.4999765409521215,0.467
+biz_566,Business 566,Charlotte,NC,5.0,1102,0,Restaurants,0,Restaurants,33,5,7.005789019253503,1.805
+biz_567,Business 567,Cleveland,AZ,2.0,326,1,Shopping,1,Shopping,34,1,5.7899601708972535,-0.911
+biz_568,Business 568,Pittsburgh,OH,2.5,1714,1,Hotels,1,Hotels,44,2,7.44716835960004,-0.337
+biz_569,Business 569,Charlotte,PA,1.5,1381,1,Automotive,1,Automotive,47,1,7.231287004327616,-1.339
+biz_570,Business 570,Las Vegas,AZ,3.0,1440,1,Coffee & Tea,1,Coffee & Tea,41,2,7.273092595999522,-0.026
+biz_571,Business 571,Las Vegas,OH,2.0,1987,1,Restaurants,1,Restaurants,32,1,7.59488438721652,-0.825
+biz_572,Business 572,Charlotte,AZ,2.5,515,0,Retail,0,Retail,38,2,6.246106765481563,-0.378
+biz_573,Business 573,Charlotte,AZ,4.5,214,1,Automotive,1,Automotive,47,4,5.3706380281276624,1.339
+biz_574,Business 574,Cleveland,NV,4.5,1878,1,Beauty & Spas,1,Beauty & Spas,40,4,7.538494999413465,1.358
+biz_575,Business 575,Cleveland,OH,1.5,74,1,Retail,1,Retail,41,1,4.31748811353631,-1.215
+biz_576,Business 576,Las Vegas,PA,2.5,1587,1,Shopping,1,Shopping,33,2,7.370230641807081,-0.508
+biz_577,Business 577,Pittsburgh,NV,4.5,1603,1,Shopping,1,Shopping,34,4,7.38025578842646,1.106
+biz_578,Business 578,Las Vegas,AZ,1.0,509,0,Bars,0,Bars,37,1,6.234410725718371,-1.698
+biz_579,Business 579,Pittsburgh,AZ,1.5,332,0,Health,0,Health,39,1,5.808142489980444,-1.225
+biz_580,Business 580,Pittsburgh,AZ,1.5,1117,1,Health,1,Health,39,1,7.0192966537150445,-1.225
+biz_581,Business 581,Cleveland,OH,3.5,688,1,Coffee & Tea,1,Coffee & Tea,41,3,6.535241271013659,0.387
+biz_582,Business 582,Phoenix,OH,1.5,657,1,Retail,1,Retail,33,1,6.489204931325317,-1.215
+biz_583,Business 583,Phoenix,NV,5.0,1543,1,Retail,1,Retail,33,5,7.342131730584722,1.716
+biz_584,Business 584,Charlotte,PA,3.0,1293,1,Shopping,1,Shopping,38,2,7.165493475060845,-0.104
+biz_585,Business 585,Cleveland,NV,3.0,1400,1,Beauty & Spas,1,Beauty & Spas,40,2,7.244941546337007,0.033
+biz_586,Business 586,Pittsburgh,NC,2.0,1858,0,Beauty & Spas,0,Beauty & Spas,33,1,7.527793987721444,-0.85
+biz_587,Business 587,Phoenix,AZ,3.0,1028,0,Pizza,0,Pizza,42,2,6.9363427358340495,0.058
+biz_588,Business 588,Pittsburgh,AZ,3.5,1162,1,Beauty & Spas,1,Beauty & Spas,33,3,7.0587581525186645,0.475
+biz_589,Business 589,Phoenix,AZ,4.0,1255,1,Automotive,1,Automotive,48,3,7.135687347028144,0.893
+biz_590,Business 590,Phoenix,NV,4.0,600,1,Health,1,Health,44,3,6.398594934535208,0.949
+biz_591,Business 591,Phoenix,NV,3.5,1553,1,Beauty & Spas,1,Beauty & Spas,53,3,7.348587530927593,0.475
+biz_592,Business 592,Cleveland,AZ,4.5,1076,1,Hotels,1,Hotels,56,4,6.981934677156389,1.405
+biz_593,Business 593,Las Vegas,NV,4.5,1670,1,Retail,1,Retail,46,4,7.421177528595393,1.297
+biz_594,Business 594,Pittsburgh,OH,4.0,1747,1,Beauty & Spas,1,Beauty & Spas,33,3,7.466227556215481,0.917
+biz_595,Business 595,Cleveland,OH,1.0,325,0,Pizza,0,Pizza,42,1,5.786897381366708,-1.649
+biz_596,Business 596,Cleveland,NV,1.0,992,1,Coffee & Tea,1,Coffee & Tea,41,1,6.900730664045173,-1.675
+biz_597,Business 597,Cleveland,AZ,2.0,1994,1,Coffee & Tea,1,Coffee & Tea,41,1,7.598399329323964,-0.85
+biz_598,Business 598,Cleveland,NV,3.5,1929,0,Shopping,0,Shopping,34,3,7.5652752818989315,0.299
+biz_599,Business 599,Cleveland,NV,2.5,1755,1,Beauty & Spas,1,Beauty & Spas,40,2,7.470793774195062,-0.409
+biz_600,Business 600,Charlotte,NV,2.5,717,1,Retail,1,Retail,38,2,6.576469569048224,-0.378
+biz_601,Business 601,Pittsburgh,NC,4.5,723,1,Retail,1,Retail,56,4,6.584791392385716,1.297
+biz_602,Business 602,Cleveland,OH,4.5,277,1,Health,1,Health,24,4,5.627621113690637,1.383
+biz_603,Business 603,Pittsburgh,PA,4.5,536,1,Coffee & Tea,1,Coffee & Tea,38,4,6.285998094508865,1.211
+biz_604,Business 604,Charlotte,PA,2.5,1510,0,Shopping,0,Shopping,38,2,7.32052696227274,-0.508
+biz_605,Business 605,Charlotte,NC,4.0,1540,1,Beauty & Spas,1,Beauty & Spas,38,3,7.340186835320115,0.917
+biz_606,Business 606,Pittsburgh,NV,2.0,152,1,Coffee & Tea,1,Coffee & Tea,38,1,5.030437921392435,-0.85
+biz_607,Business 607,Phoenix,NC,2.0,955,1,Coffee & Tea,1,Coffee & Tea,41,1,6.862757913051401,-0.85
+biz_608,Business 608,Las Vegas,NC,1.5,1507,1,Retail,1,Retail,46,1,7.318539548567902,-1.215
+biz_609,Business 609,Phoenix,AZ,2.5,259,1,Beauty & Spas,1,Beauty & Spas,53,2,5.560681631015528,-0.409
+biz_610,Business 610,Phoenix,OH,2.5,324,1,Restaurants,1,Restaurants,40,2,5.783825182329737,-0.387
+biz_611,Business 611,Phoenix,PA,4.5,1017,1,Beauty & Spas,1,Beauty & Spas,53,4,6.925595197110468,1.358
+biz_612,Business 612,Cleveland,NV,1.5,869,1,Automotive,1,Automotive,46,1,6.76849321164863,-1.339
+biz_613,Business 613,Charlotte,PA,4.0,1192,1,Coffee & Tea,1,Coffee & Tea,31,3,7.084226422097916,0.799
+biz_614,Business 614,Phoenix,PA,3.0,688,1,Health,1,Health,44,2,6.535241271013659,0.079
+biz_615,Business 615,Charlotte,OH,2.0,310,1,Restaurants,1,Restaurants,33,1,5.739792912179234,-0.825
+biz_616,Business 616,Pittsburgh,PA,3.0,803,1,Pizza,1,Pizza,35,2,6.6895992691789665,0.058
+biz_617,Business 617,Las Vegas,PA,2.0,1503,1,Shopping,1,Shopping,33,1,7.315883504509785,-0.911
+biz_618,Business 618,Pittsburgh,NC,3.5,1080,1,Beauty & Spas,1,Beauty & Spas,33,3,6.985641817639208,0.475
+biz_619,Business 619,Pittsburgh,OH,2.5,620,1,Health,1,Health,39,2,6.431331081933479,-0.356
+biz_620,Business 620,Cleveland,AZ,1.5,473,1,Pizza,1,Pizza,42,1,6.161207321695077,-1.222
+biz_621,Business 621,Las Vegas,NV,1.5,1320,1,Pizza,1,Pizza,38,1,7.186144304522325,-1.222
+biz_622,Business 622,Pittsburgh,PA,3.0,461,1,Coffee & Tea,1,Coffee & Tea,38,2,6.135564891081739,-0.026
+biz_623,Business 623,Pittsburgh,NV,4.5,1348,0,Automotive,0,Automotive,38,4,7.207118856207756,1.339
+biz_624,Business 624,Las Vegas,AZ,2.5,814,1,Coffee & Tea,1,Coffee & Tea,41,2,6.703188113240863,-0.438
+biz_625,Business 625,Las Vegas,NV,4.0,846,0,Shopping,0,Shopping,33,3,6.741700694652055,0.702
+biz_626,Business 626,Pittsburgh,AZ,3.5,1165,0,Restaurants,0,Restaurants,44,3,7.061334366910438,0.49
+biz_627,Business 627,Las Vegas,NC,4.5,667,1,Retail,1,Retail,46,4,6.504288173536645,1.297
+biz_628,Business 628,Pittsburgh,PA,4.5,262,1,Hotels,1,Hotels,44,4,5.572154032177765,1.405
+biz_629,Business 629,Pittsburgh,AZ,3.5,1809,1,Restaurants,1,Restaurants,44,3,7.501082124259871,0.49
+biz_630,Business 630,Cleveland,NV,3.5,1444,1,Shopping,1,Shopping,34,3,7.275864600546533,0.299
+biz_631,Business 631,Phoenix,PA,4.5,1768,1,Retail,1,Retail,33,4,7.478169694159785,1.297
+biz_632,Business 632,Pittsburgh,NC,2.5,1265,1,Pizza,1,Pizza,35,2,7.143617602704121,-0.369
+biz_633,Business 633,Charlotte,PA,2.5,355,1,Restaurants,1,Restaurants,33,2,5.87493073085203,-0.387
+biz_634,Business 634,Phoenix,AZ,1.0,1873,1,Retail,1,Retail,33,1,7.535830462798367,-1.634
+biz_635,Business 635,Phoenix,NC,4.5,770,1,Beauty & Spas,1,Beauty & Spas,53,4,6.647688373563329,1.358
+biz_636,Business 636,Phoenix,NV,4.0,1785,0,Coffee & Tea,0,Coffee & Tea,41,3,7.487733761436444,0.799
+biz_637,Business 637,Cleveland,NC,1.5,1613,0,Hotels,0,Hotels,56,1,7.3864708488298945,-1.209
+biz_638,Business 638,Pittsburgh,NC,3.5,180,1,Health,1,Health,39,3,5.198497031265826,0.514
+biz_639,Business 639,Cleveland,OH,3.0,66,1,Beauty & Spas,1,Beauty & Spas,40,2,4.204692619390966,0.033
+biz_640,Business 640,Pittsburgh,NC,1.5,820,0,Restaurants,0,Restaurants,44,1,6.710523109452428,-1.263
+biz_641,Business 641,Cleveland,NC,5.0,1372,1,Bars,1,Bars,39,5,7.224753405767971,1.766
+biz_642,Business 642,Cleveland,PA,2.0,171,1,Retail,1,Retail,41,1,5.147494476813453,-0.796
+biz_643,Business 643,Charlotte,NV,1.5,474,1,Pizza,1,Pizza,50,1,6.163314804034641,-1.222
+biz_644,Business 644,Cleveland,PA,3.5,534,1,Pizza,1,Pizza,42,3,6.282266746896006,0.484
+biz_645,Business 645,Las Vegas,PA,4.0,1391,1,Bars,1,Bars,37,3,7.238496840894365,0.9
+biz_646,Business 646,Charlotte,AZ,1.0,1131,1,Restaurants,1,Restaurants,33,1,7.0317412587631285,-1.701
+biz_647,Business 647,Cleveland,PA,3.5,439,1,Pizza,1,Pizza,42,3,6.0867747269123065,0.484
+biz_648,Business 648,Phoenix,OH,3.0,835,1,Automotive,1,Automotive,48,2,6.728628613084702,0.0
+biz_649,Business 649,Las Vegas,OH,1.5,227,1,Pizza,1,Pizza,38,1,5.429345628954441,-1.222
+biz_650,Business 650,Las Vegas,AZ,1.5,1468,1,Hotels,1,Hotels,40,1,7.292337176173877,-1.209
+biz_651,Business 651,Las Vegas,NV,3.5,442,0,Automotive,0,Automotive,55,3,6.093569770045136,0.446
+biz_652,Business 652,Charlotte,NV,2.0,396,1,Shopping,1,Shopping,38,1,5.983936280687191,-0.911
+biz_653,Business 653,Cleveland,PA,5.0,728,1,Shopping,1,Shopping,34,5,6.591673732008658,1.509
+biz_654,Business 654,Cleveland,PA,4.5,1605,1,Retail,1,Retail,41,4,7.381501894506707,1.297
+biz_655,Business 655,Phoenix,PA,5.0,84,1,Automotive,1,Automotive,48,5,4.442651256490317,1.785
+biz_656,Business 656,Phoenix,NV,2.0,1639,0,Beauty & Spas,0,Beauty & Spas,53,1,7.402451520818244,-0.85
+biz_657,Business 657,Las Vegas,NC,5.0,1575,1,Retail,1,Retail,46,5,7.362645270417825,1.716
+biz_658,Business 658,Phoenix,OH,2.5,1037,1,Beauty & Spas,1,Beauty & Spas,53,2,6.945051063725834,-0.409
+biz_659,Business 659,Charlotte,NC,2.5,1833,1,Hotels,1,Hotels,41,2,7.51425465281641,-0.337
+biz_660,Business 660,Cleveland,NC,1.0,1849,0,Coffee & Tea,0,Coffee & Tea,41,1,7.52294091807237,-1.675
+biz_661,Business 661,Las Vegas,NV,1.0,693,1,Restaurants,1,Restaurants,32,1,6.542471960506805,-1.701
+biz_662,Business 662,Phoenix,NC,4.0,493,1,Automotive,1,Automotive,48,3,6.202535517187923,0.893
+biz_663,Business 663,Charlotte,AZ,3.0,1292,0,Bars,0,Bars,26,2,7.164720378771857,0.034
+biz_664,Business 664,Charlotte,PA,2.0,1549,1,Health,1,Health,37,1,7.346010209913293,-0.791
+biz_665,Business 665,Phoenix,AZ,3.5,1144,1,Restaurants,1,Restaurants,40,3,7.0431599159883405,0.49
+biz_666,Business 666,Cleveland,OH,2.0,970,0,Hotels,0,Hotels,56,1,6.878326468291325,-0.773
+biz_667,Business 667,Phoenix,PA,3.5,353,0,Automotive,0,Automotive,48,3,5.869296913133774,0.446
+biz_668,Business 668,Las Vegas,NC,2.5,1081,0,Shopping,0,Shopping,33,2,6.9865664594064265,-0.508
+biz_669,Business 669,Phoenix,OH,4.5,40,1,Restaurants,1,Restaurants,40,4,3.713572066704308,1.366
+biz_670,Business 670,Charlotte,PA,4.5,1910,0,Beauty & Spas,0,Beauty & Spas,38,4,7.555381944240273,1.358
+biz_671,Business 671,Phoenix,NC,3.0,1360,1,Bars,1,Bars,43,2,7.215975002651466,0.034
+biz_672,Business 672,Cleveland,AZ,2.5,640,1,Restaurants,1,Restaurants,46,2,6.46302945692067,-0.387
+biz_673,Business 673,Pittsburgh,PA,2.5,173,1,Health,1,Health,39,2,5.159055299214529,-0.356
+biz_674,Business 674,Phoenix,NC,4.0,1571,0,Hotels,0,Hotels,36,3,7.360103972989152,0.97
+biz_675,Business 675,Cleveland,AZ,2.5,259,1,Hotels,1,Hotels,56,2,5.560681631015528,-0.337
+biz_676,Business 676,Cleveland,OH,2.0,1912,1,Retail,1,Retail,41,1,7.556427969440253,-0.796
+biz_677,Business 677,Charlotte,OH,1.5,517,1,Hotels,1,Hotels,41,1,6.249975242259483,-1.209
+biz_678,Business 678,Cleveland,OH,3.0,730,1,Retail,1,Retail,41,2,6.594413459749778,0.041
+biz_679,Business 679,Cleveland,OH,3.0,523,0,Hotels,0,Hotels,56,2,6.261491684321042,0.098
+biz_680,Business 680,Cleveland,NV,4.5,1918,1,Health,1,Health,24,4,7.5595594960077,1.383
+biz_681,Business 681,Cleveland,PA,2.0,839,1,Hotels,1,Hotels,56,1,6.733401891837359,-0.773
+biz_682,Business 682,Las Vegas,PA,2.5,117,1,Bars,1,Bars,37,2,4.770684624465665,-0.399
+biz_683,Business 683,Las Vegas,NV,4.0,184,1,Coffee & Tea,1,Coffee & Tea,41,3,5.220355825078324,0.799
+biz_684,Business 684,Charlotte,NC,4.5,1930,1,Shopping,1,Shopping,38,4,7.565793282428515,1.106
+biz_685,Business 685,Phoenix,NC,2.5,1898,0,Bars,0,Bars,43,2,7.549082710812286,-0.399
+biz_686,Business 686,Cleveland,OH,3.0,1140,1,Hotels,1,Hotels,56,2,7.039660349862076,0.098
+biz_687,Business 687,Phoenix,AZ,2.0,162,1,Automotive,1,Automotive,48,1,5.093750200806762,-0.893
+biz_688,Business 688,Phoenix,NC,4.5,1603,0,Beauty & Spas,0,Beauty & Spas,53,4,7.38025578842646,1.358
+biz_689,Business 689,Charlotte,AZ,1.5,1736,1,Coffee & Tea,1,Coffee & Tea,31,1,7.459914766241105,-1.263
+biz_690,Business 690,Cleveland,PA,4.5,543,1,Shopping,1,Shopping,34,4,6.298949246855942,1.106
+biz_691,Business 691,Cleveland,AZ,3.5,1611,1,Beauty & Spas,1,Beauty & Spas,40,3,7.385230923066573,0.475
+biz_692,Business 692,Pittsburgh,PA,3.0,1261,0,Bars,0,Bars,35,2,7.140453043101158,0.034
+biz_693,Business 693,Phoenix,NV,1.0,839,1,Health,1,Health,44,1,6.733401891837359,-1.66
+biz_694,Business 694,Phoenix,NV,3.0,1090,1,Health,1,Health,44,2,6.994849985833071,0.079
+biz_695,Business 695,Las Vegas,OH,2.5,1094,1,Beauty & Spas,1,Beauty & Spas,36,2,6.9985096422506015,-0.409
+biz_696,Business 696,Pittsburgh,NC,1.5,1833,0,Automotive,0,Automotive,38,1,7.51425465281641,-1.339
+biz_697,Business 697,Las Vegas,OH,3.5,447,1,Beauty & Spas,1,Beauty & Spas,36,3,6.104793232414985,0.475
+biz_698,Business 698,Las Vegas,PA,5.0,416,1,Bars,1,Bars,37,5,6.0330862217988015,1.766
+biz_699,Business 699,Las Vegas,OH,3.0,532,1,Beauty & Spas,1,Beauty & Spas,36,2,6.278521424165844,0.033
+biz_700,Business 700,Charlotte,AZ,4.0,441,1,Shopping,1,Shopping,38,3,6.091309882077698,0.702
+biz_701,Business 701,Charlotte,PA,1.5,738,0,Automotive,0,Automotive,47,1,6.6052979209482015,-1.339
+biz_702,Business 702,Las Vegas,NV,2.5,1970,0,Pizza,0,Pizza,38,2,7.58629630715272,-0.369
+biz_703,Business 703,Pittsburgh,NC,1.5,464,1,Restaurants,1,Restaurants,44,1,6.142037405587356,-1.263
+biz_704,Business 704,Phoenix,PA,3.5,1945,1,Pizza,1,Pizza,42,3,7.57353126274595,0.484
+biz_705,Business 705,Pittsburgh,PA,5.0,396,1,Retail,1,Retail,56,5,5.983936280687191,1.716
+biz_706,Business 706,Cleveland,AZ,3.5,711,1,Beauty & Spas,1,Beauty & Spas,40,3,6.568077911411976,0.475
+biz_707,Business 707,Charlotte,NC,1.5,1575,1,Health,1,Health,37,1,7.362645270417825,-1.225
+biz_708,Business 708,Phoenix,NV,2.5,1681,1,Pizza,1,Pizza,42,2,7.427738840532894,-0.369
+biz_709,Business 709,Phoenix,PA,3.0,1581,1,Hotels,1,Hotels,36,2,7.366445148327599,0.098
+biz_710,Business 710,Cleveland,PA,2.5,395,1,Bars,1,Bars,39,2,5.981414211254481,-0.399
+biz_711,Business 711,Cleveland,AZ,4.5,326,1,Pizza,1,Pizza,42,4,5.7899601708972535,1.337
+biz_712,Business 712,Las Vegas,OH,4.5,1917,1,Coffee & Tea,1,Coffee & Tea,41,4,7.559038255443384,1.211
+biz_713,Business 713,Charlotte,NV,3.5,1943,0,Automotive,0,Automotive,47,3,7.572502985020384,0.446
+biz_714,Business 714,Charlotte,NC,2.5,1115,1,Bars,1,Bars,26,2,7.017506142941256,-0.399
+biz_715,Business 715,Pittsburgh,PA,2.0,750,1,Health,1,Health,39,1,6.621405651764134,-0.791
+biz_716,Business 716,Las Vegas,PA,1.5,1094,1,Retail,1,Retail,46,1,6.9985096422506015,-1.215
+biz_717,Business 717,Las Vegas,NV,2.5,1190,1,Pizza,1,Pizza,38,2,7.0825485693553,-0.369
+biz_718,Business 718,Las Vegas,OH,2.5,642,1,Automotive,1,Automotive,55,2,6.466144724237619,-0.446
+biz_719,Business 719,Las Vegas,PA,3.5,214,1,Restaurants,1,Restaurants,32,3,5.3706380281276624,0.49
+biz_720,Business 720,Charlotte,NV,3.5,1876,1,Automotive,1,Automotive,47,3,7.537430036586509,0.446
+biz_721,Business 721,Charlotte,AZ,1.5,1625,1,Automotive,1,Automotive,47,1,7.3938782901077555,-1.339
+biz_722,Business 722,Las Vegas,OH,2.5,1359,0,Bars,0,Bars,37,2,7.215239978730097,-0.399
+biz_723,Business 723,Pittsburgh,NC,1.5,1788,1,Restaurants,1,Restaurants,44,1,7.489412083508719,-1.263
+biz_724,Business 724,Phoenix,PA,1.5,369,1,Automotive,1,Automotive,48,1,5.91350300563827,-1.339
+biz_725,Business 725,Phoenix,NV,4.5,1885,1,Coffee & Tea,1,Coffee & Tea,41,4,7.542213463193403,1.211
+biz_726,Business 726,Pittsburgh,AZ,1.0,1608,0,Pizza,0,Pizza,35,1,7.3833681469923835,-1.649
+biz_727,Business 727,Las Vegas,NC,2.5,1701,0,Pizza,0,Pizza,38,2,7.43955930913332,-0.369
+biz_728,Business 728,Charlotte,NV,1.5,49,1,Coffee & Tea,1,Coffee & Tea,31,1,3.912023005428146,-1.263
+biz_729,Business 729,Phoenix,NV,4.5,1076,1,Pizza,1,Pizza,42,4,6.981934677156389,1.337
+biz_730,Business 730,Cleveland,NC,3.0,1313,0,Automotive,0,Automotive,46,2,7.1808311990445555,0.0
+biz_731,Business 731,Cleveland,AZ,2.0,1814,1,Retail,1,Retail,41,1,7.503840746698951,-0.796
+biz_732,Business 732,Pittsburgh,AZ,3.0,1650,1,Automotive,1,Automotive,38,2,7.409136443920128,0.0
+biz_733,Business 733,Las Vegas,OH,4.0,1263,1,Bars,1,Bars,37,3,7.142036574706803,0.9
+biz_734,Business 734,Phoenix,PA,5.0,133,1,Hotels,1,Hotels,36,5,4.897839799950911,1.841
+biz_735,Business 735,Las Vegas,NC,2.0,999,1,Retail,1,Retail,46,1,6.907755278982137,-0.796
+biz_736,Business 736,Phoenix,NC,4.5,786,1,Health,1,Health,44,4,6.668228248417403,1.383
+biz_737,Business 737,Pittsburgh,NC,4.5,1190,1,Health,1,Health,39,4,7.0825485693553,1.383
+biz_738,Business 738,Pittsburgh,AZ,4.5,1398,1,Retail,1,Retail,56,4,7.243512974665482,1.297
+biz_739,Business 739,Cleveland,PA,3.5,373,1,Automotive,1,Automotive,46,3,5.924255797414532,0.446
+biz_740,Business 740,Las Vegas,OH,3.5,1829,0,Beauty & Spas,0,Beauty & Spas,36,3,7.512071245835466,0.475
+biz_741,Business 741,Cleveland,NV,2.5,1502,1,Hotels,1,Hotels,56,2,7.315218389752975,-0.337
+biz_742,Business 742,Las Vegas,NV,4.0,1779,1,Coffee & Tea,1,Coffee & Tea,41,3,7.484368643286131,0.799
+biz_743,Business 743,Cleveland,NC,3.0,479,1,Automotive,1,Automotive,46,2,6.173786103901937,0.0
+biz_744,Business 744,Charlotte,PA,3.5,832,1,Retail,1,Retail,38,3,6.725033642166843,0.46
+biz_745,Business 745,Charlotte,AZ,2.5,650,1,Beauty & Spas,1,Beauty & Spas,38,2,6.478509642208569,-0.409
+biz_746,Business 746,Charlotte,PA,4.0,1615,0,Automotive,0,Automotive,47,3,7.38770923908104,0.893
+biz_747,Business 747,Charlotte,PA,4.5,682,1,Beauty & Spas,1,Beauty & Spas,38,4,6.52649485957079,1.358
+biz_748,Business 748,Phoenix,AZ,1.5,1659,1,Retail,1,Retail,33,1,7.414572881350589,-1.215
+biz_749,Business 749,Charlotte,NC,4.5,688,1,Automotive,1,Automotive,47,4,6.535241271013659,1.339
+biz_750,Business 750,Pittsburgh,PA,3.0,1324,0,Restaurants,0,Restaurants,44,2,7.1891677384203225,0.052
+biz_751,Business 751,Pittsburgh,NV,4.5,82,1,Pizza,1,Pizza,35,4,4.418840607796598,1.337
+biz_752,Business 752,Phoenix,AZ,2.5,87,1,Retail,1,Retail,33,2,4.477336814478207,-0.378
+biz_753,Business 753,Charlotte,OH,2.5,225,1,Health,1,Health,37,2,5.420534999272286,-0.356
+biz_754,Business 754,Charlotte,NC,4.5,16,1,Health,1,Health,37,4,2.833213344056216,1.383
+biz_755,Business 755,Charlotte,AZ,2.0,822,1,Hotels,1,Hotels,41,1,6.71295620067707,-0.773
+biz_756,Business 756,Cleveland,OH,4.5,1382,0,Shopping,0,Shopping,34,4,7.232010331664759,1.106
+biz_757,Business 757,Las Vegas,OH,3.0,163,1,Health,1,Health,43,2,5.099866427824199,0.079
+biz_758,Business 758,Cleveland,PA,3.0,1634,0,Shopping,0,Shopping,34,2,7.399398083331354,-0.104
+biz_759,Business 759,Las Vegas,PA,2.0,1692,1,Restaurants,1,Restaurants,32,1,7.4342573821331355,-0.825
+biz_760,Business 760,Charlotte,PA,3.5,514,1,Retail,1,Retail,38,3,6.244166900663736,0.46
+biz_761,Business 761,Charlotte,AZ,2.5,350,1,Beauty & Spas,1,Beauty & Spas,38,2,5.860786223465865,-0.409
+biz_762,Business 762,Cleveland,AZ,1.0,1933,1,Hotels,1,Hotels,56,1,7.56734567601324,-1.644
+biz_763,Business 763,Cleveland,NC,2.0,681,1,Pizza,1,Pizza,42,1,6.525029657843462,-0.795
+biz_764,Business 764,Las Vegas,PA,1.0,1488,1,Coffee & Tea,1,Coffee & Tea,41,1,7.305860032684009,-1.675
+biz_765,Business 765,Pittsburgh,OH,5.0,1851,1,Shopping,1,Shopping,34,5,7.524021415206125,1.509
+biz_766,Business 766,Las Vegas,NV,5.0,1861,1,Pizza,1,Pizza,38,5,7.529406457837013,1.764
+biz_767,Business 767,Cleveland,NC,2.5,1399,1,Hotels,1,Hotels,56,2,7.24422751560335,-0.337
+biz_768,Business 768,Cleveland,AZ,4.0,1116,0,Hotels,0,Hotels,56,3,7.018401799069201,0.97
+biz_769,Business 769,Phoenix,NC,2.5,181,1,Health,1,Health,44,2,5.204006687076795,-0.356
+biz_770,Business 770,Cleveland,NC,3.5,743,1,Pizza,1,Pizza,42,3,6.612041034833092,0.484
+biz_771,Business 771,Phoenix,NC,4.0,1325,0,Automotive,0,Automotive,48,3,7.189922170745808,0.893
+biz_772,Business 772,Pittsburgh,NC,5.0,660,1,Bars,1,Bars,35,5,6.493753839851686,1.766
+biz_773,Business 773,Las Vegas,NV,2.5,1816,1,Hotels,1,Hotels,40,2,7.504942068396171,-0.337
+biz_774,Business 774,Las Vegas,PA,4.0,1213,0,Shopping,0,Shopping,33,3,7.101675971619444,0.702
+biz_775,Business 775,Phoenix,OH,2.0,1883,1,Coffee & Tea,1,Coffee & Tea,41,1,7.5411524551363085,-0.85
+biz_776,Business 776,Las Vegas,NC,5.0,1886,1,Coffee & Tea,1,Coffee & Tea,41,5,7.54274354536855,1.624
+biz_777,Business 777,Cleveland,NC,1.0,1338,1,Restaurants,1,Restaurants,46,1,7.199678345691172,-1.701
+biz_778,Business 778,Charlotte,NC,3.5,493,0,Restaurants,0,Restaurants,33,3,6.202535517187923,0.49
+biz_779,Business 779,Phoenix,PA,3.5,923,1,Health,1,Health,44,3,6.828712071641684,0.514
+biz_780,Business 780,Las Vegas,AZ,4.0,1946,1,Automotive,1,Automotive,55,3,7.5740450053721995,0.893
+biz_781,Business 781,Phoenix,AZ,1.5,128,1,Health,1,Health,44,1,4.859812404361672,-1.225
+biz_782,Business 782,Phoenix,NV,5.0,1543,1,Coffee & Tea,1,Coffee & Tea,41,5,7.342131730584722,1.624
+biz_783,Business 783,Charlotte,AZ,1.5,1450,1,Beauty & Spas,1,Beauty & Spas,38,1,7.280008252884188,-1.292
+biz_784,Business 784,Cleveland,NC,3.5,1583,1,Coffee & Tea,1,Coffee & Tea,41,3,7.367708572374371,0.387
+biz_785,Business 785,Phoenix,NC,2.0,565,1,Hotels,1,Hotels,36,1,6.338594078203183,-0.773
+biz_786,Business 786,Las Vegas,NC,2.0,1211,1,Pizza,1,Pizza,38,1,7.10002716662926,-0.795
+biz_787,Business 787,Pittsburgh,NV,3.0,550,1,Pizza,1,Pizza,35,2,6.311734809152915,0.058
+biz_788,Business 788,Phoenix,NC,2.5,453,1,Hotels,1,Hotels,36,2,6.118097198041348,-0.337
+biz_789,Business 789,Phoenix,AZ,1.5,471,1,Hotels,1,Hotels,36,1,6.156978985585555,-1.209
+biz_790,Business 790,Charlotte,PA,1.5,988,0,Coffee & Tea,0,Coffee & Tea,31,1,6.8966943316227125,-1.263
+biz_791,Business 791,Cleveland,PA,2.5,738,1,Pizza,1,Pizza,42,2,6.6052979209482015,-0.369
+biz_792,Business 792,Pittsburgh,OH,4.0,1589,1,Pizza,1,Pizza,35,3,7.371489295214277,0.911
+biz_793,Business 793,Las Vegas,AZ,4.5,1935,1,Retail,1,Retail,46,4,7.568379267836522,1.297
+biz_794,Business 794,Pittsburgh,NC,1.5,224,1,Pizza,1,Pizza,35,1,5.41610040220442,-1.222
+biz_795,Business 795,Las Vegas,PA,2.5,154,0,Hotels,0,Hotels,40,2,5.043425116919247,-0.337
+biz_796,Business 796,Cleveland,AZ,1.5,560,1,Restaurants,1,Restaurants,46,1,6.329720905522696,-1.263
+biz_797,Business 797,Las Vegas,PA,1.0,351,0,Automotive,0,Automotive,55,1,5.863631175598097,-1.785
+biz_798,Business 798,Charlotte,NC,3.5,1171,1,Beauty & Spas,1,Beauty & Spas,38,3,7.066466970136958,0.475
+biz_799,Business 799,Charlotte,PA,3.5,1929,1,Hotels,1,Hotels,41,3,7.5652752818989315,0.534
+biz_800,Business 800,Charlotte,OH,1.5,1600,1,Pizza,1,Pizza,50,1,7.3783837129967145,-1.222
+biz_801,Business 801,Charlotte,OH,2.0,349,1,Shopping,1,Shopping,38,1,5.857933154483459,-0.911
+biz_802,Business 802,Pittsburgh,PA,1.0,182,1,Coffee & Tea,1,Coffee & Tea,38,1,5.209486152841421,-1.675
+biz_803,Business 803,Cleveland,AZ,4.5,637,1,Coffee & Tea,1,Coffee & Tea,41,4,6.45833828334479,1.211
+biz_804,Business 804,Las Vegas,AZ,5.0,1018,0,Automotive,0,Automotive,55,5,6.926577033222725,1.785
+biz_805,Business 805,Las Vegas,AZ,1.5,179,0,Hotels,0,Hotels,40,1,5.19295685089021,-1.209
+biz_806,Business 806,Charlotte,PA,2.0,1063,1,Automotive,1,Automotive,47,1,6.96979066990159,-0.893
+biz_807,Business 807,Charlotte,AZ,4.5,772,1,Restaurants,1,Restaurants,33,4,6.650279048587422,1.366
+biz_808,Business 808,Phoenix,NC,4.5,894,1,Bars,1,Bars,43,4,6.796823718274855,1.333
+biz_809,Business 809,Cleveland,OH,2.5,1027,1,Health,1,Health,24,2,6.93537044601511,-0.356
+biz_810,Business 810,Pittsburgh,NC,1.0,1016,1,Shopping,1,Shopping,34,1,6.92461239604856,-1.718
+biz_811,Business 811,Las Vegas,AZ,1.0,64,1,Health,1,Health,43,1,4.174387269895637,-1.66
+biz_812,Business 812,Phoenix,NC,3.5,29,1,Bars,1,Bars,43,3,3.4011973816621555,0.467
+biz_813,Business 813,Phoenix,AZ,2.5,372,0,Shopping,0,Shopping,35,2,5.921578419643816,-0.508
+biz_814,Business 814,Las Vegas,PA,1.0,1547,0,Health,0,Health,43,1,7.344719054149673,-1.66
+biz_815,Business 815,Pittsburgh,NC,3.5,97,1,Shopping,1,Shopping,34,3,4.584967478670572,0.299
+biz_816,Business 816,Phoenix,PA,1.0,1894,1,Automotive,1,Automotive,48,1,7.546974117516527,-1.785
+biz_817,Business 817,Phoenix,PA,4.0,1466,1,Beauty & Spas,1,Beauty & Spas,53,3,7.2909747781429814,0.917
+biz_818,Business 818,Cleveland,NV,2.0,1227,0,Retail,0,Retail,41,1,7.113142108707088,-0.796
+biz_819,Business 819,Pittsburgh,AZ,1.0,1435,1,Shopping,1,Shopping,34,1,7.269616749608169,-1.718
+biz_820,Business 820,Phoenix,OH,3.5,993,1,Bars,1,Bars,43,3,6.901737206656574,0.467
+biz_821,Business 821,Pittsburgh,AZ,2.5,21,1,Automotive,1,Automotive,38,2,3.091042453358316,-0.446
+biz_822,Business 822,Las Vegas,OH,5.0,1575,1,Retail,1,Retail,46,5,7.362645270417825,1.716
+biz_823,Business 823,Charlotte,AZ,3.0,735,1,Automotive,1,Automotive,47,2,6.601230118728877,0.0
+biz_824,Business 824,Phoenix,PA,2.0,1126,1,Restaurants,1,Restaurants,40,1,7.027314514039777,-0.825
+biz_825,Business 825,Cleveland,NC,4.0,1070,0,Pizza,0,Pizza,42,3,6.976348070447749,0.911
+biz_826,Business 826,Las Vegas,NC,2.0,66,0,Coffee & Tea,0,Coffee & Tea,41,1,4.204692619390966,-0.85
+biz_827,Business 827,Pittsburgh,NV,4.5,603,1,Restaurants,1,Restaurants,44,4,6.403574197934815,1.366
+biz_828,Business 828,Las Vegas,OH,2.5,1188,1,Bars,1,Bars,37,2,7.080867896690782,-0.399
+biz_829,Business 829,Phoenix,OH,3.0,1995,1,Hotels,1,Hotels,36,2,7.59890045687141,0.098
+biz_830,Business 830,Pittsburgh,OH,1.0,1135,1,Hotels,1,Hotels,44,1,7.035268599281097,-1.644
+biz_831,Business 831,Charlotte,PA,2.5,338,1,Coffee & Tea,1,Coffee & Tea,31,2,5.82600010738045,-0.438
+biz_832,Business 832,Las Vegas,OH,4.5,123,0,Automotive,0,Automotive,55,4,4.820281565605037,1.339
+biz_833,Business 833,Phoenix,NC,4.0,1729,1,Beauty & Spas,1,Beauty & Spas,53,3,7.455876687491824,0.917
+biz_834,Business 834,Cleveland,PA,2.0,447,1,Bars,1,Bars,39,1,6.104793232414985,-0.832
+biz_835,Business 835,Pittsburgh,AZ,2.0,611,1,Coffee & Tea,1,Coffee & Tea,38,1,6.416732282512326,-0.85
+biz_836,Business 836,Las Vegas,OH,4.5,1315,1,Retail,1,Retail,46,4,7.182352111885263,1.297
+biz_837,Business 837,Las Vegas,OH,4.5,671,1,Retail,1,Retail,46,4,6.51025834052315,1.297
+biz_838,Business 838,Charlotte,AZ,1.5,1436,0,Hotels,0,Hotels,41,1,7.270312886079025,-1.209
+biz_839,Business 839,Charlotte,OH,3.0,615,1,Pizza,1,Pizza,50,2,6.423246963533519,0.058
+biz_840,Business 840,Cleveland,AZ,2.5,897,1,Automotive,1,Automotive,46,2,6.8001700683022,-0.446
+biz_841,Business 841,Cleveland,PA,4.5,281,1,Hotels,1,Hotels,56,4,5.641907070938114,1.405
+biz_842,Business 842,Phoenix,NC,1.5,1067,0,Beauty & Spas,0,Beauty & Spas,53,1,6.97354301952014,-1.292
+biz_843,Business 843,Phoenix,AZ,2.0,1510,1,Coffee & Tea,1,Coffee & Tea,41,1,7.32052696227274,-0.85
+biz_844,Business 844,Cleveland,NV,4.0,596,1,Shopping,1,Shopping,34,3,6.391917113392602,0.702
+biz_845,Business 845,Cleveland,AZ,1.0,1987,1,Beauty & Spas,1,Beauty & Spas,40,1,7.59488438721652,-1.734
+biz_846,Business 846,Pittsburgh,OH,3.0,703,1,Shopping,1,Shopping,34,2,6.556778356158042,-0.104
+biz_847,Business 847,Charlotte,PA,3.0,1075,1,Automotive,1,Automotive,47,2,6.98100574072173,0.0
+biz_848,Business 848,Phoenix,PA,2.5,1922,1,Coffee & Tea,1,Coffee & Tea,41,2,7.56164174558878,-0.438
+biz_849,Business 849,Charlotte,AZ,2.5,210,1,Retail,1,Retail,38,2,5.351858133476067,-0.378
+biz_850,Business 850,Charlotte,NC,3.0,126,1,Retail,1,Retail,38,2,4.844187086458591,0.041
+biz_851,Business 851,Cleveland,NV,1.5,492,0,Restaurants,0,Restaurants,46,1,6.20050917404269,-1.263
+biz_852,Business 852,Pittsburgh,PA,3.5,1533,1,Retail,1,Retail,56,3,7.335633981927201,0.46
+biz_853,Business 853,Las Vegas,OH,4.0,960,1,Bars,1,Bars,37,3,6.8679744089702925,0.9
+biz_854,Business 854,Pittsburgh,OH,4.0,970,0,Restaurants,0,Restaurants,44,3,6.878326468291325,0.928
+biz_855,Business 855,Pittsburgh,NC,1.5,581,1,Restaurants,1,Restaurants,44,1,6.366470447731438,-1.263
+biz_856,Business 856,Charlotte,PA,1.5,777,1,Retail,1,Retail,38,1,6.656726524178391,-1.215
+biz_857,Business 857,Pittsburgh,AZ,2.0,258,1,Hotels,1,Hotels,44,1,5.556828061699537,-0.773
+biz_858,Business 858,Phoenix,OH,2.5,1954,1,Pizza,1,Pizza,42,2,7.578145472419466,-0.369
+biz_859,Business 859,Charlotte,NC,2.5,1212,1,Pizza,1,Pizza,50,2,7.10085190894405,-0.369
+biz_860,Business 860,Phoenix,PA,3.5,230,1,Bars,1,Bars,43,3,5.442417710521793,0.467
+biz_861,Business 861,Las Vegas,PA,1.0,189,1,Health,1,Health,43,1,5.247024072160486,-1.66
+biz_862,Business 862,Charlotte,PA,1.0,1439,1,Hotels,1,Hotels,41,1,7.272398392570047,-1.644
+biz_863,Business 863,Las Vegas,PA,2.5,10,1,Health,1,Health,43,2,2.3978952727983707,-0.356
+biz_864,Business 864,Charlotte,PA,4.0,1138,1,Shopping,1,Shopping,38,3,7.037905963447182,0.702
+biz_865,Business 865,Cleveland,OH,2.0,1100,1,Hotels,1,Hotels,56,1,7.00397413672268,-0.773
+biz_866,Business 866,Pittsburgh,NC,3.5,676,1,Coffee & Tea,1,Coffee & Tea,38,3,6.517671272912275,0.387
+biz_867,Business 867,Cleveland,PA,2.0,502,1,Health,1,Health,24,1,6.220590170099739,-0.791
+biz_868,Business 868,Las Vegas,NV,4.5,85,0,Bars,0,Bars,37,4,4.454347296253507,1.333
+biz_869,Business 869,Pittsburgh,NV,4.5,49,1,Bars,1,Bars,35,4,3.912023005428146,1.333
+biz_870,Business 870,Charlotte,NC,2.0,1519,1,Hotels,1,Hotels,41,1,7.326465613840322,-0.773
+biz_871,Business 871,Pittsburgh,AZ,2.0,838,1,Restaurants,1,Restaurants,44,1,6.732210706467206,-0.825
+biz_872,Business 872,Phoenix,AZ,2.5,1008,0,Coffee & Tea,0,Coffee & Tea,41,2,6.9167150203536085,-0.438
+biz_873,Business 873,Pittsburgh,AZ,2.0,689,1,Automotive,1,Automotive,38,1,6.536691597591305,-0.893
+biz_874,Business 874,Phoenix,NV,3.5,387,1,Coffee & Tea,1,Coffee & Tea,41,3,5.961005339623274,0.387
+biz_875,Business 875,Pittsburgh,AZ,4.5,970,1,Bars,1,Bars,35,4,6.878326468291325,1.333
+biz_876,Business 876,Phoenix,OH,3.5,1413,1,Shopping,1,Shopping,35,3,7.254177846456518,0.299
+biz_877,Business 877,Las Vegas,PA,4.5,1006,1,Health,1,Health,43,4,6.914730892718563,1.383
+biz_878,Business 878,Cleveland,NV,2.5,218,1,Health,1,Health,24,2,5.389071729816501,-0.356
+biz_879,Business 879,Charlotte,NC,1.5,1725,1,Shopping,1,Shopping,38,1,7.453561871643373,-1.314
+biz_880,Business 880,Pittsburgh,NC,4.0,1005,0,Beauty & Spas,0,Beauty & Spas,33,3,6.913737350659685,0.917
+biz_881,Business 881,Cleveland,PA,2.5,1370,1,Hotels,1,Hotels,56,2,7.223295679562314,-0.337
+biz_882,Business 882,Charlotte,NV,3.5,1254,1,Bars,1,Bars,26,3,7.134890851565884,0.467
+biz_883,Business 883,Charlotte,AZ,2.0,255,1,Pizza,1,Pizza,50,1,5.545177444479562,-0.795
+biz_884,Business 884,Phoenix,AZ,1.5,236,1,Retail,1,Retail,33,1,5.4680601411351315,-1.215
+biz_885,Business 885,Las Vegas,OH,5.0,1050,1,Shopping,1,Shopping,33,5,6.957497370876951,1.509
+biz_886,Business 886,Las Vegas,OH,1.5,1608,1,Shopping,1,Shopping,33,1,7.3833681469923835,-1.314
+biz_887,Business 887,Cleveland,AZ,5.0,1285,1,Coffee & Tea,1,Coffee & Tea,41,5,7.1592919047975645,1.624
+biz_888,Business 888,Las Vegas,NC,5.0,1790,1,Hotels,1,Hotels,40,5,7.490529402060711,1.841
+biz_889,Business 889,Pittsburgh,NC,4.0,271,0,Hotels,0,Hotels,44,3,5.605802066295998,0.97
+biz_890,Business 890,Las Vegas,OH,3.5,123,1,Pizza,1,Pizza,38,3,4.820281565605037,0.484
+biz_891,Business 891,Cleveland,PA,3.5,656,0,Retail,0,Retail,41,3,6.48768401848461,0.46
+biz_892,Business 892,Las Vegas,AZ,4.5,1281,1,Hotels,1,Hotels,40,4,7.156176637480615,1.405
+biz_893,Business 893,Pittsburgh,OH,2.0,1680,0,Restaurants,0,Restaurants,44,1,7.427144133408616,-0.825
+biz_894,Business 894,Phoenix,OH,3.0,1445,0,Bars,0,Bars,43,2,7.27655640271871,0.034
+biz_895,Business 895,Cleveland,AZ,3.5,259,1,Restaurants,1,Restaurants,46,3,5.560681631015528,0.49
+biz_896,Business 896,Phoenix,AZ,2.5,948,1,Beauty & Spas,1,Beauty & Spas,53,2,6.855408798609928,-0.409
+biz_897,Business 897,Phoenix,NC,2.5,47,1,Bars,1,Bars,43,2,3.871201010907891,-0.399
+biz_898,Business 898,Phoenix,PA,2.5,863,0,Automotive,0,Automotive,48,2,6.761572768804055,-0.446
+biz_899,Business 899,Charlotte,PA,3.5,525,1,Bars,1,Bars,26,3,6.26530121273771,0.467
+biz_900,Business 900,Charlotte,AZ,4.5,888,0,Bars,0,Bars,26,4,6.790097235513905,1.333
+biz_901,Business 901,Phoenix,NV,2.0,208,1,Pizza,1,Pizza,42,1,5.342334251964811,-0.795
+biz_902,Business 902,Cleveland,OH,4.5,1335,1,Restaurants,1,Restaurants,46,4,7.197435354096591,1.366
+biz_903,Business 903,Pittsburgh,OH,4.0,747,1,Retail,1,Retail,56,3,6.617402977974478,0.879
+biz_904,Business 904,Pittsburgh,AZ,4.5,149,1,Coffee & Tea,1,Coffee & Tea,38,4,5.0106352940962555,1.211
+biz_905,Business 905,Las Vegas,NV,3.0,1858,1,Pizza,1,Pizza,38,2,7.527793987721444,0.058
+biz_906,Business 906,Cleveland,NC,4.0,438,1,Bars,1,Bars,39,3,6.0844994130751715,0.9
+biz_907,Business 907,Charlotte,AZ,1.0,155,1,Coffee & Tea,1,Coffee & Tea,31,1,5.049856007249537,-1.675
+biz_908,Business 908,Phoenix,AZ,4.5,1702,1,Health,1,Health,44,4,7.440146680662688,1.383
+biz_909,Business 909,Las Vegas,OH,1.0,1114,1,Coffee & Tea,1,Coffee & Tea,41,1,7.016609683894219,-1.675
+biz_910,Business 910,Pittsburgh,AZ,4.5,1722,0,Shopping,0,Shopping,34,4,7.45182223652793,1.106
+biz_911,Business 911,Charlotte,AZ,5.0,1854,1,Pizza,1,Pizza,50,5,7.5256399750415355,1.764
+biz_912,Business 912,Charlotte,AZ,2.0,358,1,Pizza,1,Pizza,50,1,5.883322388488279,-0.795
+biz_913,Business 913,Phoenix,OH,2.0,1198,1,Shopping,1,Shopping,35,1,7.089243155027514,-0.911
+biz_914,Business 914,Pittsburgh,NC,4.0,1241,0,Health,0,Health,39,3,7.124478262493424,0.949
+biz_915,Business 915,Cleveland,NC,2.0,1931,0,Hotels,0,Hotels,56,1,7.566311014772463,-0.773
+biz_916,Business 916,Charlotte,AZ,4.5,456,1,Hotels,1,Hotels,41,4,6.124683390894205,1.405
+biz_917,Business 917,Phoenix,OH,1.5,776,1,Hotels,1,Hotels,36,1,6.655440350367647,-1.209
+biz_918,Business 918,Cleveland,NC,1.5,1633,0,Hotels,0,Hotels,56,1,7.3987862754199485,-1.209
+biz_919,Business 919,Pittsburgh,NC,5.0,629,1,Restaurants,1,Restaurants,44,5,6.4457198193855785,1.805
+biz_920,Business 920,Charlotte,NC,3.5,1223,1,Shopping,1,Shopping,38,3,7.1098794630722715,0.299
+biz_921,Business 921,Cleveland,OH,4.5,832,1,Health,1,Health,24,4,6.725033642166843,1.383
+biz_922,Business 922,Cleveland,OH,2.5,486,0,Bars,0,Bars,39,2,6.18826412308259,-0.399
+biz_923,Business 923,Cleveland,AZ,3.5,533,1,Beauty & Spas,1,Beauty & Spas,40,3,6.280395838960195,0.475
+biz_924,Business 924,Charlotte,PA,3.5,200,1,Pizza,1,Pizza,50,3,5.303304908059076,0.484
+biz_925,Business 925,Charlotte,NC,3.5,371,0,Coffee & Tea,0,Coffee & Tea,31,3,5.918893854273146,0.387
+biz_926,Business 926,Las Vegas,PA,3.5,1014,1,Hotels,1,Hotels,40,3,6.922643891475888,0.534
+biz_927,Business 927,Pittsburgh,OH,3.5,1983,1,Coffee & Tea,1,Coffee & Tea,38,3,7.592870287844818,0.387
+biz_928,Business 928,Phoenix,OH,2.5,853,1,Beauty & Spas,1,Beauty & Spas,53,2,6.74993119378857,-0.409
+biz_929,Business 929,Cleveland,OH,2.0,1472,1,Pizza,1,Pizza,42,1,7.29505641646263,-0.795
+biz_930,Business 930,Las Vegas,PA,4.0,248,0,Automotive,0,Automotive,55,3,5.517452896464707,0.893
+biz_931,Business 931,Phoenix,OH,2.0,788,0,Retail,0,Retail,33,1,6.670766320845874,-0.796
+biz_932,Business 932,Las Vegas,AZ,4.0,264,1,Health,1,Health,43,3,5.579729825986222,0.949
+biz_933,Business 933,Charlotte,OH,2.0,1082,1,Restaurants,1,Restaurants,33,1,6.9874902470009905,-0.825
+biz_934,Business 934,Cleveland,NV,3.5,1326,1,Coffee & Tea,1,Coffee & Tea,41,3,7.190676034332207,0.387
+biz_935,Business 935,Phoenix,PA,4.0,31,1,Hotels,1,Hotels,36,3,3.4657359027997265,0.97
+biz_936,Business 936,Phoenix,NV,2.0,1522,1,Shopping,1,Shopping,35,1,7.328437352895162,-0.911
+biz_937,Business 937,Phoenix,OH,1.0,1273,1,Coffee & Tea,1,Coffee & Tea,41,1,7.149916836132109,-1.675
+biz_938,Business 938,Phoenix,AZ,1.5,605,0,Pizza,0,Pizza,42,1,6.406879986069314,-1.222
+biz_939,Business 939,Phoenix,NC,3.5,1801,1,Automotive,1,Automotive,48,3,7.496652438168283,0.446
+biz_940,Business 940,Las Vegas,OH,4.5,1295,1,Health,1,Health,43,4,7.16703787691222,1.383
+biz_941,Business 941,Cleveland,AZ,1.0,1630,1,Shopping,1,Shopping,34,1,7.396948602621014,-1.718
+biz_942,Business 942,Charlotte,PA,4.0,1690,0,Retail,0,Retail,38,3,7.43307534889858,0.879
+biz_943,Business 943,Charlotte,NV,2.5,1418,1,Pizza,1,Pizza,50,2,7.257707677160043,-0.369
+biz_944,Business 944,Charlotte,NV,3.0,1821,1,Automotive,1,Automotive,47,2,7.507690077819904,0.0
+biz_945,Business 945,Charlotte,NV,4.5,502,1,Shopping,1,Shopping,38,4,6.220590170099739,1.106
+biz_946,Business 946,Las Vegas,PA,2.5,1616,0,Retail,0,Retail,46,2,7.388327859577107,-0.378
+biz_947,Business 947,Pittsburgh,AZ,3.0,1828,1,Coffee & Tea,1,Coffee & Tea,38,2,7.511524648390866,-0.026
+biz_948,Business 948,Cleveland,PA,1.0,1108,1,Pizza,1,Pizza,42,1,7.011213987350367,-1.649
+biz_949,Business 949,Phoenix,NV,1.5,1389,1,Bars,1,Bars,43,1,7.237059026124737,-1.265
+biz_950,Business 950,Pittsburgh,OH,2.0,886,1,Retail,1,Retail,56,1,6.787844982309579,-0.796
+biz_951,Business 951,Charlotte,NC,1.0,549,0,Automotive,0,Automotive,47,1,6.309918278226516,-1.785
+biz_952,Business 952,Pittsburgh,PA,3.5,1366,1,Bars,1,Bars,35,3,7.220373836723949,0.467
+biz_953,Business 953,Cleveland,PA,2.5,839,1,Bars,1,Bars,39,2,6.733401891837359,-0.399
+biz_954,Business 954,Phoenix,AZ,3.0,1431,1,Restaurants,1,Restaurants,40,2,7.266827347520591,0.052
+biz_955,Business 955,Phoenix,AZ,1.5,1449,1,Automotive,1,Automotive,48,1,7.27931883541462,-1.339
+biz_956,Business 956,Cleveland,PA,2.0,1768,1,Bars,1,Bars,39,1,7.478169694159785,-0.832
+biz_957,Business 957,Cleveland,NV,3.5,1117,1,Coffee & Tea,1,Coffee & Tea,41,3,7.0192966537150445,0.387
+biz_958,Business 958,Charlotte,NC,5.0,848,0,Pizza,0,Pizza,50,5,6.744059186311348,1.764
+biz_959,Business 959,Phoenix,AZ,1.0,614,1,Pizza,1,Pizza,42,1,6.421622267806518,-1.649
+biz_960,Business 960,Pittsburgh,NV,4.5,412,1,Coffee & Tea,1,Coffee & Tea,38,4,6.023447592961033,1.211
+biz_961,Business 961,Las Vegas,OH,3.5,432,1,Restaurants,1,Restaurants,32,3,6.07073772800249,0.49
+biz_962,Business 962,Las Vegas,AZ,3.5,678,1,Health,1,Health,43,3,6.520621127558696,0.514
+biz_963,Business 963,Cleveland,NV,3.0,159,1,Restaurants,1,Restaurants,46,2,5.075173815233827,0.052
+biz_964,Business 964,Charlotte,NV,1.5,14,0,Pizza,0,Pizza,50,1,2.70805020110221,-1.222
+biz_965,Business 965,Las Vegas,NC,1.5,373,1,Health,1,Health,43,1,5.924255797414532,-1.225
+biz_966,Business 966,Phoenix,NC,3.5,225,0,Restaurants,0,Restaurants,40,3,5.420534999272286,0.49
+biz_967,Business 967,Cleveland,OH,2.5,1529,1,Bars,1,Bars,39,2,7.333023014386481,-0.399
+biz_968,Business 968,Pittsburgh,NV,4.5,1097,1,Health,1,Health,39,4,7.001245622069476,1.383
+biz_969,Business 969,Cleveland,NV,2.5,1273,1,Pizza,1,Pizza,42,2,7.149916836132109,-0.369
+biz_970,Business 970,Pittsburgh,NC,1.5,511,1,Coffee & Tea,1,Coffee & Tea,38,1,6.238324625039508,-1.263
+biz_971,Business 971,Cleveland,AZ,4.0,603,1,Hotels,1,Hotels,56,3,6.403574197934815,0.97
+biz_972,Business 972,Cleveland,AZ,2.0,216,1,Bars,1,Bars,39,1,5.37989735354046,-0.832
+biz_973,Business 973,Cleveland,PA,3.0,1997,1,Bars,1,Bars,39,2,7.599901959208498,0.034
+biz_974,Business 974,Pittsburgh,NC,4.0,1626,1,Hotels,1,Hotels,44,3,7.394493107219038,0.97
+biz_975,Business 975,Pittsburgh,PA,4.5,1565,1,Retail,1,Retail,56,4,7.356279876550748,1.297
+biz_976,Business 976,Cleveland,NC,4.0,1971,0,Beauty & Spas,0,Beauty & Spas,40,3,7.586803535162581,0.917
+biz_977,Business 977,Las Vegas,OH,3.5,1841,1,Shopping,1,Shopping,33,3,7.518607216815252,0.299
+biz_978,Business 978,Charlotte,NV,3.5,1963,1,Automotive,1,Automotive,47,3,7.582738488914411,0.446
+biz_979,Business 979,Charlotte,OH,5.0,988,1,Restaurants,1,Restaurants,33,5,6.8966943316227125,1.805
+biz_980,Business 980,Charlotte,NC,2.0,1244,1,Beauty & Spas,1,Beauty & Spas,38,1,7.126890808898808,-0.85
+biz_981,Business 981,Pittsburgh,NV,1.0,840,1,Restaurants,1,Restaurants,44,1,6.734591659972948,-1.701
+biz_982,Business 982,Pittsburgh,AZ,2.0,727,1,Beauty & Spas,1,Beauty & Spas,33,1,6.590301048196686,-0.85
+biz_983,Business 983,Las Vegas,AZ,2.0,1245,1,Health,1,Health,43,1,7.1276936993473985,-0.791
+biz_984,Business 984,Charlotte,PA,3.5,1413,1,Coffee & Tea,1,Coffee & Tea,31,3,7.254177846456518,0.387
+biz_985,Business 985,Charlotte,NC,3.5,554,1,Automotive,1,Automotive,47,3,6.318968113746434,0.446
+biz_986,Business 986,Cleveland,NC,3.5,1671,1,Automotive,1,Automotive,46,3,7.421775793644647,0.446
+biz_987,Business 987,Pittsburgh,AZ,1.0,1066,1,Restaurants,1,Restaurants,44,1,6.9726062513017535,-1.701
+biz_988,Business 988,Charlotte,OH,4.0,676,1,Hotels,1,Hotels,41,3,6.517671272912275,0.97
+biz_989,Business 989,Las Vegas,NV,2.5,873,1,Health,1,Health,43,2,6.773080375655535,-0.356
+biz_990,Business 990,Las Vegas,OH,3.5,283,0,Retail,0,Retail,46,3,5.648974238161206,0.46
+biz_991,Business 991,Charlotte,OH,3.0,1082,1,Automotive,1,Automotive,47,2,6.9874902470009905,0.0
+biz_992,Business 992,Pittsburgh,AZ,2.5,1838,1,Shopping,1,Shopping,34,2,7.516977224604321,-0.508
+biz_993,Business 993,Las Vegas,AZ,1.5,834,1,Restaurants,1,Restaurants,32,1,6.727431724850855,-1.263
+biz_994,Business 994,Cleveland,AZ,1.5,537,1,Bars,1,Bars,39,1,6.2878585601617845,-1.265
+biz_995,Business 995,Las Vegas,PA,4.5,1097,1,Shopping,1,Shopping,33,4,7.001245622069476,1.106
+biz_996,Business 996,Phoenix,OH,4.5,1909,1,Pizza,1,Pizza,42,4,7.554858521040676,1.337
+biz_997,Business 997,Phoenix,NC,3.5,923,1,Restaurants,1,Restaurants,40,3,6.828712071641684,0.49
+biz_998,Business 998,Pittsburgh,NV,1.5,1153,1,Restaurants,1,Restaurants,44,1,7.050989447068045,-1.263
+biz_999,Business 999,Charlotte,PA,2.5,1623,0,Bars,0,Bars,26,2,7.392647520721623,-0.399
+biz_1000,Business 1000,Pittsburgh,NC,4.0,842,1,Health,1,Health,39,3,6.736966958001855,0.949
+biz_1001,Business 1001,Pittsburgh,OH,4.0,1450,1,Bars,1,Bars,35,3,7.280008252884188,0.9
+biz_1002,Business 1002,Pittsburgh,AZ,1.5,948,1,Automotive,1,Automotive,38,1,6.855408798609928,-1.339
+biz_1003,Business 1003,Pittsburgh,OH,1.0,665,1,Coffee & Tea,1,Coffee & Tea,38,1,6.501289670540389,-1.675
+biz_1004,Business 1004,Cleveland,NV,4.0,1718,1,Restaurants,1,Restaurants,46,3,7.449498005382849,0.928
+biz_1005,Business 1005,Cleveland,PA,2.5,1149,1,Pizza,1,Pizza,42,2,7.047517221357296,-0.369
+biz_1006,Business 1006,Las Vegas,PA,2.0,67,1,Hotels,1,Hotels,40,1,4.219507705176107,-0.773
+biz_1007,Business 1007,Phoenix,NV,1.0,6,1,Restaurants,1,Restaurants,40,1,1.9459101490553132,-1.701
+biz_1008,Business 1008,Pittsburgh,NC,3.0,637,1,Bars,1,Bars,35,2,6.45833828334479,0.034
+biz_1009,Business 1009,Las Vegas,NC,4.5,314,1,Beauty & Spas,1,Beauty & Spas,36,4,5.752572638825633,1.358
+biz_1010,Business 1010,Phoenix,PA,5.0,1350,1,Restaurants,1,Restaurants,40,5,7.208600337960199,1.805
+biz_1011,Business 1011,Charlotte,PA,3.5,565,1,Restaurants,1,Restaurants,33,3,6.338594078203183,0.49
+biz_1012,Business 1012,Cleveland,AZ,3.0,1602,1,Pizza,1,Pizza,42,2,7.3796321526095525,0.058
+biz_1013,Business 1013,Phoenix,NC,1.5,826,1,Pizza,1,Pizza,42,1,6.717804695023691,-1.222
+biz_1014,Business 1014,Charlotte,NV,3.0,506,1,Restaurants,1,Restaurants,33,2,6.2285110035911835,0.052
+biz_1015,Business 1015,Phoenix,NC,2.5,1106,1,Beauty & Spas,1,Beauty & Spas,53,2,7.009408932708637,-0.409
+biz_1016,Business 1016,Cleveland,AZ,3.5,1623,1,Coffee & Tea,1,Coffee & Tea,41,3,7.392647520721623,0.387
+biz_1017,Business 1017,Cleveland,PA,2.5,1026,1,Retail,1,Retail,41,2,6.934397209928558,-0.378
+biz_1018,Business 1018,Las Vegas,PA,2.0,204,0,Beauty & Spas,0,Beauty & Spas,36,1,5.3230099791384085,-0.85
+biz_1019,Business 1019,Pittsburgh,AZ,1.5,662,1,Beauty & Spas,1,Beauty & Spas,33,1,6.4967749901858625,-1.292
+biz_1020,Business 1020,Phoenix,NV,2.5,805,1,Beauty & Spas,1,Beauty & Spas,53,2,6.692083742506628,-0.409
+biz_1021,Business 1021,Phoenix,PA,1.5,404,0,Coffee & Tea,0,Coffee & Tea,41,1,6.003887067106539,-1.263
+biz_1022,Business 1022,Charlotte,OH,1.5,1127,1,Health,1,Health,37,1,7.028201432058005,-1.225
+biz_1023,Business 1023,Cleveland,PA,5.0,536,1,Health,1,Health,24,5,6.285998094508865,1.818
+biz_1024,Business 1024,Phoenix,OH,3.0,1392,1,Beauty & Spas,1,Beauty & Spas,53,2,7.239214973779806,0.033
+biz_1025,Business 1025,Cleveland,AZ,3.0,1236,1,Retail,1,Retail,41,2,7.1204443723924875,0.041
+biz_1026,Business 1026,Phoenix,AZ,4.5,577,0,Bars,0,Bars,43,4,6.359573868672378,1.333
+biz_1027,Business 1027,Las Vegas,PA,5.0,1985,1,Shopping,1,Shopping,33,5,7.593877844605118,1.509
+biz_1028,Business 1028,Pittsburgh,NC,3.5,1233,0,Health,0,Health,39,3,7.1180162044653335,0.514
+biz_1029,Business 1029,Phoenix,OH,4.0,763,1,Hotels,1,Hotels,36,3,6.638567789166521,0.97
+biz_1030,Business 1030,Cleveland,NV,2.5,1921,0,Pizza,0,Pizza,42,2,7.561121589530238,-0.369
+biz_1031,Business 1031,Las Vegas,PA,2.0,117,1,Coffee & Tea,1,Coffee & Tea,41,1,4.770684624465665,-0.85
+biz_1032,Business 1032,Phoenix,NV,2.5,628,1,Coffee & Tea,1,Coffee & Tea,41,2,6.444131256700441,-0.438
+biz_1033,Business 1033,Charlotte,PA,3.5,749,1,Shopping,1,Shopping,38,3,6.620073206530356,0.299
+biz_1034,Business 1034,Pittsburgh,NC,3.5,1502,1,Health,1,Health,39,3,7.315218389752975,0.514
+biz_1035,Business 1035,Phoenix,NC,2.5,105,1,Retail,1,Retail,33,2,4.663439094112067,-0.378
+biz_1036,Business 1036,Las Vegas,NC,1.5,495,0,Retail,0,Retail,46,1,6.206575926724928,-1.215
+biz_1037,Business 1037,Charlotte,NC,3.5,1795,1,Pizza,1,Pizza,50,3,7.493317248862145,0.484
+biz_1038,Business 1038,Las Vegas,AZ,1.5,46,1,Beauty & Spas,1,Beauty & Spas,36,1,3.8501476017100584,-1.292
+biz_1039,Business 1039,Las Vegas,AZ,3.5,823,0,Bars,0,Bars,37,3,6.714170529909472,0.467
+biz_1040,Business 1040,Charlotte,OH,4.0,1355,1,Health,1,Health,37,3,7.212294468500341,0.949
+biz_1041,Business 1041,Las Vegas,NV,4.0,1240,1,Retail,1,Retail,46,3,7.123672785204607,0.879
+biz_1042,Business 1042,Charlotte,PA,4.0,982,1,Shopping,1,Shopping,38,3,6.890609120147166,0.702
+biz_1043,Business 1043,Phoenix,PA,4.5,960,1,Pizza,1,Pizza,42,4,6.8679744089702925,1.337
+biz_1044,Business 1044,Charlotte,AZ,3.0,1516,1,Restaurants,1,Restaurants,33,2,7.324489979348532,0.052
+biz_1045,Business 1045,Charlotte,PA,4.0,1837,1,Pizza,1,Pizza,50,3,7.516433302915632,0.911
+biz_1046,Business 1046,Pittsburgh,AZ,3.5,1946,1,Retail,1,Retail,56,3,7.5740450053721995,0.46
+biz_1047,Business 1047,Charlotte,OH,1.5,845,0,Restaurants,0,Restaurants,33,1,6.740519359606223,-1.263
+biz_1048,Business 1048,Charlotte,NV,1.0,449,1,Hotels,1,Hotels,41,1,6.1092475827643655,-1.644
+biz_1049,Business 1049,Phoenix,OH,2.0,536,1,Automotive,1,Automotive,48,1,6.285998094508865,-0.893
+biz_1050,Business 1050,Pittsburgh,NC,3.0,511,1,Pizza,1,Pizza,35,2,6.238324625039508,0.058
+biz_1051,Business 1051,Cleveland,NC,3.5,1482,1,Shopping,1,Shopping,34,3,7.301822342137932,0.299
+biz_1052,Business 1052,Phoenix,NC,4.5,1571,0,Shopping,0,Shopping,35,4,7.360103972989152,1.106
+biz_1053,Business 1053,Phoenix,OH,2.0,1560,1,Bars,1,Bars,43,1,7.353081920515432,-0.832
+biz_1054,Business 1054,Cleveland,PA,1.5,540,1,Beauty & Spas,1,Beauty & Spas,40,1,6.293419278846481,-1.292
+biz_1055,Business 1055,Charlotte,NV,5.0,1508,0,Pizza,0,Pizza,50,5,7.319202458767849,1.764
+biz_1056,Business 1056,Las Vegas,NC,1.5,16,1,Retail,1,Retail,46,1,2.833213344056216,-1.215
+biz_1057,Business 1057,Pittsburgh,NC,3.0,1595,0,Automotive,0,Automotive,38,2,7.3752557780097545,0.0
+biz_1058,Business 1058,Las Vegas,NC,3.5,243,1,Health,1,Health,43,3,5.497168225293202,0.514
+biz_1059,Business 1059,Cleveland,NV,3.0,1974,1,Retail,1,Retail,41,2,7.5883236773352225,0.041
+biz_1060,Business 1060,Phoenix,NC,1.5,1231,1,Shopping,1,Shopping,35,1,7.116394144093465,-1.314
+biz_1061,Business 1061,Phoenix,NV,1.0,912,1,Hotels,1,Hotels,36,1,6.816735880594968,-1.644
+biz_1062,Business 1062,Pittsburgh,NC,1.5,1295,1,Retail,1,Retail,56,1,7.16703787691222,-1.215
+biz_1063,Business 1063,Phoenix,OH,3.5,761,1,Coffee & Tea,1,Coffee & Tea,41,3,6.635946555686647,0.387
+biz_1064,Business 1064,Phoenix,OH,3.0,1803,1,Shopping,1,Shopping,35,2,7.4977617006225685,-0.104
+biz_1065,Business 1065,Pittsburgh,NV,2.0,705,1,Pizza,1,Pizza,35,1,6.559615237493242,-0.795
+biz_1066,Business 1066,Pittsburgh,OH,3.5,1871,1,Hotels,1,Hotels,44,3,7.534762657037537,0.534
+biz_1067,Business 1067,Cleveland,NV,4.5,1754,0,Coffee & Tea,0,Coffee & Tea,41,4,7.470224135899966,1.211
+biz_1068,Business 1068,Phoenix,OH,1.0,115,1,Restaurants,1,Restaurants,40,1,4.7535901911063645,-1.701
+biz_1069,Business 1069,Phoenix,OH,3.0,1604,1,Automotive,1,Automotive,48,2,7.380879035564116,0.0
+biz_1070,Business 1070,Cleveland,NV,4.0,1323,0,Shopping,0,Shopping,34,3,7.188412736496954,0.702
+biz_1071,Business 1071,Charlotte,PA,2.0,1861,1,Pizza,1,Pizza,50,1,7.529406457837013,-0.795
+biz_1072,Business 1072,Charlotte,OH,2.0,1507,1,Coffee & Tea,1,Coffee & Tea,31,1,7.318539548567902,-0.85
+biz_1073,Business 1073,Charlotte,NC,3.5,397,0,Coffee & Tea,0,Coffee & Tea,31,3,5.986452005284438,0.387
+biz_1074,Business 1074,Cleveland,PA,4.5,394,1,Beauty & Spas,1,Beauty & Spas,40,4,5.978885764901122,1.358
+biz_1075,Business 1075,Phoenix,NV,4.0,1099,1,Coffee & Tea,1,Coffee & Tea,41,3,7.003065458786462,0.799
+biz_1076,Business 1076,Cleveland,PA,3.5,978,1,Automotive,1,Automotive,46,3,6.88653164253051,0.446
+biz_1077,Business 1077,Cleveland,AZ,4.0,1506,1,Hotels,1,Hotels,56,3,7.317876198626496,0.97
+biz_1078,Business 1078,Charlotte,AZ,2.5,1127,1,Hotels,1,Hotels,41,2,7.028201432058005,-0.337
+biz_1079,Business 1079,Las Vegas,OH,3.5,297,1,Coffee & Tea,1,Coffee & Tea,41,3,5.697093486505405,0.387
+biz_1080,Business 1080,Phoenix,OH,3.0,1002,1,Pizza,1,Pizza,42,2,6.910750787961936,0.058
+biz_1081,Business 1081,Charlotte,NC,2.0,178,0,Shopping,0,Shopping,38,1,5.187385805840755,-0.911
+biz_1082,Business 1082,Las Vegas,PA,4.0,1239,0,Pizza,0,Pizza,38,3,7.122866658599083,0.911
+biz_1083,Business 1083,Las Vegas,AZ,3.0,967,1,Bars,1,Bars,37,2,6.875232087276577,0.034
+biz_1084,Business 1084,Pittsburgh,OH,2.5,315,1,Shopping,1,Shopping,34,2,5.755742213586912,-0.508
+biz_1085,Business 1085,Phoenix,PA,4.5,1063,1,Restaurants,1,Restaurants,40,4,6.96979066990159,1.366
+biz_1086,Business 1086,Las Vegas,OH,1.0,259,0,Automotive,0,Automotive,55,1,5.560681631015528,-1.785
+biz_1087,Business 1087,Charlotte,OH,2.5,1740,1,Pizza,1,Pizza,50,2,7.462214939768189,-0.369
+biz_1088,Business 1088,Pittsburgh,AZ,1.0,7,0,Beauty & Spas,0,Beauty & Spas,33,1,2.0794415416798357,-1.734
+biz_1089,Business 1089,Phoenix,AZ,4.0,49,1,Hotels,1,Hotels,36,3,3.912023005428146,0.97
+biz_1090,Business 1090,Cleveland,OH,4.0,1562,0,Coffee & Tea,0,Coffee & Tea,41,3,7.354362330421477,0.799
+biz_1091,Business 1091,Charlotte,NV,2.5,161,0,Shopping,0,Shopping,38,2,5.087596335232384,-0.508
+biz_1092,Business 1092,Las Vegas,OH,3.5,1893,1,Coffee & Tea,1,Coffee & Tea,41,3,7.546446273746024,0.387
+biz_1093,Business 1093,Las Vegas,OH,2.5,176,1,Restaurants,1,Restaurants,32,2,5.176149732573829,-0.387
+biz_1094,Business 1094,Charlotte,NC,4.0,1615,1,Bars,1,Bars,26,3,7.38770923908104,0.9
+biz_1095,Business 1095,Las Vegas,NC,3.0,1026,1,Coffee & Tea,1,Coffee & Tea,41,2,6.934397209928558,-0.026
+biz_1096,Business 1096,Pittsburgh,NC,2.5,1001,1,Pizza,1,Pizza,35,2,6.90975328164481,-0.369
+biz_1097,Business 1097,Phoenix,NV,4.5,1919,1,Shopping,1,Shopping,35,4,7.560080465021827,1.106
+biz_1098,Business 1098,Pittsburgh,NV,2.0,455,0,Beauty & Spas,0,Beauty & Spas,33,1,6.1224928095143865,-0.85
+biz_1099,Business 1099,Las Vegas,OH,1.5,1952,1,Restaurants,1,Restaurants,32,1,7.577121930876679,-1.263
+biz_1100,Business 1100,Cleveland,NC,3.5,1668,1,Retail,1,Retail,41,3,7.419979923661835,0.46
+biz_1101,Business 1101,Phoenix,NV,5.0,276,1,Automotive,1,Automotive,48,5,5.6240175061873385,1.785
+biz_1102,Business 1102,Phoenix,AZ,2.5,498,0,Bars,0,Bars,43,2,6.212606095751519,-0.399
+biz_1103,Business 1103,Charlotte,OH,1.0,1653,1,Pizza,1,Pizza,50,1,7.4109518755836366,-1.649
+biz_1104,Business 1104,Charlotte,PA,2.5,676,1,Automotive,1,Automotive,47,2,6.517671272912275,-0.446
+biz_1105,Business 1105,Cleveland,OH,3.0,1824,1,Beauty & Spas,1,Beauty & Spas,40,2,7.509335266016592,0.033
+biz_1106,Business 1106,Phoenix,PA,1.5,1052,0,Automotive,0,Automotive,48,1,6.959398512133975,-1.339
+biz_1107,Business 1107,Cleveland,NC,3.5,1357,0,Hotels,0,Hotels,56,3,7.213768308118642,0.534
+biz_1108,Business 1108,Charlotte,PA,5.0,1025,1,Shopping,1,Shopping,38,5,6.933423025730715,1.509
+biz_1109,Business 1109,Charlotte,NC,3.0,1212,1,Automotive,1,Automotive,47,2,7.10085190894405,0.0
+biz_1110,Business 1110,Phoenix,AZ,2.5,56,1,Pizza,1,Pizza,42,2,4.04305126783455,-0.369
+biz_1111,Business 1111,Pittsburgh,PA,2.5,547,1,Retail,1,Retail,56,2,6.306275286948016,-0.378
+biz_1112,Business 1112,Las Vegas,OH,1.5,1136,1,Hotels,1,Hotels,40,1,7.036148493750536,-1.209
+biz_1113,Business 1113,Charlotte,NC,4.5,1822,1,Hotels,1,Hotels,41,4,7.508238774678663,1.405
+biz_1114,Business 1114,Charlotte,OH,2.5,1334,1,Automotive,1,Automotive,47,2,7.19668657083435,-0.446
+biz_1115,Business 1115,Pittsburgh,NV,2.5,36,1,Bars,1,Bars,35,2,3.6109179126442243,-0.399
+biz_1116,Business 1116,Pittsburgh,NC,3.5,439,0,Health,0,Health,39,3,6.0867747269123065,0.514
+biz_1117,Business 1117,Cleveland,PA,3.0,1753,0,Bars,0,Bars,39,2,7.469654172932128,0.034
+biz_1118,Business 1118,Cleveland,NC,3.5,1616,1,Coffee & Tea,1,Coffee & Tea,41,3,7.388327859577107,0.387
+biz_1119,Business 1119,Las Vegas,OH,1.0,1850,0,Pizza,0,Pizza,38,1,7.523481312573497,-1.649
+biz_1120,Business 1120,Las Vegas,AZ,4.5,595,1,Health,1,Health,43,4,6.39024066706535,1.383
+biz_1121,Business 1121,Phoenix,NC,5.0,1601,0,Shopping,0,Shopping,35,5,7.379008127628304,1.509
+biz_1122,Business 1122,Cleveland,PA,3.5,1349,1,Hotels,1,Hotels,56,3,7.2078598714324755,0.534
+biz_1123,Business 1123,Charlotte,NV,5.0,1664,1,Pizza,1,Pizza,50,5,7.417580402414544,1.764
+biz_1124,Business 1124,Cleveland,AZ,1.5,307,1,Beauty & Spas,1,Beauty & Spas,40,1,5.730099782973574,-1.292
+biz_1125,Business 1125,Charlotte,NV,3.0,1558,0,Coffee & Tea,0,Coffee & Tea,31,2,7.351799869057777,-0.026
+biz_1126,Business 1126,Pittsburgh,NC,3.5,1752,1,Retail,1,Retail,56,3,7.469083884921234,0.46
+biz_1127,Business 1127,Cleveland,OH,3.5,619,1,Coffee & Tea,1,Coffee & Tea,41,3,6.429719478039138,0.387
+biz_1128,Business 1128,Pittsburgh,OH,2.5,1133,1,Pizza,1,Pizza,35,2,7.033506484287697,-0.369
+biz_1129,Business 1129,Las Vegas,PA,2.5,1396,0,Shopping,0,Shopping,33,2,7.242082359256962,-0.508
+biz_1130,Business 1130,Las Vegas,OH,1.5,357,1,Hotels,1,Hotels,40,1,5.8805329864007,-1.209
+biz_1131,Business 1131,Phoenix,AZ,2.5,181,1,Restaurants,1,Restaurants,40,2,5.204006687076795,-0.387
+biz_1132,Business 1132,Cleveland,OH,1.5,1380,1,Restaurants,1,Restaurants,46,1,7.2305631534092925,-1.263
+biz_1133,Business 1133,Pittsburgh,PA,4.0,1700,1,Pizza,1,Pizza,35,3,7.438971592395862,0.911
+biz_1134,Business 1134,Charlotte,NC,2.0,68,0,Automotive,0,Automotive,47,1,4.23410650459726,-0.893
+biz_1135,Business 1135,Las Vegas,NC,1.0,292,1,Bars,1,Bars,37,1,5.680172609017068,-1.698
+biz_1136,Business 1136,Las Vegas,OH,3.0,692,1,Coffee & Tea,1,Coffee & Tea,41,2,6.541029999189903,-0.026
+biz_1137,Business 1137,Charlotte,NV,3.5,181,1,Shopping,1,Shopping,38,3,5.204006687076795,0.299
+biz_1138,Business 1138,Pittsburgh,NC,4.5,1490,1,Coffee & Tea,1,Coffee & Tea,38,4,7.307202314764738,1.211
+biz_1139,Business 1139,Pittsburgh,OH,3.5,434,0,Beauty & Spas,0,Beauty & Spas,33,3,6.075346031088684,0.475
+biz_1140,Business 1140,Cleveland,PA,2.5,1488,1,Restaurants,1,Restaurants,46,2,7.305860032684009,-0.387
+biz_1141,Business 1141,Cleveland,OH,4.0,1705,0,Hotels,0,Hotels,56,3,7.441906728051625,0.97
+biz_1142,Business 1142,Phoenix,NC,3.0,914,1,Beauty & Spas,1,Beauty & Spas,53,2,6.818924065275521,0.033
+biz_1143,Business 1143,Las Vegas,PA,1.5,1558,1,Hotels,1,Hotels,40,1,7.351799869057777,-1.209
+biz_1144,Business 1144,Cleveland,OH,3.5,66,1,Coffee & Tea,1,Coffee & Tea,41,3,4.204692619390966,0.387
+biz_1145,Business 1145,Pittsburgh,AZ,4.5,1045,1,Shopping,1,Shopping,34,4,6.952728644624869,1.106
+biz_1146,Business 1146,Charlotte,PA,2.5,1636,1,Restaurants,1,Restaurants,33,2,7.400620577371135,-0.387
+biz_1147,Business 1147,Pittsburgh,AZ,2.0,384,1,Coffee & Tea,1,Coffee & Tea,38,1,5.953243334287785,-0.85
+biz_1148,Business 1148,Las Vegas,NV,1.5,1836,1,Restaurants,1,Restaurants,32,1,7.515889085215125,-1.263
+biz_1149,Business 1149,Pittsburgh,PA,1.5,1639,0,Pizza,0,Pizza,35,1,7.402451520818244,-1.222
+biz_1150,Business 1150,Phoenix,AZ,2.5,1583,0,Retail,0,Retail,33,2,7.367708572374371,-0.378
+biz_1151,Business 1151,Las Vegas,NC,3.5,39,1,Retail,1,Retail,46,3,3.6888794541139363,0.46
+biz_1152,Business 1152,Charlotte,NC,1.5,1309,1,Hotels,1,Hotels,41,1,7.177782416195197,-1.209
+biz_1153,Business 1153,Phoenix,NV,5.0,822,0,Coffee & Tea,0,Coffee & Tea,41,5,6.71295620067707,1.624
+biz_1154,Business 1154,Las Vegas,PA,4.0,602,1,Health,1,Health,43,3,6.401917196727186,0.949
+biz_1155,Business 1155,Charlotte,PA,3.5,1621,1,Restaurants,1,Restaurants,33,3,7.3914152346753585,0.49
+biz_1156,Business 1156,Phoenix,PA,4.5,785,1,Restaurants,1,Restaurants,40,4,6.666956792429207,1.366
+biz_1157,Business 1157,Phoenix,NV,1.5,1360,1,Health,1,Health,44,1,7.215975002651466,-1.225
+biz_1158,Business 1158,Las Vegas,PA,3.0,1212,1,Automotive,1,Automotive,55,2,7.10085190894405,0.0
+biz_1159,Business 1159,Cleveland,NC,3.5,671,1,Coffee & Tea,1,Coffee & Tea,41,3,6.51025834052315,0.387
+biz_1160,Business 1160,Phoenix,AZ,4.5,1267,1,Health,1,Health,44,4,7.145196134997171,1.383
+biz_1161,Business 1161,Phoenix,NC,4.0,1097,0,Retail,0,Retail,33,3,7.001245622069476,0.879
+biz_1162,Business 1162,Charlotte,NC,2.0,479,1,Restaurants,1,Restaurants,33,1,6.173786103901937,-0.825
+biz_1163,Business 1163,Pittsburgh,AZ,5.0,1998,1,Retail,1,Retail,56,5,7.6004023345004,1.716
+biz_1164,Business 1164,Las Vegas,NC,1.5,561,1,Coffee & Tea,1,Coffee & Tea,41,1,6.331501849893691,-1.263
+biz_1165,Business 1165,Las Vegas,NV,4.5,101,1,Shopping,1,Shopping,33,4,4.624972813284271,1.106
+biz_1166,Business 1166,Cleveland,AZ,5.0,514,1,Shopping,1,Shopping,34,5,6.244166900663736,1.509
+biz_1167,Business 1167,Cleveland,NC,1.5,1780,1,Hotels,1,Hotels,56,1,7.484930283289661,-1.209
+biz_1168,Business 1168,Las Vegas,OH,4.0,176,1,Retail,1,Retail,46,3,5.176149732573829,0.879
+biz_1169,Business 1169,Cleveland,NC,1.0,238,1,Retail,1,Retail,41,1,5.476463551931511,-1.634
+biz_1170,Business 1170,Charlotte,NV,2.5,910,1,Retail,1,Retail,38,2,6.814542897259958,-0.378
+biz_1171,Business 1171,Las Vegas,PA,3.0,1083,1,Automotive,1,Automotive,55,2,6.988413181999592,0.0
+biz_1172,Business 1172,Cleveland,NC,3.5,1889,1,Retail,1,Retail,41,3,7.5443321080536885,0.46
+biz_1173,Business 1173,Las Vegas,PA,4.5,1123,1,Shopping,1,Shopping,33,4,7.024649030453636,1.106
+biz_1174,Business 1174,Pittsburgh,OH,3.5,1978,1,Automotive,1,Automotive,38,3,7.590346945602565,0.446
+biz_1175,Business 1175,Phoenix,NC,3.0,871,1,Hotels,1,Hotels,36,2,6.77078942390898,0.098
+biz_1176,Business 1176,Las Vegas,AZ,4.0,1978,0,Pizza,0,Pizza,38,3,7.590346945602565,0.911
+biz_1177,Business 1177,Phoenix,PA,5.0,495,1,Beauty & Spas,1,Beauty & Spas,53,5,6.206575926724928,1.8
+biz_1178,Business 1178,Cleveland,OH,1.0,947,1,Hotels,1,Hotels,56,1,6.854354502255021,-1.644
+biz_1179,Business 1179,Phoenix,AZ,5.0,1538,0,Bars,0,Bars,43,5,7.338888133838879,1.766
+biz_1180,Business 1180,Las Vegas,AZ,1.5,755,1,Automotive,1,Automotive,55,1,6.628041376179533,-1.339
+biz_1181,Business 1181,Pittsburgh,AZ,4.5,1321,1,Shopping,1,Shopping,34,4,7.186901020411631,1.106
+biz_1182,Business 1182,Cleveland,AZ,2.0,211,1,Shopping,1,Shopping,34,1,5.356586274672012,-0.911
+biz_1183,Business 1183,Las Vegas,NC,1.5,1147,0,Coffee & Tea,0,Coffee & Tea,41,1,7.045776576879511,-1.263
+biz_1184,Business 1184,Cleveland,NC,3.0,1253,1,Restaurants,1,Restaurants,46,2,7.134093721192866,0.052
+biz_1185,Business 1185,Charlotte,NC,3.5,1618,1,Retail,1,Retail,38,3,7.389563953677635,0.46
+biz_1186,Business 1186,Phoenix,OH,2.5,1680,1,Shopping,1,Shopping,35,2,7.427144133408616,-0.508
+biz_1187,Business 1187,Charlotte,OH,1.0,1412,1,Retail,1,Retail,38,1,7.253470382684528,-1.634
+biz_1188,Business 1188,Las Vegas,OH,3.5,140,1,Health,1,Health,43,3,4.948759890378168,0.514
+biz_1189,Business 1189,Pittsburgh,NV,4.5,541,1,Restaurants,1,Restaurants,44,4,6.295266001439646,1.366
+biz_1190,Business 1190,Cleveland,OH,2.5,1415,1,Health,1,Health,24,2,7.255591274253665,-0.356
+biz_1191,Business 1191,Phoenix,NC,2.0,270,1,Retail,1,Retail,33,1,5.602118820879701,-0.796
+biz_1192,Business 1192,Cleveland,NC,3.0,1783,1,Automotive,1,Automotive,46,2,7.486613313139955,0.0
+biz_1193,Business 1193,Las Vegas,NV,1.0,1036,0,Bars,0,Bars,37,1,6.9440872082295275,-1.698
+biz_1194,Business 1194,Cleveland,NV,4.5,1891,1,Restaurants,1,Restaurants,46,4,7.545389749611823,1.366
+biz_1195,Business 1195,Phoenix,OH,4.5,1413,1,Automotive,1,Automotive,48,4,7.254177846456518,1.339
+biz_1196,Business 1196,Las Vegas,PA,3.5,1361,1,Shopping,1,Shopping,33,3,7.216709486709457,0.299
+biz_1197,Business 1197,Cleveland,NV,2.5,506,0,Bars,0,Bars,39,2,6.2285110035911835,-0.399
+biz_1198,Business 1198,Pittsburgh,AZ,4.0,1130,1,Pizza,1,Pizza,35,3,7.030857476116121,0.911
+biz_1199,Business 1199,Las Vegas,NC,3.0,32,0,Shopping,0,Shopping,33,2,3.4965075614664802,-0.104
+biz_1200,Business 1200,Las Vegas,AZ,4.5,1098,0,Beauty & Spas,0,Beauty & Spas,36,4,7.002155954403621,1.358
+biz_1201,Business 1201,Pittsburgh,NC,3.5,1195,1,Hotels,1,Hotels,44,3,7.086737934510577,0.534
+biz_1202,Business 1202,Charlotte,NC,4.0,1873,1,Restaurants,1,Restaurants,33,3,7.535830462798367,0.928
+biz_1203,Business 1203,Phoenix,NV,3.5,1093,1,Beauty & Spas,1,Beauty & Spas,53,3,6.9975959829819265,0.475
+biz_1204,Business 1204,Charlotte,NV,2.5,813,0,Retail,0,Retail,38,2,6.70196036600254,-0.378
+biz_1205,Business 1205,Cleveland,AZ,5.0,362,1,Restaurants,1,Restaurants,46,5,5.8944028342648505,1.805
+biz_1206,Business 1206,Pittsburgh,NC,3.0,1673,0,Hotels,0,Hotels,44,2,7.422971251049421,0.098
+biz_1207,Business 1207,Charlotte,AZ,3.5,1457,1,Restaurants,1,Restaurants,33,3,7.284820912568604,0.49
+biz_1208,Business 1208,Las Vegas,PA,2.0,929,1,Automotive,1,Automotive,55,1,6.835184586147301,-0.893
+biz_1209,Business 1209,Cleveland,AZ,3.5,100,1,Health,1,Health,24,3,4.61512051684126,0.514
+biz_1210,Business 1210,Cleveland,OH,3.5,1682,1,Coffee & Tea,1,Coffee & Tea,41,3,7.428333194190806,0.387
+biz_1211,Business 1211,Charlotte,AZ,1.5,9,0,Automotive,0,Automotive,47,1,2.302585092994046,-1.339
+biz_1212,Business 1212,Charlotte,OH,1.0,1598,1,Hotels,1,Hotels,41,1,7.377133712833954,-1.644
+biz_1213,Business 1213,Pittsburgh,OH,3.5,697,1,Restaurants,1,Restaurants,44,3,6.548219102762372,0.49
+biz_1214,Business 1214,Phoenix,OH,4.0,1053,1,Automotive,1,Automotive,48,3,6.960347729101308,0.893
+biz_1215,Business 1215,Charlotte,PA,3.0,1917,1,Health,1,Health,37,2,7.559038255443384,0.079
+biz_1216,Business 1216,Charlotte,AZ,2.0,1138,0,Beauty & Spas,0,Beauty & Spas,38,1,7.037905963447182,-0.85
+biz_1217,Business 1217,Las Vegas,AZ,3.5,462,1,Automotive,1,Automotive,55,3,6.137727054086234,0.446
+biz_1218,Business 1218,Cleveland,PA,1.5,921,1,Retail,1,Retail,41,1,6.826545223556594,-1.215
+biz_1219,Business 1219,Phoenix,NC,3.0,1167,1,Beauty & Spas,1,Beauty & Spas,53,2,7.0630481633881725,0.033
+biz_1220,Business 1220,Las Vegas,NV,1.5,390,0,Hotels,0,Hotels,40,1,5.968707559985366,-1.209
+biz_1221,Business 1221,Pittsburgh,AZ,1.5,632,0,Beauty & Spas,0,Beauty & Spas,33,1,6.450470422144176,-1.292
+biz_1222,Business 1222,Pittsburgh,NV,2.0,682,1,Restaurants,1,Restaurants,44,1,6.52649485957079,-0.825
+biz_1223,Business 1223,Charlotte,PA,2.5,157,1,Bars,1,Bars,26,2,5.062595033026967,-0.399
+biz_1224,Business 1224,Charlotte,NC,1.0,335,1,Bars,1,Bars,26,1,5.817111159963204,-1.698
+biz_1225,Business 1225,Pittsburgh,NC,2.5,1885,0,Pizza,0,Pizza,35,2,7.542213463193403,-0.369
+biz_1226,Business 1226,Charlotte,NC,3.0,260,1,Retail,1,Retail,38,2,5.564520407322694,0.041
+biz_1227,Business 1227,Phoenix,PA,3.0,82,1,Restaurants,1,Restaurants,40,2,4.418840607796598,0.052
+biz_1228,Business 1228,Charlotte,OH,2.5,754,1,Hotels,1,Hotels,41,2,6.626717749249025,-0.337
+biz_1229,Business 1229,Cleveland,OH,4.5,1465,1,Shopping,1,Shopping,34,4,7.290292882446597,1.106
+biz_1230,Business 1230,Charlotte,NV,1.5,1969,1,Bars,1,Bars,26,1,7.585788821732034,-1.265
+biz_1231,Business 1231,Las Vegas,OH,3.0,1196,1,Hotels,1,Hotels,40,2,7.087573705557973,0.098
+biz_1232,Business 1232,Phoenix,OH,1.0,1255,1,Beauty & Spas,1,Beauty & Spas,53,1,7.135687347028144,-1.734
+biz_1233,Business 1233,Las Vegas,NC,1.5,720,0,Automotive,0,Automotive,55,1,6.580639137284949,-1.339
+biz_1234,Business 1234,Las Vegas,NC,3.5,75,1,Bars,1,Bars,37,3,4.330733340286331,0.467
+biz_1235,Business 1235,Cleveland,NV,3.5,1294,1,Restaurants,1,Restaurants,46,3,7.166265974133638,0.49
+biz_1236,Business 1236,Phoenix,AZ,4.5,1923,1,Bars,1,Bars,43,4,7.562161631225652,1.333
+biz_1237,Business 1237,Phoenix,NV,3.0,626,1,Health,1,Health,44,2,6.440946540632921,0.079
+biz_1238,Business 1238,Phoenix,NV,5.0,62,1,Health,1,Health,44,5,4.143134726391533,1.818
+biz_1239,Business 1239,Phoenix,PA,1.0,874,1,Health,1,Health,44,1,6.774223886357614,-1.66
+biz_1240,Business 1240,Phoenix,PA,1.5,320,1,Retail,1,Retail,33,1,5.771441123130016,-1.215
+biz_1241,Business 1241,Cleveland,NV,1.0,102,1,Bars,1,Bars,39,1,4.634728988229636,-1.698
+biz_1242,Business 1242,Charlotte,NV,1.5,1453,0,Pizza,0,Pizza,50,1,7.282073658093465,-1.222
+biz_1243,Business 1243,Las Vegas,NV,3.0,874,0,Hotels,0,Hotels,40,2,6.774223886357614,0.098
+biz_1244,Business 1244,Phoenix,OH,3.5,1746,1,Health,1,Health,44,3,7.465655310134056,0.514
+biz_1245,Business 1245,Charlotte,PA,1.0,954,0,Beauty & Spas,0,Beauty & Spas,38,1,6.86171134048073,-1.734
+biz_1246,Business 1246,Charlotte,NV,5.0,255,1,Restaurants,1,Restaurants,33,5,5.545177444479562,1.805
+biz_1247,Business 1247,Las Vegas,NC,4.5,1556,1,Retail,1,Retail,46,4,7.350516171833998,1.297
+biz_1248,Business 1248,Cleveland,NC,2.0,570,1,Coffee & Tea,1,Coffee & Tea,41,1,6.3473892096560105,-0.85
+biz_1249,Business 1249,Pittsburgh,OH,1.5,112,1,Health,1,Health,39,1,4.727387818712341,-1.225
+biz_1250,Business 1250,Pittsburgh,OH,1.5,985,1,Hotels,1,Hotels,44,1,6.893656354602635,-1.209
+biz_1251,Business 1251,Charlotte,AZ,1.5,1337,0,Beauty & Spas,0,Beauty & Spas,38,1,7.198931240688173,-1.292
+biz_1252,Business 1252,Las Vegas,AZ,1.5,998,1,Restaurants,1,Restaurants,32,1,6.906754778648554,-1.263
+biz_1253,Business 1253,Pittsburgh,AZ,3.0,461,1,Automotive,1,Automotive,38,2,6.135564891081739,0.0
+biz_1254,Business 1254,Charlotte,OH,2.0,708,1,Shopping,1,Shopping,38,1,6.5638555265321274,-0.911
+biz_1255,Business 1255,Cleveland,OH,2.5,887,1,Beauty & Spas,1,Beauty & Spas,40,2,6.78897174299217,-0.409
+biz_1256,Business 1256,Pittsburgh,OH,5.0,1486,1,Pizza,1,Pizza,35,5,7.304515946460155,1.764
+biz_1257,Business 1257,Charlotte,NC,3.5,1889,0,Beauty & Spas,0,Beauty & Spas,38,3,7.5443321080536885,0.475
+biz_1258,Business 1258,Charlotte,OH,5.0,1116,1,Beauty & Spas,1,Beauty & Spas,38,5,7.018401799069201,1.8
+biz_1259,Business 1259,Phoenix,NC,1.5,1076,0,Pizza,0,Pizza,42,1,6.981934677156389,-1.222
+biz_1260,Business 1260,Cleveland,AZ,2.5,1829,1,Automotive,1,Automotive,46,2,7.512071245835466,-0.446
+biz_1261,Business 1261,Phoenix,AZ,3.0,520,1,Retail,1,Retail,33,2,6.255750041753367,0.041
+biz_1262,Business 1262,Las Vegas,AZ,1.5,812,1,Bars,1,Bars,37,1,6.70073110954781,-1.265
+biz_1263,Business 1263,Phoenix,NV,1.0,1122,1,Restaurants,1,Restaurants,40,1,7.023758954738443,-1.701
+biz_1264,Business 1264,Phoenix,NV,3.5,236,0,Beauty & Spas,0,Beauty & Spas,53,3,5.4680601411351315,0.475
+biz_1265,Business 1265,Pittsburgh,PA,3.5,1925,1,Beauty & Spas,1,Beauty & Spas,33,3,7.563200592358071,0.475
+biz_1266,Business 1266,Charlotte,PA,2.5,1398,0,Pizza,0,Pizza,50,2,7.243512974665482,-0.369
+biz_1267,Business 1267,Cleveland,PA,3.0,1605,0,Hotels,0,Hotels,56,2,7.381501894506707,0.098
+biz_1268,Business 1268,Phoenix,NV,2.5,927,1,Beauty & Spas,1,Beauty & Spas,53,2,6.833031732786201,-0.409
+biz_1269,Business 1269,Cleveland,NV,1.0,557,1,Beauty & Spas,1,Beauty & Spas,40,1,6.324358962381311,-1.734
+biz_1270,Business 1270,Phoenix,PA,2.5,649,1,Pizza,1,Pizza,42,2,6.476972362889683,-0.369
+biz_1271,Business 1271,Las Vegas,PA,1.5,234,1,Hotels,1,Hotels,40,1,5.459585514144159,-1.209
+biz_1272,Business 1272,Phoenix,OH,1.5,1056,1,Pizza,1,Pizza,42,1,6.963189985870238,-1.222
+biz_1273,Business 1273,Pittsburgh,PA,5.0,1313,1,Retail,1,Retail,56,5,7.1808311990445555,1.716
+biz_1274,Business 1274,Charlotte,OH,3.5,1662,0,Beauty & Spas,0,Beauty & Spas,38,3,7.416378479192928,0.475
+biz_1275,Business 1275,Las Vegas,NC,4.0,579,1,Health,1,Health,43,3,6.363028103540465,0.949
+biz_1276,Business 1276,Phoenix,NV,2.5,542,1,Restaurants,1,Restaurants,40,2,6.297109319933935,-0.387
+biz_1277,Business 1277,Cleveland,PA,2.5,114,1,Hotels,1,Hotels,56,2,4.74493212836325,-0.337
+biz_1278,Business 1278,Las Vegas,NV,2.0,204,1,Health,1,Health,43,1,5.3230099791384085,-0.791
+biz_1279,Business 1279,Las Vegas,NV,1.5,1053,1,Pizza,1,Pizza,38,1,6.960347729101308,-1.222
+biz_1280,Business 1280,Phoenix,NV,1.5,643,1,Beauty & Spas,1,Beauty & Spas,53,1,6.467698726104354,-1.292
+biz_1281,Business 1281,Las Vegas,NC,4.0,474,1,Pizza,1,Pizza,38,3,6.163314804034641,0.911
+biz_1282,Business 1282,Cleveland,AZ,3.5,697,1,Bars,1,Bars,39,3,6.548219102762372,0.467
+biz_1283,Business 1283,Las Vegas,PA,3.0,253,1,Bars,1,Bars,37,2,5.537334267018537,0.034
+biz_1284,Business 1284,Cleveland,AZ,3.0,1822,1,Retail,1,Retail,41,2,7.508238774678663,0.041
+biz_1285,Business 1285,Phoenix,AZ,4.5,905,1,Beauty & Spas,1,Beauty & Spas,53,4,6.80903930604298,1.358
+biz_1286,Business 1286,Charlotte,AZ,1.5,1946,1,Beauty & Spas,1,Beauty & Spas,38,1,7.5740450053721995,-1.292
+biz_1287,Business 1287,Las Vegas,NV,2.0,386,1,Health,1,Health,43,1,5.958424693029782,-0.791
+biz_1288,Business 1288,Charlotte,OH,2.5,62,1,Coffee & Tea,1,Coffee & Tea,31,2,4.143134726391533,-0.438
+biz_1289,Business 1289,Cleveland,NV,4.0,515,1,Beauty & Spas,1,Beauty & Spas,40,3,6.246106765481563,0.917
+biz_1290,Business 1290,Las Vegas,NV,5.0,430,1,Retail,1,Retail,46,5,6.066108090103747,1.716
+biz_1291,Business 1291,Pittsburgh,AZ,2.0,580,1,Hotels,1,Hotels,44,1,6.364750756851911,-0.773
+biz_1292,Business 1292,Charlotte,NV,4.5,1561,1,Hotels,1,Hotels,41,4,7.3537223303996315,1.405
+biz_1293,Business 1293,Las Vegas,AZ,4.5,1715,1,Pizza,1,Pizza,38,4,7.447751280047908,1.337
+biz_1294,Business 1294,Charlotte,OH,2.0,1165,1,Health,1,Health,37,1,7.061334366910438,-0.791
+biz_1295,Business 1295,Las Vegas,PA,2.5,743,1,Automotive,1,Automotive,55,2,6.612041034833092,-0.446
+biz_1296,Business 1296,Phoenix,AZ,2.5,1324,0,Shopping,0,Shopping,35,2,7.1891677384203225,-0.508
+biz_1297,Business 1297,Charlotte,OH,5.0,675,1,Pizza,1,Pizza,50,5,6.516193076042964,1.764
+biz_1298,Business 1298,Pittsburgh,PA,1.5,311,1,Beauty & Spas,1,Beauty & Spas,33,1,5.7430031878094825,-1.292
+biz_1299,Business 1299,Pittsburgh,NC,4.0,471,1,Pizza,1,Pizza,35,3,6.156978985585555,0.911
+biz_1300,Business 1300,Cleveland,AZ,2.5,1417,1,Automotive,1,Automotive,46,2,7.257002707092073,-0.446
+biz_1301,Business 1301,Las Vegas,AZ,4.0,1666,1,Shopping,1,Shopping,33,3,7.418780882750794,0.702
+biz_1302,Business 1302,Charlotte,NC,2.5,1469,0,Automotive,0,Automotive,47,2,7.293017679772782,-0.446
+biz_1303,Business 1303,Cleveland,NC,3.5,1782,1,Automotive,1,Automotive,46,3,7.48605261786314,0.446
+biz_1304,Business 1304,Charlotte,AZ,4.5,809,1,Bars,1,Bars,26,4,6.697034247666484,1.333
+biz_1305,Business 1305,Las Vegas,NC,4.0,172,1,Hotels,1,Hotels,40,3,5.153291594497779,0.97
+biz_1306,Business 1306,Pittsburgh,NV,4.5,576,0,Coffee & Tea,0,Coffee & Tea,38,4,6.3578422665081,1.211
+biz_1307,Business 1307,Phoenix,PA,1.0,31,1,Beauty & Spas,1,Beauty & Spas,53,1,3.4657359027997265,-1.734
+biz_1308,Business 1308,Pittsburgh,PA,4.0,47,1,Retail,1,Retail,56,3,3.871201010907891,0.879
+biz_1309,Business 1309,Cleveland,PA,1.5,130,1,Health,1,Health,24,1,4.875197323201151,-1.225
+biz_1310,Business 1310,Phoenix,NV,2.5,352,1,Pizza,1,Pizza,42,2,5.8664680569332965,-0.369
+biz_1311,Business 1311,Cleveland,NC,3.0,978,1,Beauty & Spas,1,Beauty & Spas,40,2,6.88653164253051,0.033
+biz_1312,Business 1312,Las Vegas,OH,2.5,1869,1,Bars,1,Bars,37,2,7.533693709848633,-0.399
+biz_1313,Business 1313,Phoenix,NC,3.0,1646,1,Hotels,1,Hotels,36,2,7.4067107301776405,0.098
+biz_1314,Business 1314,Cleveland,AZ,5.0,1605,1,Pizza,1,Pizza,42,5,7.381501894506707,1.764
+biz_1315,Business 1315,Las Vegas,PA,1.5,58,0,Health,0,Health,43,1,4.07753744390572,-1.225
+biz_1316,Business 1316,Pittsburgh,NC,3.5,1130,1,Coffee & Tea,1,Coffee & Tea,38,3,7.030857476116121,0.387
+biz_1317,Business 1317,Las Vegas,OH,2.5,812,1,Beauty & Spas,1,Beauty & Spas,36,2,6.70073110954781,-0.409
+biz_1318,Business 1318,Charlotte,AZ,1.5,1354,1,Retail,1,Retail,38,1,7.2115567333138015,-1.215
+biz_1319,Business 1319,Las Vegas,NV,1.5,768,1,Hotels,1,Hotels,40,1,6.645090969505644,-1.209
+biz_1320,Business 1320,Las Vegas,NV,5.0,1848,0,Restaurants,0,Restaurants,32,5,7.522400231387125,1.805
+biz_1321,Business 1321,Charlotte,OH,4.5,683,0,Beauty & Spas,0,Beauty & Spas,38,4,6.52795791762255,1.358
+biz_1322,Business 1322,Cleveland,AZ,4.5,1407,1,Automotive,1,Automotive,46,4,7.249925536717988,1.339
+biz_1323,Business 1323,Cleveland,PA,5.0,1186,1,Automotive,1,Automotive,46,5,7.079184394609668,1.785
+biz_1324,Business 1324,Las Vegas,NC,2.0,997,1,Retail,1,Retail,46,1,6.905753276311464,-0.796
+biz_1325,Business 1325,Charlotte,AZ,2.5,286,1,Shopping,1,Shopping,38,2,5.659482215759621,-0.508
+biz_1326,Business 1326,Charlotte,NV,3.5,1095,1,Retail,1,Retail,38,3,6.999422467507961,0.46
+biz_1327,Business 1327,Pittsburgh,OH,3.0,1791,0,Hotels,0,Hotels,44,2,7.491087593534876,0.098
+biz_1328,Business 1328,Cleveland,OH,2.5,1478,0,Automotive,0,Automotive,46,2,7.2991214627108,-0.446
+biz_1329,Business 1329,Phoenix,NC,2.5,886,1,Coffee & Tea,1,Coffee & Tea,41,2,6.787844982309579,-0.438
+biz_1330,Business 1330,Cleveland,OH,3.5,1591,1,Coffee & Tea,1,Coffee & Tea,41,3,7.3727463664043285,0.387
+biz_1331,Business 1331,Cleveland,OH,3.5,1859,1,Automotive,1,Automotive,46,3,7.528331766707247,0.446
+biz_1332,Business 1332,Pittsburgh,AZ,1.5,397,1,Hotels,1,Hotels,44,1,5.986452005284438,-1.209
+biz_1333,Business 1333,Phoenix,PA,3.0,1539,1,Bars,1,Bars,43,2,7.3395376954076745,0.034
+biz_1334,Business 1334,Pittsburgh,NC,3.0,26,1,Health,1,Health,39,2,3.295836866004329,0.079
+biz_1335,Business 1335,Phoenix,AZ,3.5,313,1,Health,1,Health,44,3,5.749392985908253,0.514
+biz_1336,Business 1336,Las Vegas,PA,2.0,126,1,Hotels,1,Hotels,40,1,4.844187086458591,-0.773
+biz_1337,Business 1337,Phoenix,AZ,4.0,1432,0,Restaurants,0,Restaurants,40,3,7.267525427828172,0.928
+biz_1338,Business 1338,Pittsburgh,AZ,1.0,1589,0,Health,0,Health,39,1,7.371489295214277,-1.66
+biz_1339,Business 1339,Cleveland,OH,2.5,1222,1,Pizza,1,Pizza,42,2,7.109062135687172,-0.369
+biz_1340,Business 1340,Phoenix,PA,4.0,811,1,Health,1,Health,44,3,6.699500340161678,0.949
+biz_1341,Business 1341,Phoenix,NC,3.5,188,1,Pizza,1,Pizza,42,3,5.241747015059643,0.484
+biz_1342,Business 1342,Charlotte,NC,2.0,698,1,Automotive,1,Automotive,47,1,6.54965074223381,-0.893
+biz_1343,Business 1343,Cleveland,PA,4.0,1841,1,Bars,1,Bars,39,3,7.518607216815252,0.9
+biz_1344,Business 1344,Las Vegas,OH,3.5,810,0,Retail,0,Retail,46,3,6.698268054115413,0.46
+biz_1345,Business 1345,Pittsburgh,NV,4.0,716,1,Bars,1,Bars,35,3,6.57507584059962,0.9
+biz_1346,Business 1346,Las Vegas,AZ,4.0,1508,1,Health,1,Health,43,3,7.319202458767849,0.949
+biz_1347,Business 1347,Cleveland,OH,3.5,450,1,Health,1,Health,24,3,6.111467339502679,0.514
+biz_1348,Business 1348,Phoenix,PA,3.0,523,1,Hotels,1,Hotels,36,2,6.261491684321042,0.098
+biz_1349,Business 1349,Phoenix,AZ,1.5,1895,1,Retail,1,Retail,33,1,7.547501682814967,-1.215
+biz_1350,Business 1350,Cleveland,NC,2.0,1378,1,Health,1,Health,24,1,7.229113877793302,-0.791
+biz_1351,Business 1351,Phoenix,NV,2.5,986,1,Shopping,1,Shopping,35,2,6.894670039433482,-0.508
+biz_1352,Business 1352,Phoenix,NC,3.5,658,1,Shopping,1,Shopping,35,3,6.490723534502507,0.299
+biz_1353,Business 1353,Phoenix,PA,3.0,597,1,Restaurants,1,Restaurants,40,2,6.393590753950631,0.052
+biz_1354,Business 1354,Pittsburgh,AZ,2.0,100,1,Automotive,1,Automotive,38,1,4.61512051684126,-0.893
+biz_1355,Business 1355,Pittsburgh,PA,1.0,616,0,Pizza,0,Pizza,35,1,6.424869023905388,-1.649
+biz_1356,Business 1356,Charlotte,AZ,3.0,948,0,Bars,0,Bars,26,2,6.855408798609928,0.034
+biz_1357,Business 1357,Las Vegas,OH,2.0,1582,1,Automotive,1,Automotive,55,1,7.367077059881012,-0.893
+biz_1358,Business 1358,Cleveland,NV,4.0,556,1,Pizza,1,Pizza,42,3,6.322565239927284,0.911
+biz_1359,Business 1359,Cleveland,OH,1.0,278,1,Pizza,1,Pizza,42,1,5.631211781821365,-1.649
+biz_1360,Business 1360,Cleveland,OH,3.5,1717,1,Beauty & Spas,1,Beauty & Spas,40,3,7.4489161025442,0.475
+biz_1361,Business 1361,Charlotte,PA,5.0,1723,1,Health,1,Health,37,5,7.452402451223638,1.818
+biz_1362,Business 1362,Pittsburgh,NV,1.5,1650,1,Restaurants,1,Restaurants,44,1,7.409136443920128,-1.263
+biz_1363,Business 1363,Charlotte,AZ,3.0,491,1,Health,1,Health,37,2,6.198478716492308,0.079
+biz_1364,Business 1364,Cleveland,AZ,1.5,255,1,Restaurants,1,Restaurants,46,1,5.545177444479562,-1.263
+biz_1365,Business 1365,Las Vegas,NC,3.5,381,0,Automotive,0,Automotive,55,3,5.945420608606575,0.446
+biz_1366,Business 1366,Phoenix,AZ,3.0,892,0,Hotels,0,Hotels,36,2,6.794586580876499,0.098
+biz_1367,Business 1367,Pittsburgh,PA,2.5,542,1,Hotels,1,Hotels,44,2,6.297109319933935,-0.337
+biz_1368,Business 1368,Pittsburgh,OH,3.0,1288,1,Automotive,1,Automotive,38,2,7.161622002939187,0.0
+biz_1369,Business 1369,Charlotte,OH,4.5,1634,0,Retail,0,Retail,38,4,7.399398083331354,1.297
+biz_1370,Business 1370,Pittsburgh,OH,2.0,825,0,Shopping,0,Shopping,34,1,6.716594773520978,-0.911
+biz_1371,Business 1371,Cleveland,NV,1.0,879,1,Pizza,1,Pizza,42,1,6.779921907472252,-1.649
+biz_1372,Business 1372,Cleveland,AZ,4.5,1353,1,Restaurants,1,Restaurants,46,4,7.21081845347222,1.366
+biz_1373,Business 1373,Charlotte,PA,3.5,1139,1,Coffee & Tea,1,Coffee & Tea,31,3,7.038783541388542,0.387
+biz_1374,Business 1374,Cleveland,NV,4.5,1300,1,Health,1,Health,24,4,7.170888478512505,1.383
+biz_1375,Business 1375,Las Vegas,NC,3.5,1512,1,Automotive,1,Automotive,55,3,7.321849713788356,0.446
+biz_1376,Business 1376,Charlotte,PA,4.0,281,1,Pizza,1,Pizza,50,3,5.641907070938114,0.911
+biz_1377,Business 1377,Las Vegas,PA,2.5,1299,1,Restaurants,1,Restaurants,32,2,7.170119543449628,-0.387
+biz_1378,Business 1378,Phoenix,PA,4.0,773,1,Bars,1,Bars,43,3,6.651571873589727,0.9
+biz_1379,Business 1379,Las Vegas,OH,4.5,843,1,Retail,1,Retail,46,4,6.738152494595957,1.297
+biz_1380,Business 1380,Phoenix,PA,3.5,719,1,Health,1,Health,44,3,6.579251212010101,0.514
+biz_1381,Business 1381,Phoenix,AZ,1.5,1920,0,Hotels,0,Hotels,36,1,7.560601162768557,-1.209
+biz_1382,Business 1382,Las Vegas,PA,2.0,328,1,Automotive,1,Automotive,55,1,5.796057750765372,-0.893
+biz_1383,Business 1383,Charlotte,OH,2.0,211,1,Hotels,1,Hotels,41,1,5.356586274672012,-0.773
+biz_1384,Business 1384,Cleveland,PA,2.0,727,1,Restaurants,1,Restaurants,46,1,6.590301048196686,-0.825
+biz_1385,Business 1385,Cleveland,NC,2.0,923,1,Hotels,1,Hotels,56,1,6.828712071641684,-0.773
+biz_1386,Business 1386,Phoenix,NC,3.0,552,1,Health,1,Health,44,2,6.315358001522335,0.079
+biz_1387,Business 1387,Phoenix,OH,3.5,26,0,Shopping,0,Shopping,35,3,3.295836866004329,0.299
+biz_1388,Business 1388,Charlotte,AZ,2.5,27,1,Pizza,1,Pizza,50,2,3.332204510175204,-0.369
+biz_1389,Business 1389,Pittsburgh,AZ,3.5,702,1,Shopping,1,Shopping,34,3,6.555356891810665,0.299
+biz_1390,Business 1390,Las Vegas,NV,1.5,1107,1,Automotive,1,Automotive,55,1,7.010311867307229,-1.339
+biz_1391,Business 1391,Phoenix,OH,1.5,1920,1,Shopping,1,Shopping,35,1,7.560601162768557,-1.314
+biz_1392,Business 1392,Cleveland,PA,1.5,1970,0,Beauty & Spas,0,Beauty & Spas,40,1,7.58629630715272,-1.292
+biz_1393,Business 1393,Charlotte,OH,3.0,682,1,Pizza,1,Pizza,50,2,6.52649485957079,0.058
+biz_1394,Business 1394,Las Vegas,NV,2.0,413,0,Restaurants,0,Restaurants,32,1,6.025865973825314,-0.825
+biz_1395,Business 1395,Charlotte,OH,2.0,167,1,Pizza,1,Pizza,50,1,5.123963979403259,-0.795
+biz_1396,Business 1396,Las Vegas,OH,2.5,1724,1,Beauty & Spas,1,Beauty & Spas,36,2,7.45298232946546,-0.409
+biz_1397,Business 1397,Las Vegas,NV,4.0,169,0,Coffee & Tea,0,Coffee & Tea,41,3,5.135798437050262,0.799
+biz_1398,Business 1398,Phoenix,AZ,1.0,1825,1,Shopping,1,Shopping,35,1,7.509883061154913,-1.718
+biz_1399,Business 1399,Charlotte,PA,3.5,229,0,Pizza,0,Pizza,50,3,5.438079308923196,0.484
+biz_1400,Business 1400,Charlotte,NV,3.5,1633,0,Hotels,0,Hotels,41,3,7.3987862754199485,0.534
+biz_1401,Business 1401,Cleveland,NC,4.0,367,1,Restaurants,1,Restaurants,46,3,5.908082938168931,0.928
+biz_1402,Business 1402,Cleveland,AZ,4.5,528,1,Bars,1,Bars,39,4,6.270988431858299,1.333
+biz_1403,Business 1403,Phoenix,NC,1.0,791,1,Automotive,1,Automotive,48,1,6.674561391814426,-1.785
+biz_1404,Business 1404,Phoenix,AZ,1.5,1671,1,Automotive,1,Automotive,48,1,7.421775793644647,-1.339
+biz_1405,Business 1405,Pittsburgh,PA,4.5,1562,1,Automotive,1,Automotive,38,4,7.354362330421477,1.339
+biz_1406,Business 1406,Cleveland,PA,3.0,1888,1,Pizza,1,Pizza,42,2,7.543802867501509,0.058
+biz_1407,Business 1407,Las Vegas,OH,3.5,524,0,Shopping,0,Shopping,33,3,6.263398262591624,0.299
+biz_1408,Business 1408,Charlotte,NC,3.5,1096,0,Pizza,0,Pizza,50,3,7.00033446027523,0.484
+biz_1409,Business 1409,Phoenix,AZ,3.5,1669,1,Health,1,Health,44,3,7.4205789054108005,0.514
+biz_1410,Business 1410,Charlotte,PA,4.5,106,1,Hotels,1,Hotels,41,4,4.672828834461906,1.405
+biz_1411,Business 1411,Charlotte,NV,5.0,732,1,Bars,1,Bars,26,5,6.597145701886651,1.766
+biz_1412,Business 1412,Pittsburgh,PA,4.0,1909,1,Bars,1,Bars,35,3,7.554858521040676,0.9
+biz_1413,Business 1413,Cleveland,NV,2.0,965,1,Hotels,1,Hotels,56,1,6.873163834212518,-0.773
+biz_1414,Business 1414,Phoenix,AZ,4.5,1713,0,Beauty & Spas,0,Beauty & Spas,53,4,7.446585099157725,1.358
+biz_1415,Business 1415,Charlotte,PA,1.0,1306,0,Retail,0,Retail,38,1,7.175489713624222,-1.634
+biz_1416,Business 1416,Phoenix,PA,2.0,133,1,Health,1,Health,44,1,4.897839799950911,-0.791
+biz_1417,Business 1417,Las Vegas,AZ,4.5,534,1,Restaurants,1,Restaurants,32,4,6.282266746896006,1.366
+biz_1418,Business 1418,Pittsburgh,PA,2.0,975,1,Bars,1,Bars,35,1,6.883462586413092,-0.832
+biz_1419,Business 1419,Las Vegas,NV,2.0,269,0,Automotive,0,Automotive,55,1,5.598421958998375,-0.893
+biz_1420,Business 1420,Phoenix,PA,1.5,1436,1,Pizza,1,Pizza,42,1,7.270312886079025,-1.222
+biz_1421,Business 1421,Phoenix,NC,4.5,673,1,Beauty & Spas,1,Beauty & Spas,53,4,6.513230110912307,1.358
+biz_1422,Business 1422,Cleveland,OH,3.0,1643,0,Retail,0,Retail,41,2,7.404887575616125,0.041
+biz_1423,Business 1423,Charlotte,NV,3.5,791,1,Hotels,1,Hotels,41,3,6.674561391814426,0.534
+biz_1424,Business 1424,Charlotte,NC,2.0,1889,1,Coffee & Tea,1,Coffee & Tea,31,1,7.5443321080536885,-0.85
+biz_1425,Business 1425,Las Vegas,AZ,4.0,1771,1,Restaurants,1,Restaurants,32,3,7.4798641311650265,0.928
+biz_1426,Business 1426,Pittsburgh,NV,4.0,18,0,Retail,0,Retail,56,3,2.9444389791664403,0.879
+biz_1427,Business 1427,Charlotte,OH,2.5,1778,1,Automotive,1,Automotive,47,2,7.483806687665835,-0.446
+biz_1428,Business 1428,Cleveland,OH,2.5,117,1,Retail,1,Retail,41,2,4.770684624465665,-0.378
+biz_1429,Business 1429,Las Vegas,AZ,2.0,798,1,Bars,1,Bars,37,1,6.683360945766275,-0.832
+biz_1430,Business 1430,Las Vegas,AZ,5.0,1818,1,Pizza,1,Pizza,38,5,7.506042178518122,1.764
+biz_1431,Business 1431,Cleveland,NV,3.5,1168,0,Hotels,0,Hotels,56,3,7.063903961472068,0.534
+biz_1432,Business 1432,Pittsburgh,PA,4.5,1741,1,Retail,1,Retail,56,4,7.462789157412448,1.297
+biz_1433,Business 1433,Cleveland,AZ,2.0,551,1,Restaurants,1,Restaurants,46,1,6.313548046277095,-0.825
+biz_1434,Business 1434,Pittsburgh,PA,4.0,929,1,Retail,1,Retail,56,3,6.835184586147301,0.879
+biz_1435,Business 1435,Cleveland,NC,4.0,1690,1,Coffee & Tea,1,Coffee & Tea,41,3,7.43307534889858,0.799
+biz_1436,Business 1436,Cleveland,OH,4.0,1712,0,Beauty & Spas,0,Beauty & Spas,40,3,7.44600149832412,0.917
+biz_1437,Business 1437,Phoenix,PA,5.0,1985,1,Bars,1,Bars,43,5,7.593877844605118,1.766
+biz_1438,Business 1438,Las Vegas,OH,2.5,753,1,Pizza,1,Pizza,38,2,6.625392368007956,-0.369
+biz_1439,Business 1439,Cleveland,PA,1.5,422,1,Automotive,1,Automotive,46,1,6.0473721790462776,-1.339
+biz_1440,Business 1440,Cleveland,NC,3.5,1922,1,Hotels,1,Hotels,56,3,7.56164174558878,0.534
+biz_1441,Business 1441,Charlotte,AZ,4.0,1393,1,Hotels,1,Hotels,41,3,7.2399325913204695,0.97
+biz_1442,Business 1442,Las Vegas,NC,3.5,646,1,Beauty & Spas,1,Beauty & Spas,36,3,6.472346294500901,0.475
+biz_1443,Business 1443,Charlotte,AZ,2.0,558,1,Shopping,1,Shopping,38,1,6.326149473155099,-0.911
+biz_1444,Business 1444,Las Vegas,AZ,3.0,50,1,Shopping,1,Shopping,33,2,3.9318256327243257,-0.104
+biz_1445,Business 1445,Charlotte,OH,2.0,678,1,Automotive,1,Automotive,47,1,6.520621127558696,-0.893
+biz_1446,Business 1446,Cleveland,NC,2.5,106,1,Retail,1,Retail,41,2,4.672828834461906,-0.378
+biz_1447,Business 1447,Cleveland,PA,3.5,1240,0,Coffee & Tea,0,Coffee & Tea,41,3,7.123672785204607,0.387
+biz_1448,Business 1448,Phoenix,NC,4.0,658,1,Hotels,1,Hotels,36,3,6.490723534502507,0.97
+biz_1449,Business 1449,Charlotte,OH,2.0,1947,1,Retail,1,Retail,38,1,7.5745584842024805,-0.796
+biz_1450,Business 1450,Pittsburgh,AZ,2.5,1449,1,Hotels,1,Hotels,44,2,7.27931883541462,-0.337
+biz_1451,Business 1451,Phoenix,OH,2.0,1096,1,Hotels,1,Hotels,36,1,7.00033446027523,-0.773
+biz_1452,Business 1452,Charlotte,NV,2.0,988,1,Retail,1,Retail,38,1,6.8966943316227125,-0.796
+biz_1453,Business 1453,Charlotte,NV,4.0,842,1,Beauty & Spas,1,Beauty & Spas,38,3,6.736966958001855,0.917
+biz_1454,Business 1454,Phoenix,PA,4.5,1809,1,Shopping,1,Shopping,35,4,7.501082124259871,1.106
+biz_1455,Business 1455,Cleveland,OH,2.5,1783,1,Health,1,Health,24,2,7.486613313139955,-0.356
+biz_1456,Business 1456,Charlotte,PA,4.0,446,1,Restaurants,1,Restaurants,33,3,6.102558594613569,0.928
+biz_1457,Business 1457,Cleveland,PA,4.5,1949,1,Beauty & Spas,1,Beauty & Spas,40,4,7.575584651557793,1.358
+biz_1458,Business 1458,Phoenix,NV,4.5,1210,1,Bars,1,Bars,43,4,7.099201743553092,1.333
+biz_1459,Business 1459,Cleveland,PA,1.5,70,1,Coffee & Tea,1,Coffee & Tea,41,1,4.2626798770413155,-1.263
+biz_1460,Business 1460,Las Vegas,NV,5.0,1998,0,Coffee & Tea,0,Coffee & Tea,41,5,7.6004023345004,1.624
+biz_1461,Business 1461,Pittsburgh,AZ,2.5,150,1,Restaurants,1,Restaurants,44,2,5.017279836814924,-0.387
+biz_1462,Business 1462,Charlotte,OH,2.5,1270,1,Coffee & Tea,1,Coffee & Tea,31,2,7.147559271189454,-0.438
+biz_1463,Business 1463,Pittsburgh,PA,1.0,774,0,Retail,0,Retail,56,1,6.652863029353347,-1.634
+biz_1464,Business 1464,Cleveland,NV,3.0,1562,0,Coffee & Tea,0,Coffee & Tea,41,2,7.354362330421477,-0.026
+biz_1465,Business 1465,Charlotte,NC,1.5,1959,1,Health,1,Health,37,1,7.580699752224563,-1.225
+biz_1466,Business 1466,Cleveland,PA,2.0,1676,1,Coffee & Tea,1,Coffee & Tea,41,1,7.424761761823209,-0.85
+biz_1467,Business 1467,Las Vegas,AZ,2.5,1123,1,Hotels,1,Hotels,40,2,7.024649030453636,-0.337
+biz_1468,Business 1468,Phoenix,AZ,4.0,1934,1,Beauty & Spas,1,Beauty & Spas,53,3,7.5678626054638825,0.917
+biz_1469,Business 1469,Charlotte,NC,4.5,1302,0,Retail,0,Retail,38,4,7.172424577124845,1.297
+biz_1470,Business 1470,Las Vegas,NV,2.0,1587,1,Shopping,1,Shopping,33,1,7.370230641807081,-0.911
+biz_1471,Business 1471,Las Vegas,PA,4.5,1687,1,Coffee & Tea,1,Coffee & Tea,41,4,7.431299675155903,1.211
+biz_1472,Business 1472,Charlotte,NV,4.5,944,1,Automotive,1,Automotive,47,4,6.851184927493743,1.339
+biz_1473,Business 1473,Cleveland,AZ,4.0,455,1,Automotive,1,Automotive,46,3,6.1224928095143865,0.893
+biz_1474,Business 1474,Las Vegas,NV,1.5,1128,1,Automotive,1,Automotive,55,1,7.029087564149662,-1.339
+biz_1475,Business 1475,Pittsburgh,AZ,4.0,946,0,Coffee & Tea,0,Coffee & Tea,38,3,6.853299093186078,0.799
+biz_1476,Business 1476,Las Vegas,NV,5.0,601,0,Bars,0,Bars,37,5,6.400257445308821,1.766
+biz_1477,Business 1477,Cleveland,NC,3.5,653,0,Hotels,0,Hotels,56,3,6.483107351457199,0.534
+biz_1478,Business 1478,Cleveland,OH,2.5,725,1,Pizza,1,Pizza,42,2,6.587550014824796,-0.369
+biz_1479,Business 1479,Pittsburgh,NC,3.0,233,1,Coffee & Tea,1,Coffee & Tea,38,2,5.455321115357702,-0.026
+biz_1480,Business 1480,Las Vegas,NC,3.5,1418,1,Bars,1,Bars,37,3,7.257707677160043,0.467
+biz_1481,Business 1481,Cleveland,OH,3.0,1525,1,Pizza,1,Pizza,42,2,7.330405211844402,0.058
+biz_1482,Business 1482,Charlotte,OH,1.5,1719,1,Restaurants,1,Restaurants,33,1,7.450079569807499,-1.263
+biz_1483,Business 1483,Phoenix,PA,2.0,251,1,Health,1,Health,44,1,5.529429087511423,-0.791
+biz_1484,Business 1484,Phoenix,PA,4.0,1545,1,Hotels,1,Hotels,36,3,7.343426229147367,0.97
+biz_1485,Business 1485,Phoenix,NC,4.5,79,0,Coffee & Tea,0,Coffee & Tea,41,4,4.382026634673881,1.211
+biz_1486,Business 1486,Las Vegas,NC,1.5,1076,1,Beauty & Spas,1,Beauty & Spas,36,1,6.981934677156389,-1.292
+biz_1487,Business 1487,Pittsburgh,AZ,5.0,898,1,Retail,1,Retail,56,5,6.80128303447162,1.716
+biz_1488,Business 1488,Cleveland,AZ,2.5,921,1,Beauty & Spas,1,Beauty & Spas,40,2,6.826545223556594,-0.409
+biz_1489,Business 1489,Charlotte,PA,3.5,781,1,Beauty & Spas,1,Beauty & Spas,38,3,6.661854740545311,0.475
+biz_1490,Business 1490,Charlotte,PA,4.0,226,1,Restaurants,1,Restaurants,33,3,5.424950017481403,0.928
+biz_1491,Business 1491,Las Vegas,AZ,4.0,1075,1,Retail,1,Retail,46,3,6.98100574072173,0.879
+biz_1492,Business 1492,Phoenix,AZ,5.0,1210,1,Restaurants,1,Restaurants,40,5,7.099201743553092,1.805
+biz_1493,Business 1493,Las Vegas,NV,2.5,1058,1,Pizza,1,Pizza,38,2,6.9650803456014065,-0.369
+biz_1494,Business 1494,Pittsburgh,NV,4.5,803,1,Restaurants,1,Restaurants,44,4,6.6895992691789665,1.366
+biz_1495,Business 1495,Pittsburgh,AZ,1.5,742,1,Automotive,1,Automotive,38,1,6.610696044717759,-1.339
+biz_1496,Business 1496,Cleveland,NV,4.0,131,1,Health,1,Health,24,3,4.882801922586371,0.949
+biz_1497,Business 1497,Cleveland,OH,4.0,1023,1,Automotive,1,Automotive,46,3,6.931471805599453,0.893
+biz_1498,Business 1498,Pittsburgh,PA,3.5,632,1,Coffee & Tea,1,Coffee & Tea,38,3,6.450470422144176,0.387
+biz_1499,Business 1499,Pittsburgh,PA,2.0,1467,1,Pizza,1,Pizza,35,1,7.291656209174461,-0.795
+biz_1500,Business 1500,Pittsburgh,AZ,4.5,838,1,Bars,1,Bars,35,4,6.732210706467206,1.333
+biz_1501,Business 1501,Las Vegas,NC,1.5,759,1,Pizza,1,Pizza,38,1,6.633318433280377,-1.222
+biz_1502,Business 1502,Pittsburgh,AZ,1.0,1456,1,Bars,1,Bars,35,1,7.284134806195205,-1.698
+biz_1503,Business 1503,Charlotte,NV,4.0,704,0,Health,0,Health,37,3,6.558197802812269,0.949
+biz_1504,Business 1504,Phoenix,NC,3.0,497,0,Restaurants,0,Restaurants,40,2,6.210600077024653,0.052
+biz_1505,Business 1505,Pittsburgh,NV,4.5,1427,1,Restaurants,1,Restaurants,44,4,7.2640301428995295,1.366
+biz_1506,Business 1506,Phoenix,OH,2.5,323,1,Retail,1,Retail,33,2,5.780743515792329,-0.378
+biz_1507,Business 1507,Las Vegas,NV,1.5,1234,1,Coffee & Tea,1,Coffee & Tea,41,1,7.118826249062078,-1.263
+biz_1508,Business 1508,Phoenix,OH,4.5,615,1,Beauty & Spas,1,Beauty & Spas,53,4,6.423246963533519,1.358
+biz_1509,Business 1509,Las Vegas,OH,3.0,329,0,Shopping,0,Shopping,33,2,5.799092654460526,-0.104
+biz_1510,Business 1510,Charlotte,NV,2.0,1396,1,Pizza,1,Pizza,50,1,7.242082359256962,-0.795
+biz_1511,Business 1511,Las Vegas,NV,4.0,1484,1,Pizza,1,Pizza,38,3,7.3031700512368,0.911
+biz_1512,Business 1512,Las Vegas,OH,3.0,133,1,Coffee & Tea,1,Coffee & Tea,41,2,4.897839799950911,-0.026
+biz_1513,Business 1513,Cleveland,NC,3.5,835,1,Automotive,1,Automotive,46,3,6.728628613084702,0.446
+biz_1514,Business 1514,Pittsburgh,OH,3.0,651,1,Hotels,1,Hotels,44,2,6.480044561926653,0.098
+biz_1515,Business 1515,Pittsburgh,PA,4.5,121,0,Coffee & Tea,0,Coffee & Tea,38,4,4.804021044733257,1.211
+biz_1516,Business 1516,Charlotte,OH,4.5,606,1,Shopping,1,Shopping,38,4,6.408528791059498,1.106
+biz_1517,Business 1517,Charlotte,NC,4.0,1476,1,Restaurants,1,Restaurants,33,3,7.29776828253138,0.928
+biz_1518,Business 1518,Pittsburgh,PA,1.5,965,1,Bars,1,Bars,35,1,6.873163834212518,-1.265
+biz_1519,Business 1519,Cleveland,AZ,4.5,129,1,Automotive,1,Automotive,46,4,4.867534450455582,1.339
+biz_1520,Business 1520,Pittsburgh,AZ,3.5,1115,1,Automotive,1,Automotive,38,3,7.017506142941256,0.446
+biz_1521,Business 1521,Cleveland,NC,4.0,1628,1,Retail,1,Retail,41,3,7.395721608602045,0.879
+biz_1522,Business 1522,Charlotte,OH,2.5,1599,1,Health,1,Health,37,2,7.3777589082278725,-0.356
+biz_1523,Business 1523,Phoenix,NV,4.5,29,1,Shopping,1,Shopping,35,4,3.4011973816621555,1.106
+biz_1524,Business 1524,Charlotte,NC,4.0,722,1,Automotive,1,Automotive,47,3,6.583409222158765,0.893
+biz_1525,Business 1525,Charlotte,PA,1.5,1548,1,Shopping,1,Shopping,38,1,7.3453648404168685,-1.314
+biz_1526,Business 1526,Las Vegas,PA,2.5,333,1,Coffee & Tea,1,Coffee & Tea,41,2,5.811140992976701,-0.438
+biz_1527,Business 1527,Las Vegas,AZ,4.5,1321,1,Bars,1,Bars,37,4,7.186901020411631,1.333
+biz_1528,Business 1528,Las Vegas,PA,1.0,1154,1,Bars,1,Bars,37,1,7.051855622955894,-1.698
+biz_1529,Business 1529,Las Vegas,NC,5.0,1317,0,Pizza,0,Pizza,38,5,7.183870715062453,1.764
+biz_1530,Business 1530,Cleveland,PA,3.5,1197,0,Restaurants,0,Restaurants,46,3,7.088408778675395,0.49
+biz_1531,Business 1531,Pittsburgh,NC,3.5,1744,1,Pizza,1,Pizza,35,3,7.4645098346365275,0.484
+biz_1532,Business 1532,Phoenix,NV,2.0,944,1,Automotive,1,Automotive,48,1,6.851184927493743,-0.893
+biz_1533,Business 1533,Charlotte,AZ,2.0,1048,1,Health,1,Health,37,1,6.955592608396297,-0.791
+biz_1534,Business 1534,Cleveland,PA,5.0,1123,1,Pizza,1,Pizza,42,5,7.024649030453636,1.764
+biz_1535,Business 1535,Phoenix,NC,2.0,1430,0,Pizza,0,Pizza,42,1,7.266128779556451,-0.795
+biz_1536,Business 1536,Cleveland,OH,4.0,356,1,Pizza,1,Pizza,42,3,5.877735781779639,0.911
+biz_1537,Business 1537,Cleveland,AZ,2.5,139,1,Shopping,1,Shopping,34,2,4.941642422609304,-0.508
+biz_1538,Business 1538,Charlotte,NV,1.5,1527,1,Coffee & Tea,1,Coffee & Tea,31,1,7.331714969726466,-1.263
+biz_1539,Business 1539,Pittsburgh,NC,1.0,1850,0,Health,0,Health,39,1,7.523481312573497,-1.66
+biz_1540,Business 1540,Las Vegas,NV,3.0,1198,1,Bars,1,Bars,37,2,7.089243155027514,0.034
+biz_1541,Business 1541,Pittsburgh,NV,5.0,29,1,Retail,1,Retail,56,5,3.4011973816621555,1.716
+biz_1542,Business 1542,Charlotte,PA,2.5,931,1,Shopping,1,Shopping,38,2,6.837332814685591,-0.508
+biz_1543,Business 1543,Charlotte,PA,2.5,496,1,Automotive,1,Automotive,47,2,6.208590026096629,-0.446
+biz_1544,Business 1544,Charlotte,NC,2.5,1014,1,Health,1,Health,37,2,6.922643891475888,-0.356
+biz_1545,Business 1545,Phoenix,OH,3.0,655,1,Bars,1,Bars,43,2,6.486160788944089,0.034
+biz_1546,Business 1546,Pittsburgh,NC,3.0,828,1,Health,1,Health,39,2,6.720220155135295,0.079
+biz_1547,Business 1547,Pittsburgh,OH,4.5,351,0,Hotels,0,Hotels,44,4,5.863631175598097,1.405
+biz_1548,Business 1548,Cleveland,NV,3.0,554,1,Hotels,1,Hotels,56,2,6.318968113746434,0.098
+biz_1549,Business 1549,Cleveland,AZ,3.0,299,1,Pizza,1,Pizza,42,2,5.703782474656201,0.058
+biz_1550,Business 1550,Cleveland,NC,1.5,1744,0,Pizza,0,Pizza,42,1,7.4645098346365275,-1.222
+biz_1551,Business 1551,Charlotte,NC,5.0,1866,0,Hotels,0,Hotels,41,5,7.532088143541722,1.841
+biz_1552,Business 1552,Pittsburgh,OH,2.0,1969,1,Retail,1,Retail,56,1,7.585788821732034,-0.796
+biz_1553,Business 1553,Charlotte,NV,1.5,1216,1,Bars,1,Bars,26,1,7.104144092987527,-1.265
+biz_1554,Business 1554,Phoenix,NV,3.5,1696,1,Automotive,1,Automotive,48,3,7.436617265234227,0.446
+biz_1555,Business 1555,Cleveland,OH,3.5,64,1,Restaurants,1,Restaurants,46,3,4.174387269895637,0.49
+biz_1556,Business 1556,Charlotte,NV,2.5,755,0,Restaurants,0,Restaurants,33,2,6.628041376179533,-0.387
+biz_1557,Business 1557,Charlotte,PA,2.5,770,0,Shopping,0,Shopping,38,2,6.647688373563329,-0.508
+biz_1558,Business 1558,Phoenix,AZ,4.0,1688,1,Retail,1,Retail,33,3,7.4318919168078,0.879
+biz_1559,Business 1559,Las Vegas,NC,2.0,1239,0,Retail,0,Retail,46,1,7.122866658599083,-0.796
+biz_1560,Business 1560,Pittsburgh,AZ,4.5,834,1,Automotive,1,Automotive,38,4,6.727431724850855,1.339
+biz_1561,Business 1561,Las Vegas,NC,3.5,166,1,Health,1,Health,43,3,5.117993812416755,0.514
+biz_1562,Business 1562,Cleveland,PA,2.5,1567,1,Restaurants,1,Restaurants,46,2,7.357556200910353,-0.387
+biz_1563,Business 1563,Charlotte,NV,3.0,1907,1,Health,1,Health,37,2,7.553810852008231,0.079
+biz_1564,Business 1564,Phoenix,OH,2.0,1256,0,Health,0,Health,44,1,7.136483208590247,-0.791
+biz_1565,Business 1565,Phoenix,PA,4.0,1818,1,Retail,1,Retail,33,3,7.506042178518122,0.879
+biz_1566,Business 1566,Pittsburgh,AZ,3.0,1565,0,Health,0,Health,39,2,7.356279876550748,0.079
+biz_1567,Business 1567,Las Vegas,OH,2.5,1219,1,Restaurants,1,Restaurants,32,2,7.106606137727303,-0.387
+biz_1568,Business 1568,Pittsburgh,NV,3.5,506,1,Bars,1,Bars,35,3,6.2285110035911835,0.467
+biz_1569,Business 1569,Charlotte,PA,5.0,1358,1,Beauty & Spas,1,Beauty & Spas,38,5,7.214504414151143,1.8
+biz_1570,Business 1570,Pittsburgh,OH,2.5,1792,1,Health,1,Health,39,2,7.491645473605133,-0.356
+biz_1571,Business 1571,Phoenix,PA,4.5,793,0,Automotive,0,Automotive,48,4,6.677083461247136,1.339
+biz_1572,Business 1572,Phoenix,PA,2.5,1328,1,Coffee & Tea,1,Coffee & Tea,41,2,7.192182058713246,-0.438
+biz_1573,Business 1573,Cleveland,NV,1.0,833,1,Pizza,1,Pizza,42,1,6.726233402358747,-1.649
+biz_1574,Business 1574,Cleveland,NC,2.0,1461,1,Automotive,1,Automotive,46,1,7.2875606403097235,-0.893
+biz_1575,Business 1575,Charlotte,OH,2.5,1347,0,Hotels,0,Hotels,41,2,7.206377291472252,-0.337
+biz_1576,Business 1576,Las Vegas,NV,2.0,1526,1,Restaurants,1,Restaurants,32,1,7.3310603052186325,-0.825
+biz_1577,Business 1577,Pittsburgh,PA,1.0,858,0,Coffee & Tea,0,Coffee & Tea,38,1,6.755768921984255,-1.675
+biz_1578,Business 1578,Charlotte,NV,4.5,1938,1,Pizza,1,Pizza,50,4,7.569927655242652,1.337
+biz_1579,Business 1579,Cleveland,NC,4.5,1417,1,Automotive,1,Automotive,46,4,7.257002707092073,1.339
+biz_1580,Business 1580,Pittsburgh,OH,4.0,806,1,Coffee & Tea,1,Coffee & Tea,38,3,6.693323668269949,0.799
+biz_1581,Business 1581,Cleveland,NC,1.5,1623,1,Beauty & Spas,1,Beauty & Spas,40,1,7.392647520721623,-1.292
+biz_1582,Business 1582,Pittsburgh,AZ,1.5,1173,1,Restaurants,1,Restaurants,44,1,7.068172000388042,-1.263
+biz_1583,Business 1583,Las Vegas,OH,1.5,761,1,Bars,1,Bars,37,1,6.635946555686647,-1.265
+biz_1584,Business 1584,Charlotte,NC,4.0,833,0,Shopping,0,Shopping,38,3,6.726233402358747,0.702
+biz_1585,Business 1585,Pittsburgh,PA,4.5,1429,1,Retail,1,Retail,56,4,7.265429723253953,1.297
+biz_1586,Business 1586,Phoenix,OH,2.5,283,0,Beauty & Spas,0,Beauty & Spas,53,2,5.648974238161206,-0.409
+biz_1587,Business 1587,Phoenix,OH,1.5,1386,1,Hotels,1,Hotels,36,1,7.234898420314831,-1.209
+biz_1588,Business 1588,Pittsburgh,NV,3.0,379,1,Retail,1,Retail,56,2,5.940171252720432,0.041
+biz_1589,Business 1589,Pittsburgh,PA,2.5,198,1,Bars,1,Bars,35,2,5.293304824724492,-0.399
+biz_1590,Business 1590,Pittsburgh,AZ,2.5,1015,1,Beauty & Spas,1,Beauty & Spas,33,2,6.923628628138427,-0.409
+biz_1591,Business 1591,Phoenix,NC,3.5,1024,1,Pizza,1,Pizza,42,3,6.932447891572509,0.484
+biz_1592,Business 1592,Phoenix,NV,4.0,556,1,Coffee & Tea,1,Coffee & Tea,41,3,6.322565239927284,0.799
+biz_1593,Business 1593,Pittsburgh,NC,1.5,356,0,Restaurants,0,Restaurants,44,1,5.877735781779639,-1.263
+biz_1594,Business 1594,Cleveland,AZ,1.0,1564,1,Coffee & Tea,1,Coffee & Tea,41,1,7.355641102974253,-1.675
+biz_1595,Business 1595,Cleveland,AZ,5.0,1453,1,Health,1,Health,24,5,7.282073658093465,1.818
+biz_1596,Business 1596,Las Vegas,OH,2.0,1041,1,Automotive,1,Automotive,55,1,6.948897222313312,-0.893
+biz_1597,Business 1597,Charlotte,AZ,1.0,639,1,Hotels,1,Hotels,41,1,6.461468176353717,-1.644
+biz_1598,Business 1598,Cleveland,NC,2.0,379,1,Health,1,Health,24,1,5.940171252720432,-0.791
+biz_1599,Business 1599,Phoenix,PA,1.0,680,1,Health,1,Health,44,1,6.523562306149512,-1.66
+biz_1600,Business 1600,Cleveland,PA,2.5,506,0,Hotels,0,Hotels,56,2,6.2285110035911835,-0.337
+biz_1601,Business 1601,Las Vegas,OH,4.0,1780,1,Automotive,1,Automotive,55,3,7.484930283289661,0.893
+biz_1602,Business 1602,Las Vegas,NC,2.5,899,1,Pizza,1,Pizza,38,2,6.802394763324311,-0.369
+biz_1603,Business 1603,Charlotte,NC,3.0,76,1,Automotive,1,Automotive,47,2,4.343805421853684,0.0
+biz_1604,Business 1604,Cleveland,AZ,3.5,231,1,Restaurants,1,Restaurants,46,3,5.44673737166631,0.49
+biz_1605,Business 1605,Phoenix,NC,3.0,1740,1,Coffee & Tea,1,Coffee & Tea,41,2,7.462214939768189,-0.026
+biz_1606,Business 1606,Phoenix,NV,4.5,962,0,Pizza,0,Pizza,42,4,6.870053411798126,1.337
+biz_1607,Business 1607,Pittsburgh,AZ,4.5,1272,1,Shopping,1,Shopping,34,4,7.149131598557407,1.106
+biz_1608,Business 1608,Phoenix,NV,1.0,302,0,Coffee & Tea,0,Coffee & Tea,41,1,5.713732805509369,-1.675
+biz_1609,Business 1609,Charlotte,OH,4.0,726,1,Pizza,1,Pizza,50,3,6.588926477533519,0.911
+biz_1610,Business 1610,Charlotte,PA,3.0,215,1,Automotive,1,Automotive,47,2,5.375278407684165,0.0
+biz_1611,Business 1611,Phoenix,OH,5.0,1182,1,Hotels,1,Hotels,36,5,7.075808863978387,1.841
+biz_1612,Business 1612,Phoenix,PA,3.0,69,1,Automotive,1,Automotive,48,2,4.248495242049359,0.0
+biz_1613,Business 1613,Pittsburgh,OH,5.0,393,0,Shopping,0,Shopping,34,5,5.976350909297934,1.509
+biz_1614,Business 1614,Phoenix,NC,4.0,1109,1,Pizza,1,Pizza,42,3,7.01211529430638,0.911
+biz_1615,Business 1615,Pittsburgh,NV,2.0,267,1,Restaurants,1,Restaurants,44,1,5.5909869805108565,-0.825
+biz_1616,Business 1616,Pittsburgh,PA,3.0,1093,1,Automotive,1,Automotive,38,2,6.9975959829819265,0.0
+biz_1617,Business 1617,Phoenix,AZ,5.0,611,1,Pizza,1,Pizza,42,5,6.416732282512326,1.764
+biz_1618,Business 1618,Las Vegas,NV,4.5,1371,1,Coffee & Tea,1,Coffee & Tea,41,4,7.22402480828583,1.211
+biz_1619,Business 1619,Las Vegas,AZ,1.5,1009,1,Shopping,1,Shopping,33,1,6.917705609835305,-1.314
+biz_1620,Business 1620,Pittsburgh,NV,4.0,962,0,Restaurants,0,Restaurants,44,3,6.870053411798126,0.928
+biz_1621,Business 1621,Phoenix,NV,2.5,728,1,Pizza,1,Pizza,42,2,6.591673732008658,-0.369
+biz_1622,Business 1622,Las Vegas,OH,1.0,1951,0,Beauty & Spas,0,Beauty & Spas,36,1,7.5766097669730375,-1.734
+biz_1623,Business 1623,Phoenix,PA,2.5,673,1,Automotive,1,Automotive,48,2,6.513230110912307,-0.446
+biz_1624,Business 1624,Phoenix,PA,2.0,423,1,Shopping,1,Shopping,35,1,6.049733455231958,-0.911
+biz_1625,Business 1625,Phoenix,NV,4.5,1630,0,Restaurants,0,Restaurants,40,4,7.396948602621014,1.366
+biz_1626,Business 1626,Cleveland,NC,2.5,1198,0,Restaurants,0,Restaurants,46,2,7.089243155027514,-0.387
+biz_1627,Business 1627,Phoenix,NC,4.5,1701,1,Health,1,Health,44,4,7.43955930913332,1.383
+biz_1628,Business 1628,Cleveland,AZ,1.0,115,1,Retail,1,Retail,41,1,4.7535901911063645,-1.634
+biz_1629,Business 1629,Pittsburgh,AZ,2.0,220,0,Shopping,0,Shopping,34,1,5.3981627015177525,-0.911
+biz_1630,Business 1630,Las Vegas,OH,2.0,1980,0,Restaurants,0,Restaurants,32,1,7.591357046698551,-0.825
+biz_1631,Business 1631,Las Vegas,NV,2.0,31,1,Pizza,1,Pizza,38,1,3.4657359027997265,-0.795
+biz_1632,Business 1632,Las Vegas,AZ,1.5,1547,1,Health,1,Health,43,1,7.344719054149673,-1.225
+biz_1633,Business 1633,Las Vegas,AZ,1.5,1367,1,Retail,1,Retail,46,1,7.221105098182496,-1.215
+biz_1634,Business 1634,Las Vegas,NV,3.0,1401,0,Coffee & Tea,0,Coffee & Tea,41,2,7.2456550675945355,-0.026
+biz_1635,Business 1635,Las Vegas,OH,2.0,1154,1,Pizza,1,Pizza,38,1,7.051855622955894,-0.795
+biz_1636,Business 1636,Las Vegas,AZ,2.5,617,0,Automotive,0,Automotive,55,2,6.42648845745769,-0.446
+biz_1637,Business 1637,Pittsburgh,OH,2.5,539,0,Retail,0,Retail,56,2,6.29156913955832,-0.378
+biz_1638,Business 1638,Phoenix,PA,4.5,739,1,Shopping,1,Shopping,35,4,6.606650186198215,1.106
+biz_1639,Business 1639,Charlotte,OH,4.5,1026,1,Automotive,1,Automotive,47,4,6.934397209928558,1.339
+biz_1640,Business 1640,Cleveland,NC,3.0,871,1,Bars,1,Bars,39,2,6.77078942390898,0.034
+biz_1641,Business 1641,Charlotte,NC,2.5,101,1,Bars,1,Bars,26,2,4.624972813284271,-0.399
+biz_1642,Business 1642,Charlotte,OH,1.5,1557,1,Shopping,1,Shopping,38,1,7.351158226430694,-1.314
+biz_1643,Business 1643,Phoenix,NC,5.0,1082,1,Coffee & Tea,1,Coffee & Tea,41,5,6.9874902470009905,1.624
+biz_1644,Business 1644,Phoenix,PA,1.0,1413,1,Retail,1,Retail,33,1,7.254177846456518,-1.634
+biz_1645,Business 1645,Phoenix,NV,2.0,692,1,Health,1,Health,44,1,6.541029999189903,-0.791
+biz_1646,Business 1646,Las Vegas,NC,2.0,941,1,Beauty & Spas,1,Beauty & Spas,36,1,6.848005274576363,-0.85
+biz_1647,Business 1647,Pittsburgh,NC,2.5,341,1,Restaurants,1,Restaurants,44,2,5.834810737062605,-0.387
+biz_1648,Business 1648,Las Vegas,OH,1.5,861,1,Beauty & Spas,1,Beauty & Spas,36,1,6.759255270663693,-1.292
+biz_1649,Business 1649,Pittsburgh,PA,4.0,1044,1,Bars,1,Bars,35,3,6.951772164398911,0.9
+biz_1650,Business 1650,Pittsburgh,NV,1.5,1279,1,Bars,1,Bars,35,1,7.154615356913663,-1.265
+biz_1651,Business 1651,Charlotte,OH,3.5,1341,1,Coffee & Tea,1,Coffee & Tea,31,3,7.201916317531627,0.387
+biz_1652,Business 1652,Charlotte,OH,1.5,38,1,Beauty & Spas,1,Beauty & Spas,38,1,3.6635616461296463,-1.292
+biz_1653,Business 1653,Pittsburgh,PA,1.5,660,1,Beauty & Spas,1,Beauty & Spas,33,1,6.493753839851686,-1.292
+biz_1654,Business 1654,Pittsburgh,NV,4.5,1561,0,Health,0,Health,39,4,7.3537223303996315,1.383
+biz_1655,Business 1655,Las Vegas,PA,2.0,1410,1,Coffee & Tea,1,Coffee & Tea,41,1,7.252053951852814,-0.85
+biz_1656,Business 1656,Las Vegas,NV,4.5,1657,1,Coffee & Tea,1,Coffee & Tea,41,4,7.4133673356952405,1.211
+biz_1657,Business 1657,Charlotte,PA,3.0,928,1,Shopping,1,Shopping,38,2,6.834108738813838,-0.104
+biz_1658,Business 1658,Phoenix,OH,1.5,1050,1,Automotive,1,Automotive,48,1,6.957497370876951,-1.339
+biz_1659,Business 1659,Pittsburgh,OH,5.0,454,0,Coffee & Tea,0,Coffee & Tea,38,5,6.12029741895095,1.624
+biz_1660,Business 1660,Las Vegas,AZ,2.0,1705,1,Coffee & Tea,1,Coffee & Tea,41,1,7.441906728051625,-0.85
+biz_1661,Business 1661,Charlotte,NC,4.5,1347,1,Pizza,1,Pizza,50,4,7.206377291472252,1.337
+biz_1662,Business 1662,Las Vegas,PA,1.5,737,1,Retail,1,Retail,46,1,6.6039438246004725,-1.215
+biz_1663,Business 1663,Pittsburgh,AZ,4.5,1537,1,Retail,1,Retail,56,4,7.338238150065589,1.297
+biz_1664,Business 1664,Pittsburgh,NC,1.0,819,1,Hotels,1,Hotels,44,1,6.709304340258298,-1.644
+biz_1665,Business 1665,Cleveland,PA,3.0,773,1,Beauty & Spas,1,Beauty & Spas,40,2,6.651571873589727,0.033
+biz_1666,Business 1666,Phoenix,NV,4.0,13,1,Restaurants,1,Restaurants,40,3,2.6390573296152584,0.928
+biz_1667,Business 1667,Cleveland,NC,4.5,915,0,Beauty & Spas,0,Beauty & Spas,40,4,6.82001636467413,1.358
+biz_1668,Business 1668,Charlotte,OH,4.5,1932,1,Shopping,1,Shopping,38,4,7.566828479208331,1.106
+biz_1669,Business 1669,Las Vegas,AZ,4.5,1584,1,Shopping,1,Shopping,33,4,7.368339686311381,1.106
+biz_1670,Business 1670,Charlotte,NC,4.5,921,1,Shopping,1,Shopping,38,4,6.826545223556594,1.106
+biz_1671,Business 1671,Pittsburgh,NC,2.0,825,1,Automotive,1,Automotive,38,1,6.716594773520978,-0.893
+biz_1672,Business 1672,Cleveland,OH,2.0,371,1,Restaurants,1,Restaurants,46,1,5.918893854273146,-0.825
+biz_1673,Business 1673,Cleveland,PA,2.0,1315,0,Retail,0,Retail,41,1,7.182352111885263,-0.796
+biz_1674,Business 1674,Cleveland,NV,2.5,332,0,Health,0,Health,24,2,5.808142489980444,-0.356
+biz_1675,Business 1675,Charlotte,OH,2.5,1630,1,Retail,1,Retail,38,2,7.396948602621014,-0.378
+biz_1676,Business 1676,Pittsburgh,NV,3.0,261,1,Automotive,1,Automotive,38,2,5.568344503761097,0.0
+biz_1677,Business 1677,Las Vegas,PA,1.5,1814,1,Shopping,1,Shopping,33,1,7.503840746698951,-1.314
+biz_1678,Business 1678,Las Vegas,NC,4.0,1895,1,Automotive,1,Automotive,55,3,7.547501682814967,0.893
+biz_1679,Business 1679,Charlotte,NV,1.5,1229,1,Retail,1,Retail,38,1,7.114769448366463,-1.215
+biz_1680,Business 1680,Cleveland,AZ,2.0,697,1,Health,1,Health,24,1,6.548219102762372,-0.791
+biz_1681,Business 1681,Phoenix,AZ,3.0,687,1,Hotels,1,Hotels,36,2,6.5337888379333435,0.098
+biz_1682,Business 1682,Charlotte,OH,4.0,950,1,Restaurants,1,Restaurants,33,3,6.85751406254539,0.928
+biz_1683,Business 1683,Charlotte,PA,4.0,387,0,Automotive,0,Automotive,47,3,5.961005339623274,0.893
+biz_1684,Business 1684,Pittsburgh,OH,3.5,1916,0,Retail,0,Retail,56,3,7.558516743045645,0.46
+biz_1685,Business 1685,Las Vegas,OH,1.5,821,0,Restaurants,0,Restaurants,32,1,6.71174039505618,-1.263
+biz_1686,Business 1686,Charlotte,OH,3.0,468,0,Retail,0,Retail,38,2,6.150602768446279,0.041
+biz_1687,Business 1687,Charlotte,AZ,1.5,1439,0,Retail,0,Retail,38,1,7.272398392570047,-1.215
+biz_1688,Business 1688,Cleveland,AZ,2.5,69,1,Health,1,Health,24,2,4.248495242049359,-0.356
+biz_1689,Business 1689,Cleveland,OH,2.5,1496,1,Hotels,1,Hotels,56,2,7.311218384419629,-0.337
+biz_1690,Business 1690,Phoenix,AZ,1.0,1128,1,Restaurants,1,Restaurants,40,1,7.029087564149662,-1.701
+biz_1691,Business 1691,Pittsburgh,PA,2.0,1782,0,Shopping,0,Shopping,34,1,7.48605261786314,-0.911
+biz_1692,Business 1692,Phoenix,OH,5.0,1185,1,Restaurants,1,Restaurants,40,5,7.078341579557671,1.805
+biz_1693,Business 1693,Cleveland,AZ,5.0,200,1,Coffee & Tea,1,Coffee & Tea,41,5,5.303304908059076,1.624
+biz_1694,Business 1694,Las Vegas,NV,2.5,216,0,Shopping,0,Shopping,33,2,5.37989735354046,-0.508
+biz_1695,Business 1695,Cleveland,OH,1.0,1970,1,Restaurants,1,Restaurants,46,1,7.58629630715272,-1.701
+biz_1696,Business 1696,Pittsburgh,OH,1.5,212,0,Pizza,0,Pizza,35,1,5.3612921657094255,-1.222
+biz_1697,Business 1697,Cleveland,PA,2.5,508,1,Pizza,1,Pizza,42,2,6.2324480165505225,-0.369
+biz_1698,Business 1698,Pittsburgh,NC,5.0,16,1,Retail,1,Retail,56,5,2.833213344056216,1.716
+biz_1699,Business 1699,Pittsburgh,NC,1.5,1522,1,Shopping,1,Shopping,34,1,7.328437352895162,-1.314
+biz_1700,Business 1700,Pittsburgh,PA,4.0,884,1,Restaurants,1,Restaurants,44,3,6.785587645007929,0.928
+biz_1701,Business 1701,Pittsburgh,PA,1.5,332,1,Retail,1,Retail,56,1,5.808142489980444,-1.215
+biz_1702,Business 1702,Pittsburgh,PA,5.0,717,1,Beauty & Spas,1,Beauty & Spas,33,5,6.576469569048224,1.8
+biz_1703,Business 1703,Las Vegas,NC,2.5,1901,1,Retail,1,Retail,46,2,7.550661243105336,-0.378
+biz_1704,Business 1704,Phoenix,PA,4.0,551,0,Automotive,0,Automotive,48,3,6.313548046277095,0.893
+biz_1705,Business 1705,Charlotte,AZ,2.5,1625,0,Pizza,0,Pizza,50,2,7.3938782901077555,-0.369
+biz_1706,Business 1706,Phoenix,OH,3.5,942,1,Beauty & Spas,1,Beauty & Spas,53,3,6.849066282633458,0.475
+biz_1707,Business 1707,Pittsburgh,OH,2.0,256,1,Bars,1,Bars,35,1,5.54907608489522,-0.832
+biz_1708,Business 1708,Las Vegas,NV,1.5,992,1,Automotive,1,Automotive,55,1,6.900730664045173,-1.339
+biz_1709,Business 1709,Cleveland,NV,5.0,1790,0,Shopping,0,Shopping,34,5,7.490529402060711,1.509
+biz_1710,Business 1710,Las Vegas,OH,4.5,728,1,Retail,1,Retail,46,4,6.591673732008658,1.297
+biz_1711,Business 1711,Pittsburgh,AZ,4.5,880,1,Pizza,1,Pizza,35,4,6.78105762593618,1.337
+biz_1712,Business 1712,Las Vegas,NC,3.5,815,1,Hotels,1,Hotels,40,3,6.704414354964107,0.534
+biz_1713,Business 1713,Las Vegas,NC,4.0,1196,1,Pizza,1,Pizza,38,3,7.087573705557973,0.911
+biz_1714,Business 1714,Pittsburgh,AZ,1.5,649,1,Health,1,Health,39,1,6.476972362889683,-1.225
+biz_1715,Business 1715,Las Vegas,NC,2.5,1000,0,Pizza,0,Pizza,38,2,6.90875477931522,-0.369
+biz_1716,Business 1716,Charlotte,PA,2.5,1522,1,Hotels,1,Hotels,41,2,7.328437352895162,-0.337
+biz_1717,Business 1717,Charlotte,OH,3.5,471,1,Hotels,1,Hotels,41,3,6.156978985585555,0.534
+biz_1718,Business 1718,Las Vegas,OH,2.5,1408,1,Retail,1,Retail,46,2,7.25063551189868,-0.378
+biz_1719,Business 1719,Cleveland,AZ,1.5,690,1,Shopping,1,Shopping,34,1,6.53813982376767,-1.314
+biz_1720,Business 1720,Pittsburgh,NC,3.5,1613,1,Hotels,1,Hotels,44,3,7.3864708488298945,0.534
+biz_1721,Business 1721,Charlotte,NV,4.5,700,1,Pizza,1,Pizza,50,4,6.55250788703459,1.337
+biz_1722,Business 1722,Cleveland,NV,2.5,507,1,Shopping,1,Shopping,34,2,6.230481447578482,-0.508
+biz_1723,Business 1723,Las Vegas,NC,1.5,992,1,Restaurants,1,Restaurants,32,1,6.900730664045173,-1.263
+biz_1724,Business 1724,Cleveland,NV,2.0,1010,1,Pizza,1,Pizza,42,1,6.918695219020472,-0.795
+biz_1725,Business 1725,Phoenix,AZ,2.0,1551,1,Coffee & Tea,1,Coffee & Tea,41,1,7.347299700743164,-0.85
+biz_1726,Business 1726,Charlotte,AZ,2.0,804,1,Retail,1,Retail,38,1,6.690842277418564,-0.796
+biz_1727,Business 1727,Las Vegas,NC,3.5,831,1,Automotive,1,Automotive,55,3,6.723832440821209,0.446
+biz_1728,Business 1728,Pittsburgh,NV,3.5,1349,1,Retail,1,Retail,56,3,7.2078598714324755,0.46
+biz_1729,Business 1729,Las Vegas,AZ,4.0,214,0,Hotels,0,Hotels,40,3,5.3706380281276624,0.97
+biz_1730,Business 1730,Pittsburgh,AZ,2.5,1232,1,Bars,1,Bars,35,2,7.117205503164344,-0.399
+biz_1731,Business 1731,Las Vegas,PA,4.5,169,0,Health,0,Health,43,4,5.135798437050262,1.383
+biz_1732,Business 1732,Cleveland,PA,2.0,1354,1,Coffee & Tea,1,Coffee & Tea,41,1,7.2115567333138015,-0.85
+biz_1733,Business 1733,Cleveland,AZ,3.0,1304,1,Hotels,1,Hotels,56,2,7.173958319756794,0.098
+biz_1734,Business 1734,Cleveland,NC,4.0,978,1,Pizza,1,Pizza,42,3,6.88653164253051,0.911
+biz_1735,Business 1735,Phoenix,OH,1.5,1329,1,Shopping,1,Shopping,35,1,7.1929342212158,-1.314
+biz_1736,Business 1736,Pittsburgh,OH,1.5,146,1,Coffee & Tea,1,Coffee & Tea,38,1,4.990432586778736,-1.263
+biz_1737,Business 1737,Cleveland,AZ,4.5,1799,1,Bars,1,Bars,39,4,7.495541943884256,1.333
+biz_1738,Business 1738,Phoenix,AZ,2.5,516,0,Automotive,0,Automotive,48,2,6.248042874508429,-0.446
+biz_1739,Business 1739,Pittsburgh,AZ,3.5,1114,0,Shopping,0,Shopping,34,3,7.016609683894219,0.299
+biz_1740,Business 1740,Las Vegas,NC,1.0,453,1,Health,1,Health,43,1,6.118097198041348,-1.66
+biz_1741,Business 1741,Phoenix,PA,4.0,60,1,Beauty & Spas,1,Beauty & Spas,53,3,4.110873864173311,0.917
+biz_1742,Business 1742,Charlotte,AZ,2.5,1335,0,Health,0,Health,37,2,7.197435354096591,-0.356
+biz_1743,Business 1743,Phoenix,AZ,1.0,528,0,Retail,0,Retail,33,1,6.270988431858299,-1.634
+biz_1744,Business 1744,Phoenix,NV,3.5,1251,1,Coffee & Tea,1,Coffee & Tea,41,3,7.132497551660044,0.387
+biz_1745,Business 1745,Pittsburgh,NC,2.0,1024,1,Retail,1,Retail,56,1,6.932447891572509,-0.796
+biz_1746,Business 1746,Las Vegas,AZ,2.5,474,1,Hotels,1,Hotels,40,2,6.163314804034641,-0.337
+biz_1747,Business 1747,Charlotte,NV,1.5,1565,0,Restaurants,0,Restaurants,33,1,7.356279876550748,-1.263
+biz_1748,Business 1748,Cleveland,OH,1.5,1687,0,Hotels,0,Hotels,56,1,7.431299675155903,-1.209
+biz_1749,Business 1749,Cleveland,AZ,2.0,757,1,Automotive,1,Automotive,46,1,6.630683385642372,-0.893
+biz_1750,Business 1750,Phoenix,AZ,1.5,782,1,Coffee & Tea,1,Coffee & Tea,41,1,6.663132695990803,-1.263
+biz_1751,Business 1751,Pittsburgh,NV,4.5,1103,1,Restaurants,1,Restaurants,44,4,7.00669522683704,1.366
+biz_1752,Business 1752,Pittsburgh,NC,1.0,433,1,Shopping,1,Shopping,34,1,6.073044534100405,-1.718
+biz_1753,Business 1753,Cleveland,AZ,3.0,1825,1,Restaurants,1,Restaurants,46,2,7.509883061154913,0.052
+biz_1754,Business 1754,Charlotte,OH,1.5,1177,0,Automotive,0,Automotive,47,1,7.071573364211532,-1.339
+biz_1755,Business 1755,Las Vegas,AZ,2.0,1813,1,Pizza,1,Pizza,38,1,7.503289630675082,-0.795
+biz_1756,Business 1756,Charlotte,OH,4.5,401,1,Retail,1,Retail,38,4,5.996452088619021,1.297
+biz_1757,Business 1757,Las Vegas,PA,1.5,1303,1,Bars,1,Bars,37,1,7.1731917424865985,-1.265
+biz_1758,Business 1758,Cleveland,PA,5.0,57,1,Hotels,1,Hotels,56,5,4.060443010546419,1.841
+biz_1759,Business 1759,Las Vegas,OH,2.0,1003,1,Coffee & Tea,1,Coffee & Tea,41,1,6.911747300251674,-0.85
+biz_1760,Business 1760,Pittsburgh,NC,4.0,186,0,Automotive,0,Automotive,38,3,5.231108616854587,0.893
+biz_1761,Business 1761,Phoenix,AZ,3.0,398,1,Beauty & Spas,1,Beauty & Spas,53,2,5.988961416889864,0.033
+biz_1762,Business 1762,Phoenix,AZ,4.5,605,1,Bars,1,Bars,43,4,6.406879986069314,1.333
+biz_1763,Business 1763,Cleveland,PA,3.0,788,1,Automotive,1,Automotive,46,2,6.670766320845874,0.0
+biz_1764,Business 1764,Pittsburgh,OH,3.0,158,1,Beauty & Spas,1,Beauty & Spas,33,2,5.0689042022202315,0.033
+biz_1765,Business 1765,Charlotte,AZ,2.0,1811,1,Beauty & Spas,1,Beauty & Spas,38,1,7.502186486602924,-0.85
+biz_1766,Business 1766,Pittsburgh,AZ,1.5,1717,1,Beauty & Spas,1,Beauty & Spas,33,1,7.4489161025442,-1.292
+biz_1767,Business 1767,Phoenix,NC,4.5,1383,1,Pizza,1,Pizza,42,4,7.232733136177615,1.337
+biz_1768,Business 1768,Phoenix,NV,2.5,1464,0,Restaurants,0,Restaurants,40,2,7.289610521451167,-0.387
+biz_1769,Business 1769,Pittsburgh,PA,2.5,589,1,Health,1,Health,39,2,6.380122536899765,-0.356
+biz_1770,Business 1770,Pittsburgh,PA,4.0,466,0,Hotels,0,Hotels,44,3,6.1463292576688975,0.97
+biz_1771,Business 1771,Phoenix,NV,2.5,1687,1,Beauty & Spas,1,Beauty & Spas,53,2,7.431299675155903,-0.409
+biz_1772,Business 1772,Charlotte,AZ,5.0,446,1,Automotive,1,Automotive,47,5,6.102558594613569,1.785
+biz_1773,Business 1773,Cleveland,NC,4.0,1774,1,Shopping,1,Shopping,34,3,7.4815557019095165,0.702
+biz_1774,Business 1774,Cleveland,NC,3.5,801,1,Shopping,1,Shopping,34,3,6.687108607866515,0.299
+biz_1775,Business 1775,Pittsburgh,PA,4.5,1767,1,Coffee & Tea,1,Coffee & Tea,38,4,7.477604243197589,1.211
+biz_1776,Business 1776,Cleveland,NC,1.0,1512,0,Retail,0,Retail,41,1,7.321849713788356,-1.634
+biz_1777,Business 1777,Phoenix,NV,2.0,1554,1,Beauty & Spas,1,Beauty & Spas,53,1,7.349230824613334,-0.85
+biz_1778,Business 1778,Phoenix,AZ,3.0,1097,0,Automotive,0,Automotive,48,2,7.001245622069476,0.0
+biz_1779,Business 1779,Pittsburgh,NV,2.0,929,1,Beauty & Spas,1,Beauty & Spas,33,1,6.835184586147301,-0.85
+biz_1780,Business 1780,Pittsburgh,OH,4.0,1952,1,Pizza,1,Pizza,35,3,7.577121930876679,0.911
+biz_1781,Business 1781,Pittsburgh,PA,4.5,1725,1,Retail,1,Retail,56,4,7.453561871643373,1.297
+biz_1782,Business 1782,Charlotte,NC,2.5,1974,1,Beauty & Spas,1,Beauty & Spas,38,2,7.5883236773352225,-0.409
+biz_1783,Business 1783,Cleveland,OH,2.5,17,0,Hotels,0,Hotels,56,2,2.8903717578961645,-0.337
+biz_1784,Business 1784,Pittsburgh,NC,5.0,1555,0,Shopping,0,Shopping,34,5,7.349873704738337,1.509
+biz_1785,Business 1785,Las Vegas,AZ,3.0,731,1,Beauty & Spas,1,Beauty & Spas,36,2,6.595780513961311,0.033
+biz_1786,Business 1786,Las Vegas,AZ,3.0,326,1,Hotels,1,Hotels,40,2,5.7899601708972535,0.098
+biz_1787,Business 1787,Phoenix,AZ,2.5,995,0,Hotels,0,Hotels,36,2,6.903747257584598,-0.337
+biz_1788,Business 1788,Cleveland,NC,4.5,1656,1,Restaurants,1,Restaurants,46,4,7.4127640174265625,1.366
+biz_1789,Business 1789,Pittsburgh,OH,3.5,613,1,Hotels,1,Hotels,44,3,6.419994928147142,0.534
+biz_1790,Business 1790,Las Vegas,AZ,4.0,546,0,Retail,0,Retail,46,3,6.304448802421981,0.879
+biz_1791,Business 1791,Cleveland,OH,4.0,596,1,Shopping,1,Shopping,34,3,6.391917113392602,0.702
+biz_1792,Business 1792,Phoenix,NC,2.5,921,0,Coffee & Tea,0,Coffee & Tea,41,2,6.826545223556594,-0.438
+biz_1793,Business 1793,Charlotte,OH,2.5,1732,1,Pizza,1,Pizza,50,2,7.457609289715606,-0.369
+biz_1794,Business 1794,Cleveland,NC,4.5,842,1,Shopping,1,Shopping,34,4,6.736966958001855,1.106
+biz_1795,Business 1795,Cleveland,NC,2.5,1226,1,Automotive,1,Automotive,46,2,7.112327444710911,-0.446
+biz_1796,Business 1796,Charlotte,PA,4.0,344,1,Coffee & Tea,1,Coffee & Tea,31,3,5.84354441703136,0.799
+biz_1797,Business 1797,Cleveland,NC,5.0,1877,0,Hotels,0,Hotels,56,5,7.537962659768208,1.841
+biz_1798,Business 1798,Phoenix,NC,3.5,1547,1,Beauty & Spas,1,Beauty & Spas,53,3,7.344719054149673,0.475
+biz_1799,Business 1799,Phoenix,NV,4.0,859,1,Restaurants,1,Restaurants,40,3,6.756932389247553,0.928
+biz_1800,Business 1800,Charlotte,AZ,4.0,1424,0,Coffee & Tea,0,Coffee & Tea,31,3,7.261927092702751,0.799
+biz_1801,Business 1801,Pittsburgh,PA,4.5,1242,1,Automotive,1,Automotive,38,4,7.1252830915107115,1.339
+biz_1802,Business 1802,Las Vegas,PA,2.5,445,1,Automotive,1,Automotive,55,2,6.100318952020064,-0.446
+biz_1803,Business 1803,Pittsburgh,PA,1.0,1789,1,Coffee & Tea,1,Coffee & Tea,38,1,7.489970898834801,-1.675
+biz_1804,Business 1804,Cleveland,NV,2.5,222,1,Restaurants,1,Restaurants,46,2,5.407171771460119,-0.387
+biz_1805,Business 1805,Las Vegas,NC,3.5,1407,1,Hotels,1,Hotels,40,3,7.249925536717988,0.534
+biz_1806,Business 1806,Charlotte,AZ,3.0,1905,1,Retail,1,Retail,38,2,7.552762084214147,0.041
+biz_1807,Business 1807,Charlotte,OH,4.0,592,1,Automotive,1,Automotive,47,3,6.385194398997726,0.893
+biz_1808,Business 1808,Las Vegas,NC,2.5,1031,1,Hotels,1,Hotels,40,2,6.939253946041508,-0.337
+biz_1809,Business 1809,Phoenix,NV,3.5,1296,1,Retail,1,Retail,33,3,7.167809184316444,0.46
+biz_1810,Business 1810,Las Vegas,NC,1.5,1763,1,Retail,1,Retail,46,1,7.475339236566737,-1.215
+biz_1811,Business 1811,Cleveland,NC,4.0,1018,1,Automotive,1,Automotive,46,3,6.926577033222725,0.893
+biz_1812,Business 1812,Phoenix,NV,3.0,16,1,Coffee & Tea,1,Coffee & Tea,41,2,2.833213344056216,-0.026
+biz_1813,Business 1813,Charlotte,PA,2.0,1448,1,Retail,1,Retail,38,1,7.278628942320682,-0.796
+biz_1814,Business 1814,Las Vegas,PA,2.0,524,1,Beauty & Spas,1,Beauty & Spas,36,1,6.263398262591624,-0.85
+biz_1815,Business 1815,Pittsburgh,AZ,4.0,803,1,Shopping,1,Shopping,34,3,6.6895992691789665,0.702
+biz_1816,Business 1816,Pittsburgh,AZ,3.0,1777,1,Pizza,1,Pizza,35,2,7.48324441607385,0.058
+biz_1817,Business 1817,Cleveland,PA,2.0,21,1,Automotive,1,Automotive,46,1,3.091042453358316,-0.893
+biz_1818,Business 1818,Pittsburgh,OH,5.0,1714,1,Bars,1,Bars,35,5,7.44716835960004,1.766
+biz_1819,Business 1819,Las Vegas,NC,4.0,1963,0,Retail,0,Retail,46,3,7.582738488914411,0.879
+biz_1820,Business 1820,Las Vegas,OH,5.0,228,1,Health,1,Health,43,5,5.43372200355424,1.818
+biz_1821,Business 1821,Pittsburgh,NC,2.5,1008,1,Beauty & Spas,1,Beauty & Spas,33,2,6.9167150203536085,-0.409
+biz_1822,Business 1822,Las Vegas,PA,3.0,1809,1,Bars,1,Bars,37,2,7.501082124259871,0.034
+biz_1823,Business 1823,Cleveland,AZ,4.5,1312,1,Hotels,1,Hotels,56,4,7.180069874302796,1.405
+biz_1824,Business 1824,Phoenix,AZ,3.0,809,0,Pizza,0,Pizza,42,2,6.697034247666484,0.058
+biz_1825,Business 1825,Cleveland,OH,4.0,1158,1,Restaurants,1,Restaurants,46,3,7.055312843339752,0.928
+biz_1826,Business 1826,Cleveland,AZ,2.0,1307,1,Retail,1,Retail,41,1,7.176254532017144,-0.796
+biz_1827,Business 1827,Las Vegas,PA,3.0,404,0,Restaurants,0,Restaurants,32,2,6.003887067106539,0.052
+biz_1828,Business 1828,Phoenix,OH,1.5,1689,1,Pizza,1,Pizza,42,1,7.432483807917119,-1.222
+biz_1829,Business 1829,Las Vegas,NC,2.0,1090,1,Beauty & Spas,1,Beauty & Spas,36,1,6.994849985833071,-0.85
+biz_1830,Business 1830,Charlotte,AZ,1.0,1673,1,Beauty & Spas,1,Beauty & Spas,38,1,7.422971251049421,-1.734
+biz_1831,Business 1831,Las Vegas,NV,1.0,1628,1,Pizza,1,Pizza,38,1,7.395721608602045,-1.649
+biz_1832,Business 1832,Las Vegas,AZ,5.0,437,1,Beauty & Spas,1,Beauty & Spas,36,5,6.082218910376446,1.8
+biz_1833,Business 1833,Las Vegas,NC,2.0,829,1,Retail,1,Retail,46,1,6.721425700790643,-0.796
+biz_1834,Business 1834,Phoenix,OH,3.5,934,0,Pizza,0,Pizza,42,3,6.840546529288687,0.484
+biz_1835,Business 1835,Las Vegas,NC,4.5,259,1,Automotive,1,Automotive,55,4,5.560681631015528,1.339
+biz_1836,Business 1836,Phoenix,NV,3.0,1990,1,Health,1,Health,44,2,7.596392304064196,0.079
+biz_1837,Business 1837,Pittsburgh,PA,1.5,103,1,Hotels,1,Hotels,44,1,4.6443908991413725,-1.209
+biz_1838,Business 1838,Charlotte,AZ,4.0,993,1,Shopping,1,Shopping,38,3,6.901737206656574,0.702
+biz_1839,Business 1839,Phoenix,OH,3.5,1591,1,Coffee & Tea,1,Coffee & Tea,41,3,7.3727463664043285,0.387
+biz_1840,Business 1840,Pittsburgh,PA,4.0,769,1,Health,1,Health,39,3,6.646390514847729,0.949
+biz_1841,Business 1841,Phoenix,NC,4.0,1125,1,Shopping,1,Shopping,35,3,7.026426808699636,0.702
+biz_1842,Business 1842,Phoenix,OH,5.0,1222,1,Coffee & Tea,1,Coffee & Tea,41,5,7.109062135687172,1.624
+biz_1843,Business 1843,Charlotte,PA,3.5,813,1,Restaurants,1,Restaurants,33,3,6.70196036600254,0.49
+biz_1844,Business 1844,Cleveland,OH,2.5,226,1,Health,1,Health,24,2,5.424950017481403,-0.356
+biz_1845,Business 1845,Cleveland,NV,3.5,943,1,Bars,1,Bars,39,3,6.8501261661455,0.467
+biz_1846,Business 1846,Phoenix,NV,1.5,463,1,Health,1,Health,44,1,6.139884552226255,-1.225
+biz_1847,Business 1847,Las Vegas,AZ,4.5,237,1,Beauty & Spas,1,Beauty & Spas,36,4,5.472270673671475,1.358
+biz_1848,Business 1848,Pittsburgh,AZ,1.5,1050,1,Retail,1,Retail,56,1,6.957497370876951,-1.215
+biz_1849,Business 1849,Las Vegas,NV,2.5,1145,1,Retail,1,Retail,46,2,7.044032897274685,-0.378
+biz_1850,Business 1850,Las Vegas,OH,4.5,1934,1,Shopping,1,Shopping,33,4,7.5678626054638825,1.106
+biz_1851,Business 1851,Phoenix,NV,3.5,506,1,Beauty & Spas,1,Beauty & Spas,53,3,6.2285110035911835,0.475
+biz_1852,Business 1852,Phoenix,AZ,2.5,1206,1,Restaurants,1,Restaurants,40,2,7.095893221097532,-0.387
+biz_1853,Business 1853,Phoenix,NV,3.0,1735,1,Retail,1,Retail,33,2,7.459338895220296,0.041
+biz_1854,Business 1854,Phoenix,NV,4.5,814,1,Hotels,1,Hotels,36,4,6.703188113240863,1.405
+biz_1855,Business 1855,Cleveland,OH,2.5,767,1,Restaurants,1,Restaurants,46,2,6.643789733147672,-0.387
+biz_1856,Business 1856,Phoenix,PA,4.5,634,1,Beauty & Spas,1,Beauty & Spas,53,4,6.453624998892692,1.358
+biz_1857,Business 1857,Cleveland,AZ,1.5,1567,1,Beauty & Spas,1,Beauty & Spas,40,1,7.357556200910353,-1.292
+biz_1858,Business 1858,Cleveland,OH,4.0,1339,0,Shopping,0,Shopping,34,3,7.200424892944957,0.702
+biz_1859,Business 1859,Phoenix,NV,4.5,991,1,Automotive,1,Automotive,48,4,6.899723107284872,1.339
+biz_1860,Business 1860,Charlotte,NV,1.5,1821,0,Retail,0,Retail,38,1,7.507690077819904,-1.215
+biz_1861,Business 1861,Pittsburgh,PA,2.5,618,1,Beauty & Spas,1,Beauty & Spas,33,2,6.428105272684596,-0.409
+biz_1862,Business 1862,Las Vegas,AZ,1.5,1760,1,Beauty & Spas,1,Beauty & Spas,36,1,7.473637108496206,-1.292
+biz_1863,Business 1863,Cleveland,AZ,4.0,273,1,Hotels,1,Hotels,56,3,5.6131281063880705,0.97
+biz_1864,Business 1864,Pittsburgh,NC,3.0,1934,1,Health,1,Health,39,2,7.5678626054638825,0.079
+biz_1865,Business 1865,Charlotte,AZ,3.5,232,1,Health,1,Health,37,3,5.4510384535657,0.514
+biz_1866,Business 1866,Las Vegas,PA,2.0,1444,1,Beauty & Spas,1,Beauty & Spas,36,1,7.275864600546533,-0.85
+biz_1867,Business 1867,Las Vegas,NC,2.0,768,0,Restaurants,0,Restaurants,32,1,6.645090969505644,-0.825
+biz_1868,Business 1868,Cleveland,NC,1.0,1466,1,Hotels,1,Hotels,56,1,7.2909747781429814,-1.644
+biz_1869,Business 1869,Phoenix,NV,2.5,496,1,Restaurants,1,Restaurants,40,2,6.208590026096629,-0.387
+biz_1870,Business 1870,Charlotte,NV,3.0,1048,0,Coffee & Tea,0,Coffee & Tea,31,2,6.955592608396297,-0.026
+biz_1871,Business 1871,Cleveland,AZ,4.5,1133,1,Automotive,1,Automotive,46,4,7.033506484287697,1.339
+biz_1872,Business 1872,Charlotte,NC,3.5,1727,0,Health,0,Health,37,3,7.454719949364001,0.514
+biz_1873,Business 1873,Phoenix,NV,2.5,502,1,Health,1,Health,44,2,6.220590170099739,-0.356
+biz_1874,Business 1874,Phoenix,PA,5.0,1883,0,Hotels,0,Hotels,36,5,7.5411524551363085,1.841
+biz_1875,Business 1875,Cleveland,NV,4.0,25,0,Pizza,0,Pizza,42,3,3.258096538021482,0.911
+biz_1876,Business 1876,Phoenix,NV,4.5,1211,0,Restaurants,0,Restaurants,40,4,7.10002716662926,1.366
+biz_1877,Business 1877,Pittsburgh,NC,3.0,288,1,Retail,1,Retail,56,2,5.666426688112432,0.041
+biz_1878,Business 1878,Las Vegas,NC,2.0,1652,1,Hotels,1,Hotels,40,1,7.410347097821024,-0.773
+biz_1879,Business 1879,Cleveland,OH,1.0,338,1,Shopping,1,Shopping,34,1,5.82600010738045,-1.718
+biz_1880,Business 1880,Charlotte,PA,4.0,1902,1,Pizza,1,Pizza,50,3,7.551186867296149,0.911
+biz_1881,Business 1881,Pittsburgh,NC,1.5,1938,1,Bars,1,Bars,35,1,7.569927655242652,-1.265
+biz_1882,Business 1882,Cleveland,AZ,2.0,1061,1,Restaurants,1,Restaurants,46,1,6.967909201801884,-0.825
+biz_1883,Business 1883,Phoenix,PA,3.0,1818,1,Pizza,1,Pizza,42,2,7.506042178518122,0.058
+biz_1884,Business 1884,Phoenix,PA,3.5,137,1,Hotels,1,Hotels,36,3,4.927253685157205,0.534
+biz_1885,Business 1885,Phoenix,NC,3.5,508,1,Retail,1,Retail,33,3,6.2324480165505225,0.46
+biz_1886,Business 1886,Phoenix,PA,1.5,227,1,Shopping,1,Shopping,35,1,5.429345628954441,-1.314
+biz_1887,Business 1887,Charlotte,NC,2.5,320,1,Automotive,1,Automotive,47,2,5.771441123130016,-0.446
+biz_1888,Business 1888,Pittsburgh,NV,3.5,1864,0,Pizza,0,Pizza,35,3,7.5310163320779155,0.484
+biz_1889,Business 1889,Las Vegas,OH,5.0,916,1,Automotive,1,Automotive,55,5,6.821107472256465,1.785
+biz_1890,Business 1890,Charlotte,NV,4.0,1206,0,Beauty & Spas,0,Beauty & Spas,38,3,7.095893221097532,0.917
+biz_1891,Business 1891,Charlotte,NC,4.5,1898,1,Health,1,Health,37,4,7.549082710812286,1.383
+biz_1892,Business 1892,Las Vegas,NC,4.0,86,1,Coffee & Tea,1,Coffee & Tea,41,3,4.465908118654584,0.799
+biz_1893,Business 1893,Las Vegas,NV,3.5,1491,1,Health,1,Health,43,3,7.307872780763706,0.514
+biz_1894,Business 1894,Phoenix,AZ,2.0,926,1,Bars,1,Bars,43,1,6.831953565565855,-0.832
+biz_1895,Business 1895,Charlotte,AZ,3.5,53,1,Retail,1,Retail,38,3,3.9889840465642745,0.46
+biz_1896,Business 1896,Cleveland,AZ,3.5,860,1,Shopping,1,Shopping,34,3,6.7580945044277305,0.299
+biz_1897,Business 1897,Las Vegas,NC,3.5,867,1,Automotive,1,Automotive,55,3,6.7661917146603505,0.446
+biz_1898,Business 1898,Las Vegas,PA,3.0,1259,1,Hotels,1,Hotels,40,2,7.138866999945524,0.098
+biz_1899,Business 1899,Pittsburgh,NC,3.0,1983,1,Automotive,1,Automotive,38,2,7.592870287844818,0.0
+biz_1900,Business 1900,Cleveland,PA,2.5,1803,1,Retail,1,Retail,41,2,7.4977617006225685,-0.378
+biz_1901,Business 1901,Cleveland,NV,3.0,1823,1,Hotels,1,Hotels,56,2,7.508787170634276,0.098
+biz_1902,Business 1902,Las Vegas,OH,2.0,433,1,Hotels,1,Hotels,40,1,6.073044534100405,-0.773
+biz_1903,Business 1903,Phoenix,PA,4.0,1520,1,Bars,1,Bars,43,3,7.327123292259293,0.9
+biz_1904,Business 1904,Pittsburgh,AZ,1.5,999,1,Retail,1,Retail,56,1,6.907755278982137,-1.215
+biz_1905,Business 1905,Cleveland,NC,1.5,100,1,Pizza,1,Pizza,42,1,4.61512051684126,-1.222
+biz_1906,Business 1906,Las Vegas,NV,2.5,990,0,Health,0,Health,43,2,6.898714534329988,-0.356
+biz_1907,Business 1907,Cleveland,AZ,3.5,599,1,Beauty & Spas,1,Beauty & Spas,40,3,6.396929655216146,0.475
+biz_1908,Business 1908,Pittsburgh,NV,3.0,403,0,Automotive,0,Automotive,38,2,6.0014148779611505,0.0
+biz_1909,Business 1909,Pittsburgh,OH,2.0,396,1,Pizza,1,Pizza,35,1,5.983936280687191,-0.795
+biz_1910,Business 1910,Charlotte,NC,3.0,1551,1,Beauty & Spas,1,Beauty & Spas,38,2,7.347299700743164,0.033
+biz_1911,Business 1911,Las Vegas,NC,2.5,415,1,Shopping,1,Shopping,33,2,6.030685260261263,-0.508
+biz_1912,Business 1912,Pittsburgh,OH,4.5,939,1,Coffee & Tea,1,Coffee & Tea,38,4,6.84587987526405,1.211
+biz_1913,Business 1913,Charlotte,NC,4.5,1637,0,Automotive,0,Automotive,47,4,7.401231264413015,1.339
+biz_1914,Business 1914,Charlotte,PA,3.0,677,1,Bars,1,Bars,26,2,6.519147287940395,0.034
+biz_1915,Business 1915,Cleveland,NV,2.5,463,1,Beauty & Spas,1,Beauty & Spas,40,2,6.139884552226255,-0.409
+biz_1916,Business 1916,Cleveland,AZ,4.0,541,1,Hotels,1,Hotels,56,3,6.295266001439646,0.97
+biz_1917,Business 1917,Charlotte,OH,1.0,1650,1,Pizza,1,Pizza,50,1,7.409136443920128,-1.649
+biz_1918,Business 1918,Cleveland,PA,3.0,1643,1,Health,1,Health,24,2,7.404887575616125,0.079
+biz_1919,Business 1919,Pittsburgh,AZ,2.5,1946,1,Bars,1,Bars,35,2,7.5740450053721995,-0.399
+biz_1920,Business 1920,Phoenix,AZ,4.5,1388,1,Automotive,1,Automotive,48,4,7.236339342754344,1.339
+biz_1921,Business 1921,Pittsburgh,OH,1.0,1154,0,Retail,0,Retail,56,1,7.051855622955894,-1.634
+biz_1922,Business 1922,Charlotte,PA,3.0,84,0,Pizza,0,Pizza,50,2,4.442651256490317,0.058
+biz_1923,Business 1923,Charlotte,AZ,4.0,271,1,Bars,1,Bars,26,3,5.605802066295998,0.9
+biz_1924,Business 1924,Pittsburgh,AZ,3.0,244,1,Coffee & Tea,1,Coffee & Tea,38,2,5.501258210544727,-0.026
+biz_1925,Business 1925,Cleveland,PA,1.5,388,1,Automotive,1,Automotive,46,1,5.963579343618446,-1.339
+biz_1926,Business 1926,Cleveland,NC,5.0,214,1,Shopping,1,Shopping,34,5,5.3706380281276624,1.509
+biz_1927,Business 1927,Charlotte,AZ,3.0,818,1,Health,1,Health,37,2,6.70808408385307,0.079
+biz_1928,Business 1928,Las Vegas,NV,3.5,1190,0,Shopping,0,Shopping,33,3,7.0825485693553,0.299
+biz_1929,Business 1929,Cleveland,PA,2.0,1815,1,Beauty & Spas,1,Beauty & Spas,40,1,7.504391559161238,-0.85
+biz_1930,Business 1930,Pittsburgh,AZ,3.0,59,1,Retail,1,Retail,56,2,4.0943445622221,0.041
+biz_1931,Business 1931,Cleveland,OH,2.5,1626,0,Beauty & Spas,0,Beauty & Spas,40,2,7.394493107219038,-0.409
+biz_1932,Business 1932,Pittsburgh,NV,1.5,883,1,Health,1,Health,39,1,6.784457062637643,-1.225
+biz_1933,Business 1933,Charlotte,AZ,1.5,843,1,Pizza,1,Pizza,50,1,6.738152494595957,-1.222
+biz_1934,Business 1934,Cleveland,NV,4.5,924,1,Beauty & Spas,1,Beauty & Spas,40,4,6.829793737512425,1.358
+biz_1935,Business 1935,Pittsburgh,NV,2.0,1528,1,Retail,1,Retail,56,1,7.332369205929062,-0.796
+biz_1936,Business 1936,Charlotte,NC,2.0,1730,1,Restaurants,1,Restaurants,33,1,7.456454555176209,-0.825
+biz_1937,Business 1937,Las Vegas,NV,3.0,123,1,Restaurants,1,Restaurants,32,2,4.820281565605037,0.052
+biz_1938,Business 1938,Pittsburgh,NC,4.0,1672,1,Bars,1,Bars,35,3,7.422373700986824,0.9
+biz_1939,Business 1939,Las Vegas,PA,1.0,1437,1,Bars,1,Bars,37,1,7.271008538280992,-1.698
+biz_1940,Business 1940,Las Vegas,NC,3.5,1163,1,Automotive,1,Automotive,55,3,7.059617628291383,0.446
+biz_1941,Business 1941,Phoenix,OH,1.5,1253,1,Bars,1,Bars,43,1,7.134093721192866,-1.265
+biz_1942,Business 1942,Cleveland,AZ,1.0,1298,1,Coffee & Tea,1,Coffee & Tea,41,1,7.1693500166706,-1.675
+biz_1943,Business 1943,Pittsburgh,PA,1.0,439,0,Bars,0,Bars,35,1,6.0867747269123065,-1.698
+biz_1944,Business 1944,Las Vegas,PA,4.5,1022,1,Coffee & Tea,1,Coffee & Tea,41,4,6.930494765951626,1.211
+biz_1945,Business 1945,Phoenix,OH,1.5,562,1,Bars,1,Bars,43,1,6.333279628139691,-1.265
+biz_1946,Business 1946,Charlotte,NC,1.0,1934,1,Shopping,1,Shopping,38,1,7.5678626054638825,-1.718
+biz_1947,Business 1947,Pittsburgh,AZ,3.0,118,0,Hotels,0,Hotels,44,2,4.77912349311153,0.098
+biz_1948,Business 1948,Las Vegas,NC,4.5,1738,1,Coffee & Tea,1,Coffee & Tea,41,4,7.461065514354283,1.211
+biz_1949,Business 1949,Cleveland,NV,2.0,905,1,Pizza,1,Pizza,42,1,6.80903930604298,-0.795
+biz_1950,Business 1950,Phoenix,NC,2.5,1507,0,Automotive,0,Automotive,48,2,7.318539548567902,-0.446
+biz_1951,Business 1951,Las Vegas,PA,1.0,395,0,Health,0,Health,43,1,5.981414211254481,-1.66
+biz_1952,Business 1952,Cleveland,AZ,3.0,1727,1,Coffee & Tea,1,Coffee & Tea,41,2,7.454719949364001,-0.026
+biz_1953,Business 1953,Las Vegas,NC,3.5,876,1,Beauty & Spas,1,Beauty & Spas,36,3,6.776506992372183,0.475
+biz_1954,Business 1954,Pittsburgh,AZ,3.5,1484,1,Hotels,1,Hotels,44,3,7.3031700512368,0.534
+biz_1955,Business 1955,Pittsburgh,AZ,2.5,1859,1,Shopping,1,Shopping,34,2,7.528331766707247,-0.508
+biz_1956,Business 1956,Pittsburgh,NV,2.5,1717,1,Restaurants,1,Restaurants,44,2,7.4489161025442,-0.387
+biz_1957,Business 1957,Phoenix,NV,1.5,935,1,Shopping,1,Shopping,35,1,6.841615476477592,-1.314
+biz_1958,Business 1958,Pittsburgh,PA,2.5,1102,1,Bars,1,Bars,35,2,7.005789019253503,-0.399
+biz_1959,Business 1959,Cleveland,OH,1.5,952,1,Automotive,1,Automotive,46,1,6.859614903654202,-1.339
+biz_1960,Business 1960,Las Vegas,AZ,4.0,1436,0,Hotels,0,Hotels,40,3,7.270312886079025,0.97
+biz_1961,Business 1961,Charlotte,OH,5.0,75,1,Beauty & Spas,1,Beauty & Spas,38,5,4.330733340286331,1.8
+biz_1962,Business 1962,Cleveland,PA,5.0,295,1,Coffee & Tea,1,Coffee & Tea,41,5,5.69035945432406,1.624
+biz_1963,Business 1963,Cleveland,AZ,4.5,1817,1,Shopping,1,Shopping,34,4,7.505492274737424,1.106
+biz_1964,Business 1964,Pittsburgh,AZ,3.5,21,1,Hotels,1,Hotels,44,3,3.091042453358316,0.534
+biz_1965,Business 1965,Phoenix,OH,4.0,1930,0,Coffee & Tea,0,Coffee & Tea,41,3,7.565793282428515,0.799
+biz_1966,Business 1966,Las Vegas,NC,2.0,1195,1,Automotive,1,Automotive,55,1,7.086737934510577,-0.893
+biz_1967,Business 1967,Phoenix,NV,3.5,1039,1,Health,1,Health,44,3,6.946975992135418,0.514
+biz_1968,Business 1968,Las Vegas,NC,3.0,1235,1,Restaurants,1,Restaurants,32,2,7.119635638017636,0.052
+biz_1969,Business 1969,Las Vegas,OH,3.0,560,1,Automotive,1,Automotive,55,2,6.329720905522696,0.0
+biz_1970,Business 1970,Phoenix,NV,4.0,1110,0,Bars,0,Bars,43,3,7.01301578963963,0.9
+biz_1971,Business 1971,Cleveland,NC,2.0,1173,1,Retail,1,Retail,41,1,7.068172000388042,-0.796
+biz_1972,Business 1972,Las Vegas,NV,2.5,1724,1,Health,1,Health,43,2,7.45298232946546,-0.356
+biz_1973,Business 1973,Phoenix,AZ,4.5,372,1,Bars,1,Bars,43,4,5.921578419643816,1.333
+biz_1974,Business 1974,Las Vegas,NC,1.0,1504,1,Shopping,1,Shopping,33,1,7.316548177182976,-1.718
+biz_1975,Business 1975,Charlotte,NV,3.0,818,1,Health,1,Health,37,2,6.70808408385307,0.079
+biz_1976,Business 1976,Cleveland,NV,4.5,1175,1,Bars,1,Bars,39,4,7.069874128458572,1.333
+biz_1977,Business 1977,Pittsburgh,NV,3.5,1165,0,Health,0,Health,39,3,7.061334366910438,0.514
+biz_1978,Business 1978,Las Vegas,NC,3.0,1093,1,Automotive,1,Automotive,55,2,6.9975959829819265,0.0
+biz_1979,Business 1979,Charlotte,PA,2.0,1284,1,Hotels,1,Hotels,41,1,7.158513997329321,-0.773
+biz_1980,Business 1980,Pittsburgh,NC,2.5,846,0,Restaurants,0,Restaurants,44,2,6.741700694652055,-0.387
+biz_1981,Business 1981,Pittsburgh,OH,4.5,1992,1,Restaurants,1,Restaurants,44,4,7.597396320212795,1.366
+biz_1982,Business 1982,Las Vegas,NC,3.0,521,1,Bars,1,Bars,37,2,6.257667587882639,0.034
+biz_1983,Business 1983,Phoenix,NV,3.0,1657,1,Bars,1,Bars,43,2,7.4133673356952405,0.034
+biz_1984,Business 1984,Las Vegas,AZ,1.5,371,1,Health,1,Health,43,1,5.918893854273146,-1.225
+biz_1985,Business 1985,Charlotte,NC,1.0,1443,1,Shopping,1,Shopping,38,1,7.275172319452771,-1.718
+biz_1986,Business 1986,Pittsburgh,NC,5.0,101,0,Bars,0,Bars,35,5,4.624972813284271,1.766
+biz_1987,Business 1987,Las Vegas,NV,2.5,661,1,Health,1,Health,43,2,6.495265555937008,-0.356
+biz_1988,Business 1988,Phoenix,AZ,3.5,1978,1,Pizza,1,Pizza,42,3,7.590346945602565,0.484
+biz_1989,Business 1989,Las Vegas,AZ,1.5,1682,1,Restaurants,1,Restaurants,32,1,7.428333194190806,-1.263
+biz_1990,Business 1990,Cleveland,OH,3.5,1889,1,Bars,1,Bars,39,3,7.5443321080536885,0.467
+biz_1991,Business 1991,Phoenix,NC,4.5,968,0,Automotive,0,Automotive,48,4,6.876264611890766,1.339
+biz_1992,Business 1992,Charlotte,AZ,3.5,243,1,Beauty & Spas,1,Beauty & Spas,38,3,5.497168225293202,0.475
+biz_1993,Business 1993,Pittsburgh,AZ,1.5,753,1,Health,1,Health,39,1,6.625392368007956,-1.225
+biz_1994,Business 1994,Las Vegas,PA,3.5,512,0,Restaurants,0,Restaurants,32,3,6.240275845170769,0.49
+biz_1995,Business 1995,Phoenix,PA,4.0,849,1,Bars,1,Bars,43,3,6.745236349484363,0.9
+biz_1996,Business 1996,Cleveland,AZ,2.5,555,1,Hotels,1,Hotels,56,2,6.320768294250582,-0.337
+biz_1997,Business 1997,Phoenix,OH,4.5,1119,1,Health,1,Health,44,4,7.02108396428914,1.383
+biz_1998,Business 1998,Cleveland,AZ,3.5,226,1,Shopping,1,Shopping,34,3,5.424950017481403,0.299
+biz_1999,Business 1999,Charlotte,NV,4.5,1542,1,Bars,1,Bars,26,4,7.341483852363161,1.333
